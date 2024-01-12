@@ -1,0 +1,9 @@
+beautifulsoup4
+chromedriver-py
+lxml
+numpy
+pandas
+pydantic
+pydantic-settings
+requests
+selenium
