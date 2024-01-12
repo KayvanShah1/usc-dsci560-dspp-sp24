@@ -6,8 +6,6 @@ from chromedriver_py import binary_path
 from pydantic_settings import BaseSettings
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-
-# from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -50,14 +48,13 @@ def initialize_driver():
         ],
     }
     options = add_driver_options(driver_config["options"])
-    # chrome_service = ChromeService(executable_path=driver_config["executable_path"])
     driver = webdriver.Chrome(options=options)
     return driver
 
 
 def save_html_page(page: BeautifulSoup, save_to: str):
-    latest_news = page.find("ul", class_="LatestNews-list")
-    market_banner = page.find("div", class_="MarketsBanner-marketData")
+    latest_news = page.find("ul", class_="LatestNews-list").prettify()
+    market_banner = page.find("div", class_="MarketsBanner-marketData").prettify()
 
     # Save the collected data in the raw_data folder
     with open(save_to, "w", encoding="utf-8") as file:
@@ -76,7 +73,14 @@ if __name__ == "__main__":
             EC.visibility_of_element_located((By.CLASS_NAME, "MarketCard-row"))
         )
         page = BeautifulSoup(driver.page_source, "lxml")
-        save_html_page(page, os.path.join(Path.data_dir, "raw_data", "web_data.html"))
+
+        EXTRACTED_HTML_PATH = os.path.join(Path.data_dir, "raw_data", "web_data.html")
+        save_html_page(page, EXTRACTED_HTML_PATH)
+
+        with open(EXTRACTED_HTML_PATH, "r", encoding="utf-8") as f:
+            for _ in range(10):
+                print(f.readline().strip())
+
     except Exception as e:
         logging.error("Unable to fetch data from page: %s", e)
     finally:
