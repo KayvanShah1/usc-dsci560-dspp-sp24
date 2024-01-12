@@ -2,15 +2,15 @@ import logging
 import os
 
 from bs4 import BeautifulSoup
+from chromedriver_py import binary_path
 from pydantic_settings import BaseSettings
-
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
-from chromedriver_py import binary_path
+# from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 
 
 class Path:
@@ -50,6 +50,7 @@ def initialize_driver():
         ],
     }
     options = add_driver_options(driver_config["options"])
+    # chrome_service = ChromeService(executable_path=driver_config["executable_path"])
     driver = webdriver.Chrome(options=options)
     return driver
 
@@ -75,7 +76,7 @@ if __name__ == "__main__":
             EC.visibility_of_element_located((By.CLASS_NAME, "MarketCard-row"))
         )
         page = BeautifulSoup(driver.page_source, "lxml")
-        save_html_page(page.text, os.path.join(Path.data_dir, "raw_data", "web_data.html"))
+        save_html_page(page, os.path.join(Path.data_dir, "raw_data", "web_data.html"))
     except Exception as e:
         logging.error("Unable to fetch data from page: %s", e)
     finally:
