@@ -11,6 +11,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
+logging.basicConfig(level=logging.INFO)
+
 
 class Path:
     file_dir = os.path.dirname(__file__)
@@ -54,13 +56,15 @@ def initialize_driver():
 
 
 def save_html_page(page: BeautifulSoup, save_to: str):
-    logging.info("Saving HTML page...")
+    logging.info("Extracting the market banner HTML tags...")
     market_banner = page.find("div", class_="MarketsBanner-marketData").prettify()
 
+    logging.info("Extracting the latest news panel...")
     response = requests.get(Settings().BASE_URL)
     soup = BeautifulSoup(response.text, "html.parser")
     latest_news = soup.find("ul", class_="LatestNews-list").prettify()
 
+    logging.info("Saving HTML page...")
     # Save the collected data in the raw_data folder
     with open(save_to, "w", encoding="utf-8") as file:
         file.write(str(market_banner))
@@ -87,6 +91,7 @@ if __name__ == "__main__":
         EXTRACTED_HTML_PATH = os.path.join(Path.data_dir, "raw_data", "web_data.html")
         save_html_page(page, EXTRACTED_HTML_PATH)
 
+        logging.info("Printing the first ten lines of HTML file to stdout")
         with open(EXTRACTED_HTML_PATH, "r", encoding="utf-8") as f:
             for _ in range(10):
                 print(f.readline().strip())

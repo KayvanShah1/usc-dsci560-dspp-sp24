@@ -1,8 +1,11 @@
+import logging
 import os
 
 import pandas as pd
 from bs4 import BeautifulSoup
 from pydantic import BaseModel
+
+logging.basicConfig(level=logging.INFO)
 
 
 class Path:
@@ -73,15 +76,20 @@ def filter_market_banner(page):
 
 
 if __name__ == "__main__":
+    logging.info("Reading and parsing the raw HTML file...")
     EXTRACTED_HTML_PATH = os.path.join(Path.data_dir, "raw_data", "web_data.html")
     soup = read_parse_raw_data(EXTRACTED_HTML_PATH)
 
+    logging.info("Filter the latest news feed...")
     latest_news = filter_latest_news(soup)
+    logging.info("Saving the filtered latest news feed data to CSV...")
     pd.DataFrame(latest_news).to_csv(
         os.path.join(Path.processed_data_dir, "news_data.csv"), index=False
     )
 
+    logging.info("Filtering the market banner data...")
     market_banners = filter_market_banner(soup)
+    logging.info("Saving the filtered market data to CSV...")
     pd.DataFrame(market_banners).to_csv(
         os.path.join(Path.processed_data_dir, "market_data.csv"), index=False
     )
