@@ -54,6 +54,7 @@ def initialize_driver():
 
 
 def save_html_page(page: BeautifulSoup, save_to: str):
+    logging.info("Saving HTML page...")
     market_banner = page.find("div", class_="MarketsBanner-marketData").prettify()
 
     response = requests.get(Settings().BASE_URL)
@@ -66,13 +67,18 @@ def save_html_page(page: BeautifulSoup, save_to: str):
         file.write("\n\n")
         file.write(str(latest_news))
 
+    logging.info("Successfully saved the HTML file to %s", save_to)
+
 
 if __name__ == "__main__":
     settings = Settings()
     try:
+        logging.info("Initializing the Chrome WebDriver...")
         driver = initialize_driver()
+        logging.info("Getting the CNBC Web Page...")
         driver.get(settings.BASE_URL)
 
+        logging.info("Waiting for the Market Cards rows to be populated...")
         WebDriverWait(driver, 60).until(
             EC.visibility_of_element_located((By.CLASS_NAME, "MarketCard-row"))
         )
