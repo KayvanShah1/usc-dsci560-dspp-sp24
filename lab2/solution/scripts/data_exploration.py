@@ -1,15 +1,16 @@
 import logging
 import os
 import re
+import shutil
 from typing import List
 from urllib.parse import urljoin, urlsplit
-from tqdm import tqdm
 
 import fitz
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from pydantic import BaseModel
+from tqdm import tqdm
 
 logging.basicConfig(level=logging.INFO)
 
@@ -137,6 +138,9 @@ def scrape_course_page():
 def read_pdf_from_url(url, output_folder):
     try:
         # Create the output folder if it doesn't exist
+        if os.path.exists(output_folder):
+            shutil.rmtree(output_folder)
+
         os.makedirs(output_folder, exist_ok=True)
 
         # Download the PDF file
@@ -146,7 +150,7 @@ def read_pdf_from_url(url, output_folder):
         pdf_document = fitz.open(stream=pdf_data, filetype="pdf")
 
         # Iterate through pages
-        for page_number in range(pdf_document.page_count):
+        for page_number in range(pdf_document.page_count)[:2]:
             # Get text content of the page
             page = pdf_document[page_number]
             text = page.get_text()
