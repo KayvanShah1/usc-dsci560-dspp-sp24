@@ -150,7 +150,7 @@ def read_pdf_from_url(url, output_folder):
         pdf_document = fitz.open(stream=pdf_data, filetype="pdf")
 
         # Iterate through pages
-        for page_number in range(pdf_document.page_count)[:2]:
+        for page_number in range(pdf_document.page_count):
             # Get text content of the page
             page = pdf_document[page_number]
             text = page.get_text()
@@ -161,6 +161,9 @@ def read_pdf_from_url(url, output_folder):
                 output_file.write(text)
 
         logging.info(f"Text files for each page created in `{os.path.relpath(output_folder)}`")
+
+        # Close the PDF document
+        pdf_document.close()
 
     except Exception as e:
         logging.exception(f"Error: {e}")

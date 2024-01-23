@@ -1,0 +1,9 @@
+beautifulsoup4
+lxml
+numpy
+pandas
+pydantic
+pydantic-settings
+PyMuPDF
+requests
+tqdm
