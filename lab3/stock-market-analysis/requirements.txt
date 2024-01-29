@@ -1,0 +1,15 @@
+motor
+numpy
+pandas
+pandas-datareader
+pyarrow
+pydantic
+pydantic-settings
+pymongo
+pymongo[srv]
+pyrate-limiter
+python-dotenv
+requests
+requests-cache
+requests-ratelimiter
+yfinance
