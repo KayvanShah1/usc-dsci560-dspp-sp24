@@ -148,7 +148,7 @@ class PortfolioManager:
         )
 
         if portfolio:
-            portfolio_name = portfolio.get("portfolio_name", "")
+            portfolio_name = portfolio["portfolio_name"]
 
             # Remove the portfolio
             self.portfolios_collection.delete_one({"_id": PyObjectId(portfolio_id)})
