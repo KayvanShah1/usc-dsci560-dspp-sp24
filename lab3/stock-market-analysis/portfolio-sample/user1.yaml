@@ -1,0 +1,29 @@
+tickers:
+  - ticker_code: MSFT
+    name: Microsoft Corporation
+  - ticker_code: AAPL
+    name: Apple Inc.
+  - ticker_code: GOOG
+    name: Alphabet Inc.
+  - ticker_code: AMZN
+    name: Amazon.com, Inc.
+  - ticker_code: NVDA
+    name: NVIDIA Corporation
+  - ticker_code: META
+    name: Meta Platforms, Inc.
+  - ticker_code: CRM
+    name: Salesforce, Inc.
+  - ticker_code: JPM
+    name: JPMorgan Chase & Co.
+  - ticker_code: BAC
+    name: Bank Of America Corporation
+  - ticker_code: MS
+    name: Morgan Stanley
+  - ticker_code: HDB
+    name: HDFC Bank Limited
+  - ticker_code: BAC
+    name: Bank Of America Corporation
+  - ticker_code: C
+    name: Citigroup Inc.
+  - ticker_code: UBS
+    name: UBS Group AG

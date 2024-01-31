@@ -1,0 +1,29 @@
+tickers:
+  - ticker_code: GM
+    name: General Motors Company
+  - ticker_code: F
+    name: Ford Motor Company
+  - ticker_code: RIVN
+    name: Rivian Automotive Inc.
+  - ticker_code: VFS
+    name: VinFast Auto Ltd.
+  - ticker_code: TSLA
+    name: Tesla, Inc.
+  - ticker_code: LCID
+    name: Lucid Group, Inc.
+  - ticker_code: TM
+    name: Toyota Motor Corporation
+  - ticker_code: DIS
+    name: The Walt Disney Company
+  - ticker_code: FOXA
+    name: Fox Corporation
+  - ticker_code: PARAA
+    name: Paramount Global
+  - ticker_code: LGF-B
+    name: Lions Gate Entertainment Corp.
+  - ticker_code: ROKU
+    name: Roku, Inc
+  - ticker_code: NFLX
+    name: Netflix, Inc.
+  - ticker_code: FWONA
+    name: Formula One Group
