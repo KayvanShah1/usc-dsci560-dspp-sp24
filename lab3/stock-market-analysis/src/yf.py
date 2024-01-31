@@ -5,25 +5,47 @@ from pyrate_limiter import Duration, Limiter, RequestRate
 from requests import Session
 from requests_cache import CacheMixin, SQLiteCache
 from requests_ratelimiter import LimiterMixin, MemoryQueueBucket
+from settings import config, get_logger
 
 yf.pdr_override()
 
+logger = get_logger(__name__)
+
 
 class CachedLimiterSession(CacheMixin, LimiterMixin, Session):
-    pass
+    def __init__(self, timeout=None, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.timeout = timeout
+
+    def request(self, *args, **kwargs):
+        # Pass the stored timeout to the request method
+        kwargs["timeout"] = self.timeout
+        return super().request(*args, **kwargs)
 
 
 session = CachedLimiterSession(
     limiter=Limiter(RequestRate(2, Duration.SECOND * 5)),  # max 2 requests per 5 seconds
     bucket_class=MemoryQueueBucket,
-    backend=SQLiteCache("yfinance.cache"),
+    backend=SQLiteCache(config.YFINANCE_CACHE_FILE),
+    timeout=5,
 )
+
+
+def get_ticker_info(ticker_code: str):
+    # Create a Ticker object using yfinance with the provided ticker code and session
+    ticker_info = yf.Ticker(ticker_code, session=session)
+
+    # Retrieve information about the ticker
+    ticker_info = ticker_info.info
+    if "symbol" in ticker_info:
+        return ticker_info
+    else:
+        logger.error("Invalid Ticker code '%s'", ticker_code)
+        raise ValueError("Invalid Ticker code '%s'", ticker_code)
 
 
 def get_ticker_data(ticker_dict: dict, start_date, end_date):
     ticker = ticker_dict["ticker_code"]
-    start_date = 0
-    end_date = 0
     data = pdr.get_data_yahoo(ticker, start=start_date, end=end_date, session=session)
     return data
 

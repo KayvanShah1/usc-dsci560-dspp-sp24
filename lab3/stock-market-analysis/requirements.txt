@@ -2,6 +2,8 @@ motor
 numpy
 pandas
 pandas-datareader
+passlib[bcrypt]
+bcrypt==4.0.1
 pyarrow
 pydantic
 pydantic-settings

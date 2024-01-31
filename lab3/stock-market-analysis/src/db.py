@@ -1,7 +1,9 @@
 from bson import ObjectId
-from motor.motor_asyncio import AsyncIOMotorClient
+
 from pymongo import MongoClient
-from settings import config
+from settings import config, get_logger
+
+logger = get_logger(__name__)
 
 
 # BSON and JSON compatibility addressed here
@@ -26,22 +28,21 @@ def get_collection(db, collection_name: str):
 
 
 try:
-    try:
-        client = AsyncIOMotorClient(config.MONGODB_URI)
-    except Exception:
-        print("""Unable to connect to Async Mongo Motor... Connecting to standard Motor""")
-        client = MongoClient(config.MONGODB_URI)
+    client = MongoClient(config.MONGODB_URI)
 except Exception as e:
-    print("Unable to connect to MongoDB client: %s" % e)
+    logger.error("Unable to connect to MongoDB client: %s" % e)
 
 # Create DB cursors
 main_db = client["yf_panels"]
-ticker_db = client["yf_stock_tickers"]
+ticker_db = client["yf_stock_ticker_data"]
 
 # Get collections
 
 users_collection = get_collection(main_db, "users")
 # Add unique index to the "username.root" field
 users_collection.create_index([("username", 1)], unique=True)
+
+tickers_collection = get_collection(main_db, "tickers")
+tickers_collection.create_index([("ticker_code", 1)], unique=True)
 
 portfolios_collection = get_collection(main_db, "portfolios")

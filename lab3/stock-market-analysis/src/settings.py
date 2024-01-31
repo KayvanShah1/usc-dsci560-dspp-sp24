@@ -1,6 +1,9 @@
 import os
 from functools import lru_cache
 
+import logging
+
+from passlib.context import CryptContext
 from pydantic import Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
@@ -17,6 +20,40 @@ class Settings(BaseSettings):
     )
 
     MONGODB_URI: str = Field()
+    YFINANCE_CACHE_FILE: str = Field(
+        default=os.path.relpath(os.path.join(Path.root_dir, "yfinance.cache"))
+    )
+
+
+pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+
+
+def verify_password(plain_password, hashed_password):
+    return pwd_context.verify(plain_password, hashed_password)
+
+
+def get_password_hash(password: str):
+    return pwd_context.hash(password)
+
+
+def get_logger(name):
+    # Create a logger
+    logger = logging.getLogger(name)
+
+    # Set the logging level (adjust as needed)
+    logger.setLevel(logging.DEBUG)
+
+    # Create a console handler and set the level
+    ch = logging.StreamHandler()
+    ch.setLevel(logging.DEBUG)
+
+    # Create a formatter and add it to the handler
+    formatter = logging.Formatter("%(asctime)s | %(levelname)s:%(name)s - %(message)s")
+    ch.setFormatter(formatter)
+
+    # Add the handler to the logger
+    logger.addHandler(ch)
+    return logger
 
 
 @lru_cache
