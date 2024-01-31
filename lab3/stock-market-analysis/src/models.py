@@ -1,8 +1,9 @@
 from datetime import datetime
 from typing import List, Optional
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, RootModel
 
+from db import PyObjectId
 from settings import config
 
 
@@ -31,6 +32,9 @@ class TickerBase(BaseModel):
     exchange: Optional[str] | None = None
 
 
+TickerBaseListModel = RootModel[List[TickerBase]]
+
+
 class TickerUpdateModel(TickerBase):
     updated_at: Optional[datetime | None] = None
 
@@ -39,6 +43,9 @@ class TickerSummaryModel(BaseModel):
     name: str
     ticker_code: str
     exchange: Optional[str] | None = None
+
+
+TickerSummaryListModel = RootModel[List[TickerSummaryModel]]
 
 
 class OHLCModel(BaseModel):
@@ -58,12 +65,17 @@ class TickerDataModel(BaseModel):
 class PortfolioModel(BaseModel):
     username: str
     portfolio_name: str
-    tickers: List[TickerSummaryModel]
+    tickers: Optional[List[TickerSummaryModel]] = None
     created_at: datetime
-    updated_at: Optional[datetime]
+    updated_at: Optional[datetime | None] = None
 
 
 class PortfolioPreviewModel(BaseModel):
-    username: str
+    id: PyObjectId = Field(..., alias="_id")
     portfolio_name: str
-    tickers: List[TickerSummaryModel]
+    tickers: Optional[List[TickerSummaryModel]]
+    created_at: datetime
+    updated_at: Optional[datetime | None] = None
+
+
+PortfolioListModel = RootModel[List[PortfolioPreviewModel]]

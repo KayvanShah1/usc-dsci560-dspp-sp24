@@ -1,11 +1,11 @@
+import logging
 import os
 from functools import lru_cache
-
-import logging
 
 from passlib.context import CryptContext
 from pydantic import Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
+from rich.logging import RichHandler
 
 
 class Path:
@@ -44,11 +44,11 @@ def get_logger(name):
     logger.setLevel(logging.DEBUG)
 
     # Create a console handler and set the level
-    ch = logging.StreamHandler()
+    ch = RichHandler()
     ch.setLevel(logging.DEBUG)
 
     # Create a formatter and add it to the handler
-    formatter = logging.Formatter("%(asctime)s | %(levelname)s:%(name)s - %(message)s")
+    formatter = logging.Formatter("%(message)s")
     ch.setFormatter(formatter)
 
     # Add the handler to the logger

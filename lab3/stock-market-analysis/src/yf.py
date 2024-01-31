@@ -1,5 +1,6 @@
 import pandas as pd
 import yfinance as yf
+from models import TickerSummaryModel
 from pandas_datareader import data as pdr
 from pyrate_limiter import Duration, Limiter, RequestRate
 from requests import Session
@@ -27,18 +28,23 @@ session = CachedLimiterSession(
     limiter=Limiter(RequestRate(2, Duration.SECOND * 5)),  # max 2 requests per 5 seconds
     bucket_class=MemoryQueueBucket,
     backend=SQLiteCache(config.YFINANCE_CACHE_FILE),
-    timeout=5,
+    timeout=15,
 )
 
 
 def get_ticker_info(ticker_code: str):
     # Create a Ticker object using yfinance with the provided ticker code and session
-    ticker_info = yf.Ticker(ticker_code, session=session)
+    ticker_info = yf.Ticker(ticker_code)
 
     # Retrieve information about the ticker
     ticker_info = ticker_info.info
     if "symbol" in ticker_info:
-        return ticker_info
+        ticker_info = TickerSummaryModel(
+            ticker_code=ticker_info["symbol"],
+            name=ticker_info["shortName"],
+            exchange=ticker_info["exchange"],
+        )
+        return ticker_info.model_dump()
     else:
         logger.error("Invalid Ticker code '%s'", ticker_code)
         raise ValueError("Invalid Ticker code '%s'", ticker_code)
