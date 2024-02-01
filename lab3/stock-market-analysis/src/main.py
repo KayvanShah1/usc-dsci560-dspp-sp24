@@ -1,7 +1,9 @@
 import argparse
 from datetime import datetime
 
-from manager import InvalidUserException, PortfolioManager, UserManager
+import pandas as pd
+
+from manager import InvalidUserException, PortfolioManager, TickerDataManager, UserManager
 from models import PortfolioModel, UserBase
 from rich.pretty import pretty_repr
 from settings import get_logger, get_password_hash
@@ -100,6 +102,26 @@ def list_all_portfolios(args):
 
 
 ###################################################################################################
+# Ticker Data Management
+###################################################################################################
+def get_stock_market_data(args):
+    user_manager = UserManager()
+    is_verified = user_manager.verify_user(args.username, args.password)
+    if is_verified:
+        ticker_data = TickerDataManager.get_stock_data(
+            "AAPL",
+            start_date=datetime.strptime(args.start_date, "%Y-%m-%d") if args.start_date else None,
+            end_date=(
+                datetime.strptime(args.end_date, "%Y-%m-%d") if args.end_date else datetime.utcnow()
+            ),
+        )
+        logger.info(pd.DataFrame(ticker_data))
+    else:
+        raise InvalidUserException("Invalid username or password")
+    return
+
+
+###################################################################################################
 # Command Line Toolkit
 ###################################################################################################
 def main():
@@ -186,8 +208,41 @@ def main():
     add_stock_parser.add_argument("--ticker_code", type=str, required=True, help="Ticker code")
     add_stock_parser.add_argument("--portfolio_id", type=str, required=True, help="Portfolio ID")
 
+    ###############################################################################################
+    # Create parser for the "market-data" command
+    ###############################################################################################
+    market_parser = subparsers.add_parser("market-data", help="Fetch market data commands")
+    market_subparsers = market_parser.add_subparsers(
+        dest="subcommand", help="Available subcommands"
+    )
+
+    # Subparser for the "add_stock" command
+    fetch_stock_data_parser = market_subparsers.add_parser(
+        "fetch-stock-data", help="Add a stock to a portfolio"
+    )
+    fetch_stock_data_parser.add_argument("--username", type=str, required=True, help="Username")
+    fetch_stock_data_parser.add_argument(
+        "--password", type=str, required=True, help="User's password"
+    )
+    fetch_stock_data_parser.add_argument(
+        "--ticker_code", type=str, required=True, help="Ticker code"
+    )
+    fetch_stock_data_parser.add_argument(
+        "--start_date", type=str, required=False, help="Start date", default=None
+    )
+    fetch_stock_data_parser.add_argument(
+        "--end_date",
+        type=str,
+        required=False,
+        help="End date",
+        default=datetime.utcnow().strftime("%Y-%m-%d"),
+    )
+
+    ###############################################################################################
     # Parse the command-line arguments
+    ###############################################################################################
     args = parser.parse_args()
+
     # Dispatch to the appropriate function based on the subcommand
     if args.command == "user":
         if args.subcommand == "create":
@@ -197,7 +252,6 @@ def main():
         else:
             logger.error("Invalid subcommand. Use 'create' or 'get-info'.")
 
-    # Dispatch to the appropriate function based on the subcommand
     if args.command == "portfolio":
         if args.subcommand == "create":
             create_portfolio(args)
@@ -214,6 +268,12 @@ def main():
                 "Invalid portfolio subcommand. Use 'create', 'remove', 'add-stock', 'remove-stock',"
                 " or 'list-all'."
             )
+
+    if args.command == "market-data":
+        if args.subcommand == "fetch-stock-data":
+            get_stock_market_data(args)
+        else:
+            logger.error("Invalid subcommand. Use 'fetch-stock-data'.")
 
 
 if __name__ == "__main__":

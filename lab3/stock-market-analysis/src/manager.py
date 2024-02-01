@@ -207,6 +207,11 @@ class TickerDataManager:
     ):
         ticker_info = TickerInfoManager.get_ticker_details(ticker_code)
         ticker_data_collection = ticker_db[ticker_info["ticker_code"]]
+
+        logger.info(
+            f"Fetching data for stock '{ticker_info['name']} ({ticker_info['ticker_code']})'"
+        )
+
         ticker_data_collection.create_index([("datetime", pymongo.ASCENDING)], unique=True)
         try:
             # Check if ticker_data_collection has data
@@ -227,7 +232,7 @@ class TickerDataManager:
                 if most_recent_date:
                     most_recent_date = most_recent_date["datetime"]
 
-                    if (end_date - most_recent_date).days > 0:
+                    if (end_date.date() - most_recent_date.date()).days > 0:
                         logger.info(
                             f"Fetching additional data for '{ticker_code}' from"
                             f" {most_recent_date + timedelta(days=1)} to {end_date}."
@@ -249,7 +254,7 @@ class TickerDataManager:
                             # Ingest data into the database
                             ticker_data_collection.insert_many(additional_data.model_dump()["data"])
                     else:
-                        logger.info(
+                        logger.debug(
                             f"No additional data needed for '{ticker_code}'. Most recent data is up"
                             " to date. Fetching data from the database."
                         )
@@ -259,14 +264,14 @@ class TickerDataManager:
 
                     if start_date is None:
                         comparator = datetime.strptime("1600-01-01", "%Y-%m-%d")
-                        diff = most_historical_date - comparator
+                        diff = most_historical_date.date() - comparator.date()
                     else:
-                        diff = most_historical_date - start_date
+                        diff = most_historical_date.date() - start_date.date()
 
                     if diff.days > 0:
                         logger.info(
                             f"Fetching old historical data for '{ticker_code}' from"
-                            f"{start_date} to {most_historical_date - timedelta(days=1)}."
+                            f" {start_date} to {most_historical_date - timedelta(days=1)}."
                         )
                         additional_data = get_ticker_data(
                             ticker_info["ticker_code"],
@@ -285,7 +290,7 @@ class TickerDataManager:
                             # Ingest data into the database
                             ticker_data_collection.insert_many(additional_data.model_dump()["data"])
                     else:
-                        logger.info(
+                        logger.debug(
                             f"No old historical data needed for '{ticker_code}'. Most recent data"
                             " is up to date. Fetching data from the database."
                         )
@@ -323,50 +328,3 @@ class TickerDataManager:
 
         except Exception as e:
             logger.exception(f"Error processing ticker data: '{ticker_code}'. {e}")
-
-
-# pm = PortfolioManager(username="john_doe")
-
-# p1 = pm.create_portfolio(
-#     PortfolioModel(
-#         username=pm.username,
-#         portfolio_name="portfolio198",
-#         # tickers: Optional[List[TickerSummaryModel]] = None
-#         created_at=datetime.utcnow(),
-#     )
-# )
-
-# p2 = pm.create_portfolio(
-#     PortfolioModel(
-#         username=pm.username,
-#         portfolio_name="portfolio2",
-#         # tickers: Optional[List[TickerSummaryModel]] = None
-#         created_at=datetime.utcnow(),
-#     )
-# )
-
-# p3 = pm.create_portfolio(
-#     PortfolioModel(
-#         username=pm.username,
-#         portfolio_name="portfolio3",
-#         # tickers: Optional[List[TickerSummaryModel]] = None
-#         created_at=datetime.utcnow(),
-#     )
-# )
-
-# pm.add_stock("AAPL", "65ba1f98a59d90bf7bb83d98")
-# pm.add_stock("AADI", "65ba1ff4bc2652f71f8f5ae4")
-# pm.add_stock("ADANIPORTS.NS", "65ba1ff4bc2652f71f8f5ae4")
-# # pm.remove_stock("AADI", "65ba0a9fe4178f1bf53babaa")
-
-# p = pm.get_portfolios()
-# print(p.model_dump())
-
-# import pandas as pd
-
-# data = TickerDataManager.get_stock_data(
-#     "AAPL",
-#     start_date=datetime.strptime("2012-01-01", "%Y-%m-%d"),
-#     end_date=datetime.strptime("2015-01-01", "%Y-%m-%d"),
-# )
-# print(pd.DataFrame(data))
