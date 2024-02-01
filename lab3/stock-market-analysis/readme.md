@@ -8,7 +8,6 @@ source venv/bin/activate  # or "venv\Scripts\activate" on Windows
 ```
 - To install the necessary libraries
 ```bash
-cd src
 pip install -r requirements.txt
 ```
 - Create `.env` at the same level as `/src` directory. Add the follwing environment variables
