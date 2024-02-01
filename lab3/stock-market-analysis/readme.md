@@ -11,6 +11,10 @@ source venv/bin/activate  # or "venv\Scripts\activate" on Windows
 cd src
 pip install -r requirements.txt
 ```
+- Create `.env` at the same level as `/src` directory. Add the follwing environment variables
+```bash
+MONGODB_URI=<your_cluster_uri>
+```
 
 ## Command line help
 ### Entry point
@@ -79,7 +83,7 @@ options:
   -h, --help          show this help message and exit
 ```
 
-### For usage individual commands
+### For usage of individual commands
 ```bash
 python main.py <command> <subcommand> --help
 ```
