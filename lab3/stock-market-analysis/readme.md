@@ -12,8 +12,95 @@ cd src
 pip install -r requirements.txt
 ```
 
-## Commands
+## Command line help
+### Entry point
+```bash
+$ python main.py --help
+usage: main.py [-h] {user,portfolio,market-data} ...
+
+Command-line interface for Stock Market Analysis Application
+
+positional arguments:
+  {user,portfolio,market-data}
+                        Available commands
+    user                User management commands
+    portfolio           Portfolio management commands
+    market-data         Fetch market data commands
+
+options:
+  -h, --help            show this help message and exit
+```
+
+### User Management
+```bash
+$ python main.py user --help
+usage: main.py user [-h] {create,get-info} ...
+
+positional arguments:
+  {create,get-info}  Available user management subcommands
+    create           Create a new user
+    get-info         Get user information
+
+options:
+  -h, --help         show this help message and exit
+```
+
+### Portfolio Management
+```bash
+$ python main.py portfolio --help
+usage: main.py portfolio [-h] {create,remove,list-all,fetch-one,add-stock,remove-stock,fetch-portfolio-data} ...
+
+positional arguments:
+  {create,remove,list-all,fetch-one,add-stock,remove-stock,fetch-portfolio-data}
+                        Available subcommands
+    create              Create a new portfolio
+    remove              Remove a portfolio
+    list-all            List all stock portfolios for a user
+    fetch-one           Fetch one stock portfolio information by id
+    add-stock           Add a stock to a portfolio
+    remove-stock        Remove a stock from a portfolio
+    fetch-portfolio-data
+                        Fetch stocks data for a portfolio by id
+
+options:
+  -h, --help            show this help message and exit
+```
+
+### Market Data
+```bash
+$ python main.py market-data --help
+usage: main.py market-data [-h] {fetch-stock-data} ...
+
+positional arguments:
+  {fetch-stock-data}  Available subcommands
+    fetch-stock-data  Add a stock to a portfolio
+
+options:
+  -h, --help          show this help message and exit
+```
+
+### For usage individual commands
+```bash
+python main.py <command> <subcommand> --help
+```
+
+## Example usage
 To run the commands stay in the `src` directory
+
+### Directions
+- Below commands are run while testing some data may or may not be available so you may recieve an error. It recommended that you start fresh 
+    - Creating a new user
+        - Get your user info
+    - Create a portfolio for the user
+        - List all the portfolio of the user to get the portfolio id
+        - Retrieve info about the portfolio using that id
+    - Add a few stocks to the portfolio
+        - To find the stock symbols go to the `Yahoo Finance Website` and search for the symbol
+    - Fetch all the data for the stocks
+    - Remove a stock
+    - Again retrive your portfolio by id
+    - Remove your portfolio
+    - Now try fetching data for a stock wihout user verification using `market-data` command
 
 ### User Management
 - Create a new user
