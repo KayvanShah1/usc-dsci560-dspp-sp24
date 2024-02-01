@@ -99,6 +99,17 @@ class PortfolioManager:
         portfolios_list = list(portfolios)
         return PortfolioListModel(portfolios_list)
 
+    def get_portfolio_by_id(self, portfolio_id: str):
+        portfolio = self.portfolios_collection.find_one(
+            {"username": self.username, "_id": PyObjectId(portfolio_id)}
+        )
+        if portfolio:
+            return PortfolioPreviewModel(portfolio)
+        else:
+            logger.error(
+                f"Portfolio with id '{portfolio_id}' not found. Please retry with correct id."
+            )
+
     def add_stock(self, ticker_code: str, portfolio_id: str):
         portfolio = self.portfolios_collection.find_one(
             {"username": self.username, "_id": PyObjectId(portfolio_id)}, {"_id": 0}

@@ -101,6 +101,44 @@ def list_all_portfolios(args):
         raise InvalidUserException("Invalid username or password")
 
 
+def fetch_stocks_data_portfolio(args):
+    user_manager = UserManager()
+    is_verified = user_manager.verify_user(args.username, args.password)
+    if is_verified:
+        portfolio_manager = PortfolioManager(username=args.username)
+        portfolio = portfolio_manager.get_portfolio_by_id(
+            portfolio_id=args.portfolio_id
+        ).model_dump()
+
+        for stocks in portfolio["tickers"]:
+            ticker_data = TickerDataManager.get_stock_data(
+                ticker_code=stocks["ticker_code"],
+                start_date=(
+                    datetime.strptime(args.start_date, "%Y-%m-%d") if args.start_date else None
+                ),
+                end_date=(
+                    datetime.strptime(args.end_date, "%Y-%m-%d")
+                    if args.end_date
+                    else datetime.utcnow()
+                ),
+            )
+            logger.info(pd.DataFrame(ticker_data))
+    else:
+        raise InvalidUserException("Invalid username or password")
+
+
+def fetch_portfolio_by_id(args):
+    user_manager = UserManager()
+    is_verified = user_manager.verify_user(args.username, args.password)
+    if is_verified:
+        portfolio_manager = PortfolioManager(username=args.username)
+        portfolio = portfolio_manager.get_portfolio_by_id(portfolio_id=args.portfolio_id)
+        if portfolio:
+            logger.info(f"User's Portfolio:\n{pretty_repr(portfolio.model_dump())}")
+    else:
+        raise InvalidUserException("Invalid username or password")
+
+
 ###################################################################################################
 # Ticker Data Management
 ###################################################################################################
@@ -109,7 +147,7 @@ def get_stock_market_data(args):
     is_verified = user_manager.verify_user(args.username, args.password)
     if is_verified:
         ticker_data = TickerDataManager.get_stock_data(
-            "AAPL",
+            ticker_code=args.ticker_code,
             start_date=datetime.strptime(args.start_date, "%Y-%m-%d") if args.start_date else None,
             end_date=(
                 datetime.strptime(args.end_date, "%Y-%m-%d") if args.end_date else datetime.utcnow()
@@ -118,7 +156,6 @@ def get_stock_market_data(args):
         logger.info(pd.DataFrame(ticker_data))
     else:
         raise InvalidUserException("Invalid username or password")
-    return
 
 
 ###################################################################################################
@@ -190,6 +227,18 @@ def main():
         "--password", type=str, required=True, help="User's password"
     )
 
+    # Subparser for the "fetch_portfolio_by_id" command
+    fetch_portfolio_parser = portfolio_subparsers.add_parser(
+        "fetch-one", help="Fetch one stock portfolio by id for a user"
+    )
+    fetch_portfolio_parser.add_argument("--username", type=str, required=True, help="Username")
+    fetch_portfolio_parser.add_argument(
+        "--password", type=str, required=True, help="User's password"
+    )
+    fetch_portfolio_parser.add_argument(
+        "--portfolio_id", type=str, required=True, help="Portfolio ID"
+    )
+
     # Subparser for the "add_stock" command
     add_stock_parser = portfolio_subparsers.add_parser(
         "add-stock", help="Add a stock to a portfolio"
@@ -207,6 +256,18 @@ def main():
     add_stock_parser.add_argument("--password", type=str, required=True, help="User's password")
     add_stock_parser.add_argument("--ticker_code", type=str, required=True, help="Ticker code")
     add_stock_parser.add_argument("--portfolio_id", type=str, required=True, help="Portfolio ID")
+
+    # Subparser for the "fetch_portfolio_by_id" command
+    fetch_portfolio_data_parser = portfolio_subparsers.add_parser(
+        "fetch-portfolio-data", help="Fetch stocks for a portfolio by id"
+    )
+    fetch_portfolio_data_parser.add_argument("--username", type=str, required=True, help="Username")
+    fetch_portfolio_data_parser.add_argument(
+        "--password", type=str, required=True, help="User's password"
+    )
+    fetch_portfolio_data_parser.add_argument(
+        "--portfolio_id", type=str, required=True, help="Portfolio ID"
+    )
 
     ###############################################################################################
     # Create parser for the "market-data" command
@@ -263,10 +324,14 @@ def main():
             remove_stock(args)
         elif args.subcommand == "list-all":
             list_all_portfolios(args)
+        elif args.subcommand == "fetch-one":
+            fetch_portfolio_by_id(args)
+        elif args.subcommand == "fetch-portfolio-data":
+            fetch_stocks_data_portfolio(args)
         else:
             logger.error(
                 "Invalid portfolio subcommand. Use 'create', 'remove', 'add-stock', 'remove-stock',"
-                " or 'list-all'."
+                " 'fetch-one' or 'list-all'."
             )
 
     if args.command == "market-data":
