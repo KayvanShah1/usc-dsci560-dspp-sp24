@@ -35,8 +35,8 @@ class TickerBase(BaseModel):
 TickerBaseListModel = RootModel[List[TickerBase]]
 
 
-class TickerUpdateModel(TickerBase):
-    updated_at: Optional[datetime | None] = None
+class TickerInfoUpdateModel(BaseModel):
+    updated_at: datetime
 
 
 class TickerSummaryModel(BaseModel):

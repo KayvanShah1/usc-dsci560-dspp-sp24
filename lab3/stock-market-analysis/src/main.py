@@ -31,7 +31,9 @@ def get_user_info(args):
         user_info = user_manager.get_user_details(args.username)
         logger.info(f"User Information: {user_info.model_dump_json()}")
     else:
-        raise InvalidUserException("Invalid username or password")
+        raise InvalidUserException(
+            "Invalid username or password. If you do not have an account try creating a new user."
+        )
 
 
 ###################################################################################################

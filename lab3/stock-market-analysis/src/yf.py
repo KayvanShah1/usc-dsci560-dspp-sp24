@@ -1,3 +1,5 @@
+from datetime import datetime
+
 import pandas as pd
 import yfinance as yf
 from models import TickerSummaryModel
@@ -50,9 +52,11 @@ def get_ticker_info(ticker_code: str):
         raise ValueError("Invalid Ticker code '%s'", ticker_code)
 
 
-def get_ticker_data(ticker_dict: dict, start_date, end_date):
-    ticker = ticker_dict["ticker_code"]
-    data = pdr.get_data_yahoo(ticker, start=start_date, end=end_date, session=session)
+def get_ticker_data(ticker_code: str, start_date=None, end_date=datetime.today()):
+    if start_date is not None:
+        data = pdr.get_data_yahoo(ticker_code, start=start_date, end=end_date, session=session)
+    else:
+        data = pdr.get_data_yahoo(ticker_code, end=end_date, session=session)
     return data
 
 
@@ -61,11 +65,12 @@ def clean_ticker_data(df):
     df.columns = [col.lower().replace(" ", "_") for col in df.columns]
     df["date"] = pd.to_datetime(df["date"], errors="coerce")
     df = df.sort_values(by="date", ascending=True)
+    df.rename(columns={"date": "datetime"}, inplace=True)
     return df
 
 
 def resample(df):
-    df = df.set_index("date")
+    df = df.set_index("datetime")
     df = df.resample("D").asfreq()
     return df
 

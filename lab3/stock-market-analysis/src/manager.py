@@ -1,15 +1,25 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 
-from db import PyObjectId, portfolios_collection, tickers_info_collection, users_collection
+import pymongo
+from db import (
+    PyObjectId,
+    portfolios_collection,
+    ticker_db,
+    tickers_info_collection,
+    users_collection,
+)
 from models import (
     PortfolioListModel,
     PortfolioModel,
     PortfolioPreviewModel,
+    TickerDataModel,
+    TickerInfoUpdateModel,
+    TickerSummaryModel,
     UserBase,
     UserDetailsModel,
 )
 from settings import get_logger, verify_password
-from yf import get_ticker_info
+from yf import basic_preprocess, clean_ticker_data, get_ticker_data, get_ticker_info, resample
 
 logger = get_logger(__name__)
 
@@ -173,12 +183,149 @@ class TickerInfoManager:
             tickers_info_collection.insert_one(t_info)
         return t_info
 
+    @staticmethod
+    def update_ticker_details(ticker_code: str):
+        ticker_update_data = TickerInfoUpdateModel(updated_at=datetime.utcnow())
+        result = tickers_info_collection.update_one(
+            {"ticker_code": ticker_code}, {"$set": ticker_update_data.model_dump()}
+        )
+        # Verify the update was successful
+        if result.modified_count > 0:
+            updated_ticker = tickers_info_collection.find_one({"ticker_code": ticker_code})
+            updated_ticker = TickerSummaryModel(**updated_ticker)
+            logger.info(
+                f"Updated ticker details for '{ticker_code}': {updated_ticker.model_dump()}"
+            )
+
 
 class TickerDataManager:
-    None
+    @staticmethod
+    def get_stock_data(
+        ticker_code: str,
+        start_date: datetime = None,
+        end_date: datetime = datetime.utcnow(),
+    ):
+        ticker_info = TickerInfoManager.get_ticker_details(ticker_code)
+        ticker_data_collection = ticker_db[ticker_info["ticker_code"]]
+        ticker_data_collection.create_index([("datetime", pymongo.ASCENDING)], unique=True)
+        try:
+            # Check if ticker_data_collection has data
+            if ticker_data_collection.count_documents({}) > 0:
+                # Get the most recent date in the data
+                most_recent_date = ticker_data_collection.find_one(
+                    {},
+                    sort=[("datetime", pymongo.DESCENDING)],
+                    projection={"datetime": True},
+                )
+
+                most_historical_date = ticker_data_collection.find_one(
+                    {},
+                    sort=[("datetime", pymongo.ASCENDING)],
+                    projection={"datetime": True},
+                )
+
+                if most_recent_date:
+                    most_recent_date = most_recent_date["datetime"]
+
+                    if (end_date - most_recent_date).days > 0:
+                        logger.info(
+                            f"Fetching additional data for '{ticker_code}' from"
+                            f" {most_recent_date + timedelta(days=1)} to {end_date}."
+                        )
+                        additional_data = get_ticker_data(
+                            ticker_info["ticker_code"],
+                            start_date=most_recent_date + timedelta(days=1),
+                            end_date=end_date,
+                        )
+
+                        if not additional_data.empty:
+                            additional_data = clean_ticker_data(additional_data)
+                            additional_data = resample(additional_data)
+                            additional_data = basic_preprocess(additional_data)
+                            additional_data = TickerDataModel(
+                                data=additional_data.to_dict("records")
+                            )
+
+                            # Ingest data into the database
+                            ticker_data_collection.insert_many(additional_data.model_dump()["data"])
+                    else:
+                        logger.info(
+                            f"No additional data needed for '{ticker_code}'. Most recent data is up"
+                            " to date. Fetching data from the database."
+                        )
+
+                if most_historical_date:
+                    most_historical_date = most_historical_date["datetime"]
+
+                    if start_date is None:
+                        comparator = datetime.strptime("1600-01-01", "%Y-%m-%d")
+                        diff = most_historical_date - comparator
+                    else:
+                        diff = most_historical_date - start_date
+
+                    if diff.days > 0:
+                        logger.info(
+                            f"Fetching old historical data for '{ticker_code}' from"
+                            f"{start_date} to {most_historical_date - timedelta(days=1)}."
+                        )
+                        additional_data = get_ticker_data(
+                            ticker_info["ticker_code"],
+                            start_date=start_date,
+                            end_date=most_historical_date - timedelta(days=1),
+                        )
+
+                        if not additional_data.empty:
+                            additional_data = clean_ticker_data(additional_data)
+                            additional_data = resample(additional_data)
+                            additional_data = basic_preprocess(additional_data)
+                            additional_data = TickerDataModel(
+                                data=additional_data.to_dict("records")
+                            )
+
+                            # Ingest data into the database
+                            ticker_data_collection.insert_many(additional_data.model_dump()["data"])
+                    else:
+                        logger.info(
+                            f"No old historical data needed for '{ticker_code}'. Most recent data"
+                            " is up to date. Fetching data from the database."
+                        )
+
+            else:
+                logger.warning(
+                    f"Most recent date not found in '{ticker_code}' data collection. Fetching"
+                    " full data."
+                )
+                # Fetch data based on the user's request
+                df = get_ticker_data(
+                    ticker_info["ticker_code"], start_date=start_date, end_date=end_date
+                )
+                df = clean_ticker_data(df)
+                df = resample(df)
+                df = basic_preprocess(df)
+
+                df = TickerDataModel(data=df.to_dict("records"))
+
+                # Ingest data into the database
+                ticker_data_collection.insert_many(df.model_dump()["data"])
+
+                logger.info(f"Fetched data for '{ticker_code}'. Most recent data is updated.")
+
+                # Update ticker_info with the latest update time
+                TickerInfoManager.update_ticker_details(ticker_info["ticker_code"])
+
+            date_query = {"datetime": {"$lte": end_date}}
+            if start_date is not None:
+                date_query["datetime"]["$gte"] = start_date
+
+            ticker_data = ticker_data_collection.find(date_query, {"_id": 0})
+
+            return list(ticker_data)
+
+        except Exception as e:
+            logger.exception(f"Error processing ticker data: '{ticker_code}'. {e}")
 
 
-pm = PortfolioManager(username="john_doe")
+# pm = PortfolioManager(username="john_doe")
 
 # p1 = pm.create_portfolio(
 #     PortfolioModel(
@@ -214,3 +361,12 @@ pm = PortfolioManager(username="john_doe")
 
 # p = pm.get_portfolios()
 # print(p.model_dump())
+
+# import pandas as pd
+
+# data = TickerDataManager.get_stock_data(
+#     "AAPL",
+#     start_date=datetime.strptime("2012-01-01", "%Y-%m-%d"),
+#     end_date=datetime.strptime("2015-01-01", "%Y-%m-%d"),
+# )
+# print(pd.DataFrame(data))
