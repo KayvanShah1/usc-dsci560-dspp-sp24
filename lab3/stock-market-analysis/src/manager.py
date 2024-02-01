@@ -104,7 +104,7 @@ class PortfolioManager:
             {"username": self.username, "_id": PyObjectId(portfolio_id)}
         )
         if portfolio:
-            return PortfolioPreviewModel(portfolio)
+            return PortfolioPreviewModel(**portfolio)
         else:
             logger.error(
                 f"Portfolio with id '{portfolio_id}' not found. Please retry with correct id."

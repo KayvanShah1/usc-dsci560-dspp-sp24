@@ -106,23 +106,23 @@ def fetch_stocks_data_portfolio(args):
     is_verified = user_manager.verify_user(args.username, args.password)
     if is_verified:
         portfolio_manager = PortfolioManager(username=args.username)
-        portfolio = portfolio_manager.get_portfolio_by_id(
-            portfolio_id=args.portfolio_id
-        ).model_dump()
+        portfolio = portfolio_manager.get_portfolio_by_id(portfolio_id=args.portfolio_id)
 
-        for stocks in portfolio["tickers"]:
-            ticker_data = TickerDataManager.get_stock_data(
-                ticker_code=stocks["ticker_code"],
-                start_date=(
-                    datetime.strptime(args.start_date, "%Y-%m-%d") if args.start_date else None
-                ),
-                end_date=(
-                    datetime.strptime(args.end_date, "%Y-%m-%d")
-                    if args.end_date
-                    else datetime.utcnow()
-                ),
-            )
-            logger.info(pd.DataFrame(ticker_data))
+        if portfolio:
+            portfolio = portfolio.model_dump()
+            for stocks in portfolio["tickers"]:
+                ticker_data = TickerDataManager.get_stock_data(
+                    ticker_code=stocks["ticker_code"],
+                    start_date=(
+                        datetime.strptime(args.start_date, "%Y-%m-%d") if args.start_date else None
+                    ),
+                    end_date=(
+                        datetime.strptime(args.end_date, "%Y-%m-%d")
+                        if args.end_date
+                        else datetime.utcnow()
+                    ),
+                )
+                logger.info(pd.DataFrame(ticker_data))
     else:
         raise InvalidUserException("Invalid username or password")
 
@@ -229,7 +229,7 @@ def main():
 
     # Subparser for the "fetch_portfolio_by_id" command
     fetch_portfolio_parser = portfolio_subparsers.add_parser(
-        "fetch-one", help="Fetch one stock portfolio by id for a user"
+        "fetch-one", help="Fetch one stock portfolio information by id"
     )
     fetch_portfolio_parser.add_argument("--username", type=str, required=True, help="Username")
     fetch_portfolio_parser.add_argument(
@@ -257,9 +257,9 @@ def main():
     add_stock_parser.add_argument("--ticker_code", type=str, required=True, help="Ticker code")
     add_stock_parser.add_argument("--portfolio_id", type=str, required=True, help="Portfolio ID")
 
-    # Subparser for the "fetch_portfolio_by_id" command
+    # Subparser for the "fetch_stocks_data_portfolio" command
     fetch_portfolio_data_parser = portfolio_subparsers.add_parser(
-        "fetch-portfolio-data", help="Fetch stocks for a portfolio by id"
+        "fetch-portfolio-data", help="Fetch stocks data for a portfolio by id"
     )
     fetch_portfolio_data_parser.add_argument("--username", type=str, required=True, help="Username")
     fetch_portfolio_data_parser.add_argument(
@@ -267,6 +267,16 @@ def main():
     )
     fetch_portfolio_data_parser.add_argument(
         "--portfolio_id", type=str, required=True, help="Portfolio ID"
+    )
+    fetch_portfolio_data_parser.add_argument(
+        "--start_date", type=str, required=False, help="Start date", default=None
+    )
+    fetch_portfolio_data_parser.add_argument(
+        "--end_date",
+        type=str,
+        required=False,
+        help="End date",
+        default=datetime.utcnow().strftime("%Y-%m-%d"),
     )
 
     ###############################################################################################
