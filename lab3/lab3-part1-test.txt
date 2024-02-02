@@ -1,0 +1,56 @@
+# Create a new user
+python main.py user create --username john_smith --first_name John --last_name Smith --password john_123
+python main.py user get-info --username john_smith --password john_123
+
+# Create Portfolios
+
+# Portfolio #1
+python main.py portfolio create --username john_smith --password john_123 --portfolio_name my_first_portfolio
+python main.py portfolio add-stock --username  john_smith --password  john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code PTON
+python main.py portfolio add-stock --username  john_smith --password  john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code MSFT
+python main.py portfolio add-stock --username  john_smith --password  john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code TSLA
+
+python main.py portfolio list-all --username john_smith --password  john_123
+
+# Portfolio #2
+python main.py portfolio create --username john_smith --password john_123 --portfolio_name my_first_portfolio
+python main.py portfolio add-stock --username  john_smith --password  john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code ADANIGREEN.NS
+python main.py portfolio add-stock --username  john_smith --password  john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code ^GSPC
+python main.py portfolio add-stock --username  john_smith --password  john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code 2222.SR
+python main.py portfolio add-stock --username  john_smith --password  john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code 2222.SR
+python main.py portfolio fetch-one --username  john_smith --password  john_123 --portfolio_id 65ba2aee0d0a8a7425f7fe2b
+
+python main.py portfolio list-all --username john_smith --password  john_123
+
+# Portfolio #3
+python main.py portfolio create --username john_smith --password john_123 --portfolio_name my_second_portfolio
+python main.py portfolio add-stock --username  john_smith --password  john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code HINDUNILVR.NS
+python main.py portfolio add-stock --username john_smith --password john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code GM
+
+# adding again
+python main.py portfolio add-stock --username john_smith --password john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code GM
+python main.py portfolio add-stock --username john_smith --password john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code DABUR.NS
+python main.py portfolio add-stock --username john_smith --password john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code COLPAL.NS
+python main.py portfolio remove-stock --username john_smith --password john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code COLPAL.NS
+
+# remove once again
+python main.py portfolio remove-stock --username john_smith --password john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code COLPAL.NS
+
+# add a wrong one
+python main.py portfolio add-stock --username john_smith --password john_123 --portfolio_id 65bb27be57e671a76824d4e6 --ticker_code COLPAL.NSHIH
+python main.py portfolio fetch-one --username john_smith --password  john_123 --portfolio_id 65bb27be57e671a76824d4e6
+
+python main.py portfolio fetch-portfolio-data --username  john_smith --password john_123 --portfolio_id 65ba0ac4e4178f1bf53babac
+
+# Removing a portfolio 3
+python main.py portfolio remove --username  john_smith --password  john_123 --portfolio_id 65ba1f98a59d90bf7bb83d98
+
+python main.py portfolio list-all --username john_smith --password  john_123
+
+# Fetch market data for stock 
+python main.py market-data fetch-stock-data --username  john_smith --password  john_123 --ticker_code GOOG --start_date 2022-01-01 --end_date 2022-12-31
+python main.py market-data fetch-stock-data --username  john_smith --password  john_123 --ticker_code AAPL --end_date 2022-12-31
+python main.py market-data fetch-stock-data --username  john_smith --password  john_123 --ticker_code ^RUT
+# incorrect ticker code
+python main.py market-data fetch-stock-data --username  john_smith --password  john_123 --ticker_code RUTGX
+python main.py market-data fetch-stock-data --username  john_smith --password  john_123 --ticker_code ^DJI --start_date 2003-01-01
