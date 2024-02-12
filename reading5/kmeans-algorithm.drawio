@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T04:03:10.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.1" etag="kqEfQfBeDMTTfS-C75f2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T04:15:02.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0RTUboeiluIfntUSO1sy" version="23.1.1" type="github">
   <diagram name="Page-1" id="OGM6WtFHZZHdioIOnwvf">
-    <mxGraphModel>
+    <mxGraphModel dx="1834" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NwlBaL8G1z9dyVtSz0E--1" value="Data Points" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="16" width="81" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="NwlBaL8G1z9dyVtSz0E--2" value="Assign documents into K groups" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-121" y="26" width="138" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NwlBaL8G1z9dyVtSz0E--3" value="Choose K" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-312" y="-85" width="135" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NwlBaL8G1z9dyVtSz0E--4" value="Calculate cluster centroids" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-119.5" y="161" width="138" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NwlBaL8G1z9dyVtSz0E--5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="119" y="-2" width="265" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="NwlBaL8G1z9dyVtSz0E--6" value="Recalculate distance from centroids" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="175" y="26" width="145.5" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NwlBaL8G1z9dyVtSz0E--7" value="Find the closest once" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="176.5" y="153" width="150" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NwlBaL8G1z9dyVtSz0E--8" value="Distance &lt;br&gt;Function" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-322" y="156" width="135" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="NwlBaL8G1z9dyVtSz0E--9" value="Update the centroid" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="181" y="280" width="138" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
