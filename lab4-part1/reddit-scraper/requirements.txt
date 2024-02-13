@@ -5,7 +5,7 @@ lxml
 nltk
 praw
 pydantic
-pyadantic-settings
+pydantic-settings
 pymysql
 rich
 rake-nltk
