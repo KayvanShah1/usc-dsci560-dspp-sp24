@@ -1,0 +1,12 @@
+beautifulsoup4
+contractions
+lxml
+nltk
+praw
+pydantic
+pyadantic-settings
+pymysql
+rich
+rake-nltk
+requests
+SQLAlchemy==1.4.20
