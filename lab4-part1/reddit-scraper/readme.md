@@ -34,6 +34,21 @@ pip install -r requirements.txt
     ```bash
     python main.py
     ```
+    - To scrape more posts a `line 107` can be modified in the `main.py` file.
+    ```py
+    new_post_count = <enter your desired number>
+    ```
+    - Scraping may take some time so please be patient.
+- Data Collected is processed and ingested into MySQL database.
+
+## To view the data ingested data MySQL database
+- Open `MySQL Workbench`. Use the following environment variables to connect to the database
+    - MYSQL_USERNAME
+    - MYSQL_PASSWORD
+    - MYSQL_HOST
+
+- Snapshot after a successful connection to the database
+    ![MySQL DB Snapshot](../docs/mysqldb.jpg)
 
 
 ## Author:
