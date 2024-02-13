@@ -51,7 +51,7 @@ pip install -r requirements.txt
     ![MySQL DB Snapshot](../docs/mysqldb.jpg)
 
 
-## Author:
+<!-- ## Author:
 - Name: Kayvan Shah
 - Email: kpshah@usc.edu
-- USC ID: 1106650685
+- USC ID: 1106650685 -->
