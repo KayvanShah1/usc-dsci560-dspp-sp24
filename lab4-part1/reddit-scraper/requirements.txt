@@ -11,4 +11,4 @@ rich
 rake-nltk
 requests
 selenium
-SQLAlchemy==1.4.20
+SQLAlchemy
