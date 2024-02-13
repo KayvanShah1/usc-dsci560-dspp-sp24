@@ -16,14 +16,15 @@ def create(request: schema.RedditPostModel, db: Session):
     db.add(new_post)
     db.commit()
     db.refresh(new_post)
+    logger.info(f"Successfully added post data with id '{request.id}' to the database")
     return new_post
 
 
 def post_exists(id: str, db: Session):
     blog = db.query(model.RedditPost).filter(model.RedditPost.id == id).first()
-    if not blog:
-        logger.warning(
-            f"Blog with the id {id} is not available",
+    if blog:
+        logger.error(
+            f"Blog with the id '{id}' is already exists",
         )
-        return False
-    return True
+        return True
+    return False

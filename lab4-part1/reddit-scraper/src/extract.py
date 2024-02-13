@@ -5,14 +5,20 @@ import warnings
 import contractions
 import nltk
 import requests
-
 from bs4 import BeautifulSoup
+from chromedriver_py import binary_path
 from nltk.corpus import stopwords, wordnet
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
-from settings import get_logger
-
 from rake_nltk import Rake
+from requests.exceptions import RequestException
+from selenium import webdriver
+from selenium.common.exceptions import WebDriverException
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from settings import get_logger
 
 warnings.filterwarnings("ignore")
 nltk.download("stopwords", quiet=True)
@@ -112,28 +118,60 @@ class TextPreprocessor:
         return text
 
 
-def get_text(url):
+def add_driver_options(options):
+    """
+    Add configurable options
+    """
+    chrome_options = Options()
+    for opt in options:
+        chrome_options.add_argument(opt)
+    return chrome_options
+
+
+def initialize_driver():
+    """
+    Initialize the web driver
+    """
+    driver_config = {
+        "executable_path": binary_path,
+        "options": [
+            "--headless",
+            "--no-sandbox",
+            "--start-fullscreen",
+            "--allow-insecure-localhost",
+            "--disable-dev-shm-usage",
+            "--log-level=3",
+        ],
+    }
+    options = add_driver_options(driver_config["options"])
+    driver = webdriver.Chrome(options=options)
+    return driver
+
+
+def get_text(url, driver):
     headers = {"User-Agent": "DSCI560-Lab4"}
 
-    # Create a session
-    with requests.Session() as session:
-        # Set headers for the session
-        session.headers.update(headers)
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "lxml")
 
-        # Send a GET request using the session
-        response = session.get(url)
+    except RequestException as e:
+        logger.error(f"Failed to fetch URL: '{url}', Error: {e}. Trying with Selenium...")
 
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.text, "html.parser")
-            elements = soup.find_all("p")
-            all_text = [element.get_text() for element in elements]
+        try:
+            driver.get(url)
+            WebDriverWait(driver, 60).until(EC.visibility_of_element_located((By.TAG_NAME, "p")))
+            soup = BeautifulSoup(driver.page_source, "lxml")
 
-            # Concatenate all text elements
-            text = " ".join(all_text)
-            return text
-        else:
-            logger.error(f"Failed to fetch URL: {url}, Status code: {response.status_code}")
+        except WebDriverException:
+            logger.error(f"Failed to fetch URL: '{url}'")
             return ""
+
+    elements = soup.find_all("p")
+    all_text = [element.get_text() for element in elements]
+    text = " ".join(all_text)
+    return text
 
 
 def extract_keywords(text, topn: int = 10):

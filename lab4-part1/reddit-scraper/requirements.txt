@@ -1,4 +1,5 @@
 beautifulsoup4
+chromedriver-py
 contractions
 lxml
 nltk
@@ -9,4 +10,5 @@ pymysql
 rich
 rake-nltk
 requests
+selenium
 SQLAlchemy==1.4.20
