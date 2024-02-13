@@ -22,6 +22,9 @@ from settings import get_logger
 
 warnings.filterwarnings("ignore")
 nltk.download("stopwords", quiet=True)
+nltk.download("wordnet", quiet=True)
+nltk.download("stopwords", quiet=True)
+nltk.download("averaged_perceptron_tagger", quiet=True)
 logger = get_logger(__file__)
 
 
