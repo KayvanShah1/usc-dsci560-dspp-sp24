@@ -1,0 +1,14 @@
+beautifulsoup4
+chromedriver-py
+contractions
+lxml
+nltk
+praw
+pydantic
+pydantic-settings
+pymysql
+rich
+rake-nltk
+requests
+selenium
+SQLAlchemy
