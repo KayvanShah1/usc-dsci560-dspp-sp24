@@ -1,4 +1,5 @@
 from sqlalchemy import Column, Integer, String, Float, DateTime, Text
+from sqlalchemy.dialects.mysql import LONGTEXT
 
 from database import Base, engine
 
@@ -40,7 +41,7 @@ class RedditPostNew(Base):
     permalink = Column(Text)
     domain = Column(String(255))
     # raw_content = Column(Text, nullable=True)
-    content = Column(Text, nullable=True)
+    content = Column(LONGTEXT, nullable=True)
     keywords = Column(Text, nullable=True)
 
 
