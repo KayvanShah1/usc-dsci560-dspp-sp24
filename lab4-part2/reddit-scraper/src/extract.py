@@ -15,9 +15,10 @@ from requests.exceptions import RequestException
 from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
+
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.support.ui import WebDriverWait
 from settings import get_logger
 
 warnings.filterwarnings("ignore")
@@ -164,7 +165,7 @@ def get_text(url, driver):
 
         try:
             driver.get(url)
-            WebDriverWait(driver, 60).until(EC.visibility_of_element_located((By.TAG_NAME, "p")))
+            # WebDriverWait(driver, 60).until(EC.visibility_of_element_located((By.TAG_NAME, "p")))
             soup = BeautifulSoup(driver.page_source, "lxml")
 
         except WebDriverException:
