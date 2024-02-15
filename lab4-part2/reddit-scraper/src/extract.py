@@ -156,7 +156,7 @@ def get_text(url, driver):
     headers = {"User-Agent": "DSCI560-Lab4"}
 
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "lxml")
 
