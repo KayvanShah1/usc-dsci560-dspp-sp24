@@ -52,7 +52,7 @@ def create_submission_dict(submission, driver):
 
     submission_dict["raw_content"] = get_text(submission_dict["url"], driver)
     submission_dict["content"] = TextCleaner.clean_text(submission_dict["title"] + " " + submission_dict["raw_content"])
-    submission_dict["keywords"] = ",".join(extract_keywords(TextCleaner.clean_text(submission_dict["content"])))
+    submission_dict["keywords"] = ",".join(extract_keywords(submission_dict["content"]))
     submission_dict["content"] = TextPreprocessor.preprocess_text(submission_dict["content"])
 
     return submission_dict
