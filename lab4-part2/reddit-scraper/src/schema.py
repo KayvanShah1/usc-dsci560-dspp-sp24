@@ -36,6 +36,6 @@ class RedditPostModelNew(BaseModel):
     preview: Optional[str]
     permalink: str
     domain: str
-    raw_content: Optional[str]
+    # raw_content: Optional[str]
     content: Optional[str]
     keywords: Optional[str]

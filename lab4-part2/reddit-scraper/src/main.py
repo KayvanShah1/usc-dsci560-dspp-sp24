@@ -42,7 +42,7 @@ def create_submission_dict(submission, driver):
         "preview": None,
         "permalink": f"{config.REDDIT_BASE_URL}{submission.permalink}",
         "domain": submission.domain,
-        "raw_content": "",
+        # "raw_content": "",
         "content": "",
         "keywords": "",
     }
@@ -50,8 +50,8 @@ def create_submission_dict(submission, driver):
     if hasattr(submission, "preview"):
         submission_dict["preview"] = submission.preview["images"][0]["source"]["url"]
 
-    submission_dict["raw_content"] = get_text(submission_dict["url"], driver)
-    submission_dict["content"] = TextCleaner.clean_text(submission_dict["title"] + " " + submission_dict["raw_content"])
+    raw_content = get_text(submission_dict["url"], driver)
+    submission_dict["content"] = TextCleaner.clean_text(submission_dict["title"] + " " + raw_content)
     submission_dict["keywords"] = ",".join(extract_keywords(submission_dict["content"]))
     submission_dict["content"] = TextPreprocessor.preprocess_text(submission_dict["content"])
 
@@ -105,7 +105,7 @@ def scrape_subreddit_posts(subreddit_name, new_post_count=100):
 
 def main():
     subreddit_name = "tech"
-    new_post_count = 100
+    new_post_count = 1000
 
     scrape_subreddit_posts(subreddit_name, new_post_count)
 
