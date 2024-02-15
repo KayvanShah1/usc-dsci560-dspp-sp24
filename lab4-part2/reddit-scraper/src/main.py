@@ -73,14 +73,18 @@ def scrape_subreddit_posts(subreddit_name, new_post_count=100):
 
     post_count = 0
 
-    for submission in subreddit.new(limit=None):
+    post_data_list = []  # List to store post data
+
+    for submission in subreddit.controversial(limit=None):
         try:
             if not crud.post_exists(submission.id, db):
                 # Process each submission here
                 submission_dict = create_submission_dict(submission, driver)
 
                 post_data = validate_post_data(submission_dict)
-                crud.create(post_data, db)
+
+                # crud.create(post_data, db)
+                post_data_list.append(post_data)  # Append post data to the list
 
                 # Increment the post counter
                 post_count += 1
@@ -101,6 +105,10 @@ def scrape_subreddit_posts(subreddit_name, new_post_count=100):
                 continue
 
     driver.close()
+
+    # Perform bulk insertion of post data
+    if post_data_list:
+        crud.bulk_create(post_data_list, db)
 
 
 def main():
