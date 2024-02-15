@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Float, DateTime, Text
+from sqlalchemy import Column, Integer, String, Float, DateTime, Text, BLOB
 
 from database import Base, engine
 
@@ -39,8 +39,8 @@ class RedditPostNew(Base):
     preview = Column(Text, nullable=True)
     permalink = Column(Text)
     domain = Column(String(255))
-    raw_content = Column(Text, nullable=True)
-    content = Column(Text, nullable=True)
+    raw_content = Column(BLOB, nullable=True)
+    content = Column(BLOB, nullable=True)
     keywords = Column(Text, nullable=True)
 
 
