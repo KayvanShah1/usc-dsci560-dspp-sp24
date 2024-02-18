@@ -9,10 +9,12 @@ import schema
 from database import get_db
 from extract import TextCleaner, TextPreprocessor, extract_keywords, get_text, initialize_driver
 from settings import config, get_logger
+from doc2vec import load_emb_model, get_embedding_vector
 
 logger = get_logger(__file__)
 
 db = get_db()
+emb_model = load_emb_model()
 
 
 def initialize_reddit_client():
@@ -122,6 +124,11 @@ def background_task(subreddit_name, interval_minutes, stop_event):
         stop_event.wait(interval_minutes * 60)  # Convert minutes to seconds
 
 
+def infer_user_input(text: str):
+    embedding = get_embedding_vector(text, emb_model)
+    logger.info(embedding)
+
+
 def main():
     subreddit_name = "tech"
 
@@ -149,7 +156,8 @@ def main():
         if user_input.strip().lower() == "quit":
             logger.info("Stopping the background thread and exiting.")
             break
-        logger.info(f"Doing something to user input: '{user_input}' ...")
+        logger.info(f"Analysing user input: '{user_input[:300]}...' ...")
+        infer_user_input(user_input)
 
     # Set the stop event to stop the background task
     stop_event.set()

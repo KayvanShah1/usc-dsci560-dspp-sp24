@@ -12,6 +12,12 @@ class Path:
     root_dir = os.path.dirname(curr_file_dir)
     env_file = os.path.join(root_dir, ".env")
     ca_cert_file = os.path.join(root_dir, "ca.pem")
+    models_dir = os.path.join(root_dir, "models")
+
+    if not os.path.exists(models_dir):
+        os.makedirs(models_dir)
+
+    embeddings_model = os.path.join(models_dir, "reddit_post_embeddings")
 
 
 class Settings(BaseSettings):

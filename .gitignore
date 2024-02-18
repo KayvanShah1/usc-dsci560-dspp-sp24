@@ -161,3 +161,5 @@ cython_debug/
 
 pdfs/
 *.pem
+
+reddit_post_embeddings

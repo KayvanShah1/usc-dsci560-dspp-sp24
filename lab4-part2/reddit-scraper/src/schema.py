@@ -39,3 +39,13 @@ class RedditPostModelNew(BaseModel):
     # raw_content: Optional[str]
     content: Optional[str]
     keywords: Optional[str]
+
+
+class RedditPostTextModel(BaseModel):
+    id: str
+    content: str
+
+
+class EmbeddingsModel(BaseModel):
+    id: str
+    embedding: str
