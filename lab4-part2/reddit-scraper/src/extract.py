@@ -154,7 +154,7 @@ def initialize_driver():
 
 def get_text(url, driver):
     headers = {"User-Agent": "DSCI560-Lab4"}
-
+    logger.info(f"Scraping text data from '{url}'")
     try:
         response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()

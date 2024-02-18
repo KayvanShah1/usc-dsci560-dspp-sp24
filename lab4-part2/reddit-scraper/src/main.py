@@ -1,5 +1,7 @@
+import sys
+import threading
+import time
 from datetime import datetime
-from time import time
 
 import crud
 import praw
@@ -42,7 +44,6 @@ def create_submission_dict(submission, driver):
         "preview": None,
         "permalink": f"{config.REDDIT_BASE_URL}{submission.permalink}",
         "domain": submission.domain,
-        # "raw_content": "",
         "content": "",
         "keywords": "",
     }
@@ -63,7 +64,7 @@ def validate_post_data(submission_dict):
     return schema.RedditPostModelNew(**submission_dict)
 
 
-def scrape_subreddit_posts(subreddit_name, new_post_count=100):
+def scrape_subreddit_posts(subreddit_name):
     """
     Scrape posts from a subreddit.
     """
@@ -71,11 +72,9 @@ def scrape_subreddit_posts(subreddit_name, new_post_count=100):
     reddit = initialize_reddit_client()
     subreddit = reddit.subreddit(subreddit_name)
 
-    post_count = 0
-
     post_data_list = []  # List to store post data
 
-    for submission in subreddit.controversial(limit=None):
+    for submission in subreddit.new(limit=50):
         try:
             if not crud.post_exists(submission.id, db):
                 # Process each submission here
@@ -83,14 +82,12 @@ def scrape_subreddit_posts(subreddit_name, new_post_count=100):
 
                 post_data = validate_post_data(submission_dict)
 
-                # crud.create(post_data, db)
-                post_data_list.append(post_data)  # Append post data to the list
-
-                # Increment the post counter
-                post_count += 1
-                # Check if the desired number of posts has been scraped
-                if post_count >= new_post_count:
-                    break
+                # Append post data to the list
+                logger.info(
+                    f"Post with id '{submission.id}' not found in the database. Post data has been extracted,"
+                    " processed, and added to the update queue."
+                )
+                post_data_list.append(post_data)
 
         except praw.exceptions.APIException as e:
             # Handle rate limit exceeded error
@@ -107,15 +104,60 @@ def scrape_subreddit_posts(subreddit_name, new_post_count=100):
     driver.close()
 
     # Perform bulk insertion of post data
-    if post_data_list:
+    if len(post_data_list) > 0:
+        logger.info(f"Found '{len(post_data_list)}' new posts to be added")
         crud.bulk_create(post_data_list, db)
+    else:
+        logger.info("No new posts were found")
+
+
+def background_task(subreddit_name, interval_minutes, stop_event):
+    """
+    Background task for updating the database at regular intervals.
+    """
+    while not stop_event.is_set():
+        logger.info(f"Fetching data from subreddit '{subreddit_name}'...")
+        scrape_subreddit_posts(subreddit_name)
+        logger.info(f"Waiting for {interval_minutes} minutes before fetching data again...")
+        stop_event.wait(interval_minutes * 60)  # Convert minutes to seconds
 
 
 def main():
     subreddit_name = "tech"
-    new_post_count = 1000
 
-    scrape_subreddit_posts(subreddit_name, new_post_count)
+    if len(sys.argv) != 2:
+        logger.error("Usage: python main.py <interval_in_minutes>\nExample: python main.py 5")
+        sys.exit(1)
+
+    # Parse the interval argument
+    try:
+        interval_minutes = float(sys.argv[1])
+    except ValueError:
+        logger.error("Interval must be a 'number'")
+        logger.info("Usage: python main.py <interval_in_minutes>\nExample: python main.py 5")
+        sys.exit(1)
+
+    # Create a stop event to signal when to stop the background task
+    stop_event = threading.Event()
+
+    # Start the background task in a separate thread
+    background_thread = threading.Thread(target=background_task, args=(subreddit_name, interval_minutes, stop_event))
+    background_thread.start()
+
+    while background_thread.is_alive():
+        user_input = input("Enter keywords or 'quit' to stop: ")
+        if user_input.strip().lower() == "quit":
+            logger.info("Stopping the background thread and exiting.")
+            break
+        logger.info(f"Doing something to user input: '{user_input}' ...")
+
+    # Set the stop event to stop the background task
+    stop_event.set()
+
+    # Wait for the background thread to finish
+    background_thread.join()
+
+    logger.info("Background task stopped.\nExited with code 0")
 
 
 if __name__ == "__main__":
