@@ -72,7 +72,7 @@ This is the driver program which is used to scrape the reddit posts from the tec
 The program also takes a keyword as a user input and returns the documents found similar to the keyword from the appropriate cluster.  
 
 ### model.py
-
+The program defines a schema according to which data will be stored in the MySQL server.
 
 ### schema.py
 The program creates a pydantic model to validate the format of the data before storing it in the database.  
