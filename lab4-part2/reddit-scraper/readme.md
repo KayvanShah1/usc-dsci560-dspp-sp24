@@ -5,7 +5,8 @@ Make sure files are present in to root directory of the project
 1. `.env` - File with environment variables
 2. `ca.pem` - Certifcate Authentication file for database
 3. `requirements.txt` - File with dependencies to installed for the project
-4. `models/` - Has pretrained embedding generator model and clustering model
+4. `src/models/` - Has pretrained embedding generator model and clustering model
+5. `docs/` - Documentation including minutes of the meeting and readme in PDF format
 
 ## Setup
 - For setup move into `reddit-scraper` directory
@@ -66,6 +67,7 @@ Upon execution, the script follows the following steps:
 | `model.py`     | Define schema for data storage in the MySQL server. Create tables is doesn't exist.                                                                   |
 | `schema.py`    | Create Pydantic model to validate data format before storing it in the database.                                                                     |
 | `settings.py`  | Set up access to certificates and environment credentials required for connecting to the MySQL database.                                            |
+| `clustering.py`  | Train and save clustering model, inferences for interested records                                           |
 
 <!-- ## Author:
 - Name: Kayvan Shah
