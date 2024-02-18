@@ -50,17 +50,13 @@ def post_exists(id: str, db: Session):
     return False
 
 
-def get_all_ids_and_content(db: Session) -> List[dict]:
+def get_all_ids_and_content(db: Session):
     """
     Retrieve IDs and content of the latest 10 documents from the RedditPostNew table.
 
     Args:
         db (Session): SQLAlchemy database session.
-
-    Returns:
-        List[dict]: A list of dictionaries containing IDs and content of each document.
     """
-    # Retrieve the latest 10 documents ordered by ID in descending order
     posts = db.query(model.RedditPostNew.id, model.RedditPostNew.content).all()
 
     # Create a list of dictionaries containing IDs and content of each post
@@ -82,3 +78,41 @@ def bulk_insert_embeddings(requests: List[schema.EmbeddingsModel], db: Session):
 
     logger.info(f"Successfully added '{len(new_posts)}' embeddings to the database")
     return new_posts
+
+
+def fetch_posts_embeddings(db: Session):
+    embeddings_list = db.query(model.EmbeddingVector.reddit_post_id, model.EmbeddingVector.embedding).all()
+
+    # Create a list of dictionaries containing IDs and content of each post
+    embeddings = [
+        schema.EmbeddingsModel(reddit_post_id=post.reddit_post_id, embedding=post.embedding).get_embedding_array()
+        for post in embeddings_list
+    ]
+    return embeddings
+
+
+def get_titles_for_document_ids(db: Session, documents: list):
+    # Query the database for titles corresponding to the given document IDs
+
+    ids = [doc_id[0] for doc_id in documents]
+    scores = [doc_id[1] for doc_id in documents]
+
+    titles = (
+        db.query(
+            model.RedditPostNew.id,
+            model.RedditPostNew.title,
+            model.RedditPostNew.permalink,
+            model.RedditPostNew.content,
+        )
+        .filter(model.RedditPostNew.id.in_(ids))
+        .all()
+    )
+
+    # Create a list of dictionaries containing ID, title, permalink, and score
+    title_list = []
+    for id_, title, permalink, content in titles:
+        score = scores[ids.index(id_)]  # Get the score corresponding to the current ID
+        title_dict = {"id": id_, "title": title, "score": score, "permalink": permalink, "content": content}
+        title_list.append(title_dict)
+
+    return title_list

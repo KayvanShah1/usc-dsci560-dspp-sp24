@@ -163,3 +163,4 @@ pdfs/
 *.pem
 
 reddit_post_embeddings
+*.pkl

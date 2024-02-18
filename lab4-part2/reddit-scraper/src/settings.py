@@ -18,6 +18,7 @@ class Path:
         os.makedirs(models_dir)
 
     embeddings_model = os.path.join(models_dir, "reddit_post_embeddings")
+    clustering_model = os.path.join(models_dir, "post_clustering.pkl")
 
 
 class Settings(BaseSettings):
@@ -35,6 +36,9 @@ class Settings(BaseSettings):
     MYSQL_PASSWORD: str = Field()
     MYSQL_HOST: str = Field()
     MYSQL_PORT: str = Field()
+
+    RANDOM_STATE: int = Field(default=42)
+    OPTIMAL_CLUSTERS: int = Field(default=4)
 
 
 def get_logger(name):

@@ -1,6 +1,6 @@
 from database import Base, engine
 from sqlalchemy import Column, DateTime, Float, ForeignKey, Integer, String, Text
-from sqlalchemy.dialects.mysql import LONGTEXT
+from sqlalchemy.dialects.mysql import LONGTEXT, JSON
 from sqlalchemy.orm import relationship
 
 
@@ -50,7 +50,7 @@ class EmbeddingVector(Base):
     __tablename__ = "embedding_vectors"
 
     reddit_post_id = Column(String(30), ForeignKey("tech_new.id"), primary_key=True)
-    embedding = Column(LONGTEXT)
+    embedding = Column(JSON)
 
     reddit_post = relationship("RedditPostNew", back_populates="embedding_vector")
 

@@ -1,6 +1,8 @@
+import json
 from datetime import datetime
 from typing import Optional
 
+import numpy as np
 from pydantic import BaseModel
 
 
@@ -46,6 +48,21 @@ class RedditPostTextModel(BaseModel):
     content: str
 
 
+class EmbeddingData(BaseModel):
+    reddit_post_id: str
+    embedding_array: np.ndarray
+
+    class Config:
+        arbitrary_types_allowed = True
+
+
 class EmbeddingsModel(BaseModel):
-    id: str
+    reddit_post_id: str
     embedding: str
+
+    def get_embedding_array(self):
+        # Deserialize the JSON string into a Python dictionary
+        embedding = json.loads(self.embedding)
+        embedding_array = np.array(list(embedding), dtype=float)
+
+        return EmbeddingData(reddit_post_id=self.reddit_post_id, embedding_array=embedding_array)

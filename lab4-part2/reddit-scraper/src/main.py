@@ -4,17 +4,20 @@ import time
 from datetime import datetime
 
 import crud
+import pandas as pd
 import praw
 import schema
+from clustering import infer_clusters, load_kmeans_model
 from database import get_db
+from doc2vec import get_embedding_vector, load_emb_model
 from extract import TextCleaner, TextPreprocessor, extract_keywords, get_text, initialize_driver
 from settings import config, get_logger
-from doc2vec import load_emb_model, get_embedding_vector
 
 logger = get_logger(__file__)
 
 db = get_db()
 emb_model = load_emb_model()
+kmeans_model = load_kmeans_model()
 
 
 def initialize_reddit_client():
@@ -125,8 +128,27 @@ def background_task(subreddit_name, interval_minutes, stop_event):
 
 
 def infer_user_input(text: str):
-    embedding = get_embedding_vector(text, emb_model)
-    logger.info(embedding)
+    try:
+        embedding_array = get_embedding_vector(text, emb_model)
+
+        logger.info("Infering the user input")
+        cluster = infer_clusters([embedding_array], kmeans_model)[0]
+        logger.info(f"The predicted cluster for the random record is: {cluster}")
+        similar_documents_ids = emb_model.docvecs.most_similar([embedding_array], topn=10)
+        similar_documents = pd.DataFrame(crud.get_titles_for_document_ids(db, similar_documents_ids))
+        columns = similar_documents.columns[:4]
+        logger.info("Top 10 similar documents:")
+        for i in similar_documents.loc[:, columns].to_dict(orient="records"):
+            logger.info(i)
+
+        content_text = ",".join(
+            [TextPreprocessor.preprocess_text(TextCleaner.clean_text(i)) for i in similar_documents["title"]]
+        )
+        keywords = extract_keywords(content_text)
+        logger.info("Keywords: %s", keywords)
+    except Exception:
+        logger.exception("No similar documents found")
+        pass
 
 
 def main():

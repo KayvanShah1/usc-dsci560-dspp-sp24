@@ -1,10 +1,12 @@
-from crud import get_all_ids_and_content
+import json
+from crud import get_all_ids_and_content, bulk_insert_embeddings
 from database import get_db
 from extract import TextCleaner, TextPreprocessor
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 from gensim.utils import simple_preprocess
 from settings import Path
 from tqdm import tqdm
+import schema
 
 db = get_db()
 
@@ -12,7 +14,8 @@ db = get_db()
 def preprocess_docs(documents):
     tagged_doc = []
     for doc in tqdm(documents):
-        tagged_doc.append(TaggedDocument(simple_preprocess(doc.content), doc.id))
+        tokens = simple_preprocess(doc.content)
+        tagged_doc.append(TaggedDocument(words=tokens, tags=[doc.id]))
     return tagged_doc
 
 
@@ -38,14 +41,22 @@ def get_embedding_vector(text, model):
     text = TextCleaner.clean_text(text)
     text = TextPreprocessor.preprocess_text(text)
     text = simple_preprocess(text)
+    return model.infer_vector(text).astype(float)
+
+
+def get_emb_vect(text, model):
+    text = simple_preprocess(text)
     return model.infer_vector(text)
 
 
 def add_to_embeddings_table():
     documents = get_all_ids_and_content(db)
+    embeddings = []
+    model = load_emb_model()
 
+    for doc in tqdm(documents):
+        emb = json.dumps(get_emb_vect(doc.content, model).tolist())
+        emb_rec = schema.EmbeddingsModel(reddit_post_id=doc.id, embedding=emb)
+        embeddings.append(emb_rec)
 
-from pprint import pprint
-
-model = load_emb_model()
-pprint(model.dv)
+    bulk_insert_embeddings(embeddings, db)

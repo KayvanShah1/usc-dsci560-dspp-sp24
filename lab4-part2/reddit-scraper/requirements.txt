@@ -3,8 +3,10 @@ chromedriver-py
 contractions
 gensim
 lxml
+matplotlib
 nltk
 numpy
+pandas
 praw
 pydantic
 pydantic-settings
@@ -12,6 +14,9 @@ pymysql
 rich
 rake-nltk
 requests
+scikit-learn
+scipy
 selenium
 SQLAlchemy
 tqdm
+yellowbrick
