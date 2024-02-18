@@ -50,6 +50,35 @@ pip install -r requirements.txt
 - Snapshot after a successful connection to the database
     ![MySQL DB Snapshot](../docs/mysqldb.jpg)
 
+## Code Files
+
+### crud.py
+This program is used to insert information of the scraped posts in bulk to the database.  
+The program discards the post if it already exists in the database.
+
+### database.py
+This program establishes a connection between python and the SQL server.
+
+### doc2vec.py
+The program is used to train a gensim model. 
+The gensim model creates embeddings which are used to calculate similarity between documents and them a cluster.
+
+### extract.py
+The program cleans and pre-processes the text scraped from the reddit posts as well as the text of the website whose link is mentioned in the post.  
+The program also extracts the top 10 keywords that characterizes the document.
+
+### main.py
+This is the driver program which is used to scrape the reddit posts from the tech subreddit page every 5 minutes and pre-process and store the data in the database.  
+The program also takes a keyword as a user input and returns the documents found similar to the keyword from the appropriate cluster.  
+
+### model.py
+
+
+### schema.py
+The program creates a pydantic model to validate the format of the data before storing it in the database.  
+
+### settings.py
+This program is used to set up access to the appropriate certificate and environment credentials required to connect with the MySQL database.
 
 <!-- ## Author:
 - Name: Kayvan Shah
