@@ -1,0 +1,15 @@
+beautifulsoup4
+chromedriver-py
+lxml
+numpy
+pandas
+pdfplumber
+pydantic
+pydantic-settings
+pydrive
+pymysql
+rich
+requests
+selenium
+SQLAlchemy
+tqdm
