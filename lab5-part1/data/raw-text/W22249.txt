@@ -1,0 +1,6635 @@
+FO.
+WELL COMPLETl. R RECOMPLETION REPORT·
+INDUSTRIAL COMMISSION OF NORTH DAKOTA ~ I
+OIL AND GAS DIVISION • ~· . ~ • 1,; !""I,> Well File No.
+600 EAST BOULEVARD DEPT 405 ,, , ;_ 22249
+BISMARCK, ND 58505-0840 Zt ., .·,~.,.--------~
+SFN 2468 (04-2010)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Designate Type of Completion
+0 Oil Well D EOR Well D Recompletion D Deepened Well D Extended Horizontal Leg
+Gas Well SWDWell Water Supply Well Other:
+Well Name and Number Spacing Unit Description
+MAGNUM 2-36-25H All of Sect 36 & 25 T153N R101W
+Oper< tor Telephone Number Field
+Slawson Exploration Com an , Inc. 720-457 -9820 BAKER
+Pool
+Suite 1600 Bakken
+City State Zip Code Permit Type
+D 0 D
+Denver C_O ___ ._8_ 02_02_ _____ Wildcat ____ =:_.D ..;e ,_v ..e ..l :o ..p ..m ._;e _n ..t .; ,__ ___._ _E _ _x ;t ,e .;_n ;s ,.i .o .;n ,_ _ _
+~-----------_._ _._-=~...;,_;;..;...;. ~
+- LOCATIIO N OF WELL I
+At Su1face Otr-Qtr Section !Township Range County
+s w
+- 205 F L I 240 F E L SESE 36 153 N I 101 McKenzie
+Spud Date Date TD Reached Drilling Contractor and Rig Number KB Elevation (Ft) Graded Elevation (Ft)
+-3/1812012 4/27/2012 Nabors #419 2177 2156
+Type of Electric and Other Logs Run (See Instructions)
+Tripl1e Combo - OIL, CNL, COL with GR to surface CBL/GR/CCL
+CASING & TUBULARS RECORD (Report all strin! s set in well)
+String Top Set Depth Set Hole Size Weight Anchor Set Packer Set Sacks Top of
+w
+~II Bore Type Size (Inch) (MD Ft) (MD Ft) (Inch) (Lbs/Ft) (MD Ft) (MD Ft) Cement Cement
+Surfac ;e Hole Surface 9 5/8 0 2168 13 1/2 36 835
+Vertie 11 Hole Intermediate 7 0 11104 8 3/4 29 & 32 1025 2200
+Latera 11 Liner 4 1/2 9082 20705 6 11.6 9082
+-
+PERFORATION & OPEN HOLE INTERVALS
+Open Hole/Perforated Top of
+Well Bore TD Kick-off
+Completion Interval (MD.Ft) Casing Date Perfd Date Isolation Sacks
+Weill Bore Drillers Depth Point
+- Type Window or Drilled Isolated Method Cement
+(MD Ft) Top Bottom (MD Ft) (MD Ft)
+-
+Latera!1 20728 Other 11104 20705 10282 11104 4/27/2012 4/30/2012 PKR
+-
+~
+-
+-
+-
+-
+-
+-
+PRODUCTION
+Curren" Producing Open Hole or Perforated lnterval(s), This Completion, Top and Bottom, (MD Ft) Name of Zone (If Different from Pool Name)
+111 M' to 20705' Middle Bakken
+Date I/\ ell Completed (SEE INSTRUCTIONS) Producing Method Pumping-Size & Type of Pump Well Status (Producing or Shut-In)
+211412013 Flowin Producin up a 7" Casin
+Hours Tested Choke Size Oil (Bbls) Gas (MCF) Water (Bbls) Oil Gravity-AP! (Corr.) Disposition of Gas
+Production for Test
+24 22 /64 752 753.504 218 42.0 ° Flared
+Flowin~ Tubing Pressure (PSI) Flowing Casing Pressure (PSI) Calculated Oil (Bbls) Gas (MCF) Water (Bbls) Gas-Oil Ratio
+600 24-Hour Rate 752 753.504 218 1002PagH 2
+SFN 2468 (04-2010)
+- GEOLOGICAL MARKERS PLUG BACK INFORMATION
+-
+Formation MD (Ft) TVD (Ft) Well Bore Type of Plug Top (Ft) Bottom (Ft) Sacks Cemen1
+GreQnhorn 4655
+Belh~ Fourche 4867
+MoV1try 5063
+-lnyatl Kara 5487
+Swift 5930
+-Rier<l:lon 6347
+-Piper 6537
+Dunlilam Salt 6947
+Base Dunham Salt 6997
+Spenrfish 6997
+-
+Pine Salt 7306
+-
+Bas1-Pine Sale 7364
+-~:he 7453
+Minnelusa absent
+-
+Amsden 7701
+Tyle1• 7886
+Big Bnowy 8108
+,_K_i_b_b_ ey 8317
+,_K_i_b_b_ ey lime 8451
+,_C_h__a_r les 8603
+Basu Last Salt 9271
+,~__i___o n Canyon 9474
+-Loduepole 10025
+KOP 10282 CORES CUT
+Uppnr Bakken Shale 10770 Top (Ft) Bottom (Ft) Formation Top (Ft) Bottom (Ft) Formation
+,_M__id_c_ le Bakken 10785
+-Midolle Bakken Mkr 10796
+-
+-
+Dril Stem Test
+-Test Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) IShut-in 2 (PSIG)
+Drill I >ipe Recovery
+,_____
+Sample Chamber Recovery
+----
+Test Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) I Shut-in 2 (PSIG)
+-Drill I 'ipe Recovery
+Sample Chamber Recovery
+-Test Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) I Shut-in 2 (PSIG)
+Drill Pipe Recovery
+-
+Sample Chamber Recovery
+Test Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) I Shut-in 2 (PSIG)
+-
+Drill Pipe Recovery
+Sample Chamber Recovery
+-
+Test )ate I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) I Shut-in 2 (PSIG)
+-
+Drill Pipe Recovery
+-
+Sample Chamber Recovery
+-Page 3
+SFN 2468 (04-2010)
+Date Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+11/M/2012 Middle Bakken 11104 20705 32 22133 Barrels
+Type Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Sane I Frac 1160090 8403 39.7
+Detals
+Frac ured the Middle Bakken with 32, stages using fracturing sleeves and packers, with 346204# of 20/40 White Sand, 182669# of 40/70 White
+Sane I, 631217# of 20/40 Ceramic, and 22133 bbls of clean water.
+Date Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+Type Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Deta Is
+Date Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+Type Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Deta"ls
+Date Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+Type Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Details
+Date Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+Type Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Details
+ADIDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS
+Attached are the Certified well location plat and a well bore diagram. The directional surveys, Open hole logs and CBL logs will
+be nent directly to you from the contractors.
+I hereby swear or affirm that the information Email Address Date
+prov ded is true, complete and correct as 3/11/2013
+mglenn@slawsoncompanies.com
+determined from all available records.
+Signature Printed Name Title
+Matthew Glenn TechnicianWELL LOCATION PLAT
+Slawson Exploration Company, Inc.
+1675 Broadway, Suite 1600, Denver, Colorado 80202
+Magnum 2-36-25H
+205 feet from the south llne ancf 2-40 feet from the east llne (surface location)
+Section 36, T. 153 N., R. 101 W., 5th P.M.
+250 feet from the north line and 550 feet from the east line (bottom location)
+Section 25, T. 153 N., R. 101 W., 5th P.M.
+McKenzie County, North Dakota
+Surface owner @ well site - State of North Dakota
+latitude 48"01 '29.869" North; longitude 103"36'18.604" West (surface location)
+Latitude 48"03'08.925" North; Longitude 103"36'23.042" West (bottom location)
+I
+[Derived from OPUS Solution NAD-83(CORS96)]
+Orlg1nal SlaM J090'17'22" 2625.79' (Meas.) 090'19'14• - 2636.98' (Meas.)h °':::' :T;-
+F'ound - - - - - - I 311'2Cap
+- Section Une F'ound
+°'e~ I --:-
+gj .~ I:'... 1j
+~I Found
+::E ; 1:: I~ N
+~I
+5 I~ ~
+~ g
+I~
+~ ! I
+UN ) i...::j:: i:__ ____- NW4 / ..---------''------11 '1&
+-
+L -ine
+- --J~
+I ~
+l\t
+j I
+I ~
+I~
+~I Ii;;
+,g......
+U)
+~I I~
+000'05'55.
+0
+I IO ') 130.87' (Meas. 0
+240'
+...... R8bar' ...
+....,.+---f4•l
+IS 3!1112
+(Meas.) -:
+Cap
+in
+0
+Confidentiality Notice: The information contained on lhia plat ii N
+legally privileged and confidential information Intended only for
+the uae of racipienb. If you are not the intended raciplenb. Scale 1•=1000'
+you are hereby notified that any u. ., diueminotion, distribution
+or copyi1>9 of this Information ii alrictly prohibited.
+NOTE: All land comers ore assumed unless otherwise noted.
+The well locotion shown hereon is not an os-buiH location.
+Brian Schmalz 08/26/2011
+Surveyed By N.D.P.L.S. If 6809 Date
+Vertical Control Datum Used Professional Consulting Engineers
+Sea-Level Datum of NAVO 88 and Surveyors
+Based on elevation derived from OPUS Solution on Reqistered in
+CP•KW 15-152-10 (iron rebar) Located a distance North Dakota. South Dakota
+of 6192.72' an an azimuth of 270'16'4/ from the Montono, Wyomi~ A: Minnesota Kadrmas
+1.,_S bW e-i_ n"'"c -go ""-am _te _-2r _ -1o _ f 3._ 4 _S ._3e g. _c · -f _ 1 E0 1-n _ e-v.. ... _. 6 a-i, to- _-nT _. M1 -_5 s3 -_ LN _ -., -_R . -1 a _-1 W -_., -5 _- th o_p .M 1_ . . BuTse. leP-Fhooxn P e . N ON .o .o B.7 o7 x0 01 1-4_8 43 83-2 _7 19 25 8 4 Lee&
+290
+Pro'ect No. 3711645 677 27th Ave. E. ..J.a.. _c..k .so .n _
+Book OW-257 Pg. 47-50 Stoking Dickinson, North Dakota 58602
+Sep 07, 2011 - 10:48om - J:\oltllekl\Slanon\3711&45\Cadd\37115458"501.dw9C::) 5LaWsan
+exploration company, inc.
+Updated By: WELLBORE DIAGRAM
+On: Magnum 2-36-25H Location: 205' FSL and 240' FEL
+SESE Sec 36, T153N-RIOIW
+McKenzie County, North Dakota
+Formation TVD ORIGINAL GL ELEVATION= 2,158'
+FINSCHED PAD ELEVATION =2,156'
+Pierre/base Foxhills 1,534'
+KB ELEVATION =2,182'
+API#: 33-053-03944-00-00
+Dakota (marine) 5,217'
+NDIC#: 22249
+9-518" 36# J-55 STC@2,168' Dunham Salt 6,682'
+RockSeal
+Spearfish 6,756' Packers@ PA KN RC H 1 22 00 ., 46 24 32' ' P PK KR R 1 12 3 1 17 61 88 96 4' ' P PK KR R2 24 5 113 3 47 32 47' ' e
+PKR2~ PKR14 16 606' PKR26 13141'
+Pine Salt 6,806' PKR3~ PKR15 16 314' PKR27 12 849'
+PKR4~ PKR 16 16024' PKR28 12 554'
+Amsden 7,227' PKR5~ PKR 17 15 733' PKR29 12 264'
+PKR6~ PKR 18 15440' PKR 30 11 971'
+Kibbey Lime 7,926' PKR7~ PKR 19 15148' PKR 31 11 682'
+TOC@ 2,200' (est) PKR8~ PKR20 14 854' PKR 32 11 431'
+PKR 9 18,050' PKR 21 14 564' PKR 33 11 379'
+Charles 8,083' PKR 10--1L.Z§! PKR 22 14 310' PKR34 11 136'
+PKR 11 17,477' PKR23 14,019' CHPKR 11,046'
+base last Charles salt 8,709'
+/.I
+:::: Ratcliffe 8,759'
+FracPorts@
+Top Ratcliffe Pay 8,833' DEH 20,552' 2.625 16442' 3.500 12 393'
+1:::1 1.750 20 256' 2.688 16152' 3.563 12 099'
+1::: 1.875 19957' 2.750 15862' 3.625 11 806'
+Base Ratcliffe Pay 8,845' 1.938 19 669' 2.813 15569' 3.688 11 561'
+2.000 19,374' I 2.875 15275' I
+Packers Plus SF Liner Hanger Mission Canyon 8,915' Balls that have
+with Pack-Off@9,082' been dropped
+MIN ID: 3.875" Lodgepole 9,445' 2.063 19085' 2.938~
+2.125 18 794' 3.000~
+2.188 18 480' 3.063 14 437'
+Upper Bakken shale 10,199' 2.250 18176' 3.125~ e
+2.313 17 889' 3.188 13856'
+KOP@ 10,282' Top of Target 10,216' 2.375 17 604' 3.250 13562'
+2.438 17 312' 3.313 13270'
+7" Shoe: 11,104' MD Packer Target 10,221' 2.500 17022' 3.375~
+I0,078'TVD 2.563 16,731' 3.438 ----1L2!!§.'
+Note: 7" Casing Stuck Before Base of Target 10,225'
+Sleeve
+Reaching Bottom
+Packers Plus Completion System:
+7" 29# HCP! 10 from Surface to 6,420'
+10,444' of4-1/2" 11.6# P-110 BTC and Lateral TD@20,728' MD,
+7" 32# HCPI 10 from 6,420' to 9,270'
+254' of4-1/2" 13.5# P-110 BTC liner I0,798'TVD
+with 35 packers, 32 sleeves and a liner 9,624' of Open Hole
+7" 29# HCPI 10 from 9,270' to 11,102'
+hanger with pack-off(925' of tools). Set
+Liner at 20,705'AUTHORIZATION TO PURCHASE AND TRANSPORT OIL FRO.~~
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION Well File No.
+600 EAST BOULEVARD DEPT 405 22249
+BISMARCK, ND 58505-0840 DIC CTB No. , l a
+SFN 5698 (03-2000) .).....?--"'Z..-""1 I
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND FOUR COPIES.
+Well Name and Number Qtr-Qtr Section County
+Ma num 2-36-25H SESE 36 McKenzie
+Operator Telephone Number Field
+Slawson Ex !oration Com an , Inc. 720-897-8762 Baker
+Address City State Zip Code
+co
+1675 Broadwa , Suite 1600 Denver 80202
+I
+Name of First Purchaser Telephone Number '%Purchased Date Effective
+Tesoro Refining & Marketing 201-626-6000 100 December 1, 2012
+Principal Place of Business City State Zip Code
+19100 Ridgewood Parkway San Antonio TX 78259
+Field Address City State Zip Code
+11071 32nd St. SW Dickinson ND I 58601
+Name of Transporter Telephone Number 1% Transported Date Effective
+Tesoro Logistics Operations LLC 201-626-6000 100 December 1, 2012
+Address City State Zip Code
+19100 Ridgeway Parkway San Antonio TX 78259
+The above named producer authorizes the above named purchaser to purchase the percentage of oil stated above which is produced from the lease
+designated above until further notice. The oil will be transported by the above named transporter.
+Other First Purchasers Purchasing From This Lease "lo Purchased Date Effective
+Other First Purchasers Purchasing From This Lease "lo Purchased Date Effective
+Other Transporters Transporting From This Lease "lo Transported Date Effective
+Other Transporters Transporting From This Lease "lo Transported Date Effective
+Comments
+1st production expected approx. 12/12/12. Slawson Exploration will request a verbal approval for 8,000 BO to allow
+time to submit a Well completion report.
+Date
+I hereby swear or affirm that the information provided is true, complete and correct as determined from all available records.
+December 11, 2012
+Signature Printed Name Title
+Matt Glenn Technician
+Witness Printed Name Witness Title
+Stacy Leyshon Market Analyst
+FOR STATE USE ONLY
+Date Approved FEB 2 5 2013
+By
+TitleXTrv
+IMPE il=.
+AS 4 N
+Lt I N L. L At IN Li
+6724 Corporation Pkwy
+Fort Worth, Texas 76126
+(817) 717-1820
+Directional Survey Certification Form
+Slawson Magnum 2 36 25H March 29, 2012
+- -
+Company Well Name Final Report Date
+ND SLW 0034 McKenzie County, ND 33 053 03944
+- - - -
+Job Number County/State API Number
+N 48 1' 29.71200" W 103 36° 16.48800" 36 153 101
+- -
+Surface Latitude Surface Longitude Sec. TWP Range
+- -
+NAD83 ND State Plane,
+Northern Zone, US Feet Nabors 419 22
+Datum Rig Contractor/ Name RKB Height
+Survey Depths 0 to (cid:9) 10237 ft
+Type of Survey Measurements While Drilling (MWD)
+Survey Depths ft
+Type of Survey
+Site Supervisor Jeromy Haggerty
+The data submitted in this report conforms to the standards and procedures as set
+forth by Schlumberger. This report represents a true.and correct directional wellbore
+survey based on original survey data (cid:127)b ned a (cid:9) well site.
+my gge
+Basin - FSM
+This document has been subscribed and affirmed, or sworn before me in the county of
+(cid:9)
+Adams in the state of Colorado, this (cid:9) day of , 20(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)
+Magnum 2-36-25H MWD 0' to 10237' Survey Report
+(DO Survey)
+Report Date: March 29, 2012 - 07:22 PM Survey / DLS Computation: Minimum Curvature / Lubinski
+Client: Slawson Vertical Section Azimuth: 357.950 ° (True North)
+Field: ND, McKenzie County (NAD 83 NZ) 2011 Vertical Section Origin: 0.000 ft, 0.000 ft
+Structure / Slot: Slawson (Magnum 2-36-25H) Nabors 419 / Magnum 2-36-25H ND Reference Datum: RKB
+Well: Magnum 2-36-25H ND Reference Elevation: 2180.000 ft above MSL
+Borehole: Original Hole Seabed / Ground Elevation: 2158.000 ft above MSL
+UWI / API#: ND-SLW-0034 I 33-053-03944 Magnetic Declination: 8.670 °
+Survey Name: Magnum 2-36-25H MWD d to 10237' Total Field Strength: 56577.012 nT
+Survey Date: March 29, 2012 Magnetic Dip Angle: 73.025 °
+Tort / AHD I DOI / ERD Ratio: 26.094 ° / 129.642 ft / 3.529 / 0.013 Declination Date: March 29, 2012
+Coordinate Reference System: NAD83 North Dakota State Plane, Northem Zone, US Feet Magnetic Declination Model: BGGM 2011
+Location Let / Long: N 48° 1' 29.71200", W 103° 38' 18.48800' North Reference: True North
+Location Grid N/E Y/X: N 389168.835 ftUS, E 1209015.582 ftUS Grid Convergence Used: 0.000 °
+Total Corr Mag North->True
+CRS Grid Convergence Angle: -2.31022168 ° North: 8.670 °
+Grid Scale Factor: 0.99993838 Local Coord Referenced To: Well Head
+Comments MD (cid:9) Ind (cid:9) /trim True (cid:9) ND(cid:9) VSEC (cid:9) NS (cid:9) EW (cid:9) DLS (cid:9) Northing (cid:9) Easting (cid:9) Latitude (cid:9) Longitude
+161 (cid:9) 1°1 (cid:9) II (cid:9) Ittl (cid:9) Ift) (cid:9) Ift) (cid:9) 1111 (cid:9) 1./100r0 (cid:9) IftUS) (cid:9) MUM(cid:9) IN/S ° "'I (cid:9) lEAN °' °I
+Surface 0.00 (cid:9) 0.00 (cid:9) 0.00 (cid:9) 0.00 (cid:9) 0.00 (cid:9) 0.00 (cid:9) 0.00 (cid:9) N/A (cid:9) 389168.83 (cid:9) 1209015.58 N 48 1 29.71 W 103 36 16.49
+Assumed Vertical 2188.00 (cid:9) 0.00 (cid:9) 0.00 (cid:9) 2168.00 (cid:9) 0.00 (cid:9) 0.00 (cid:9) 0.00 (cid:9) 0.00 (cid:9) 389168.83 (cid:9) 1209015.58 N 48 1 29.71 W 103 36 1649
+Start MWD Survey 2256.00 (cid:9) 0.79 (cid:9) 53.41 (cid:9) 2256.00 (cid:9) 0.34 (cid:9) 0.36 (cid:9) 0.49 (cid:9) 0.90 (cid:9) 389169.18 (cid:9) 1209016.08 N 48 1 29.72 W 103 36 16.48
+2351.00 (cid:9) 0.88 (cid:9) 235.600 (cid:9) 2350.99 (cid:9) 0.32 (cid:9) 0.34 (cid:9) 0.41 (cid:9) 1.76 (cid:9) 389169.16 (cid:9) 1209016.01 N 48 1 29.72 W 103 36 16.48
+2448.00 (cid:9) 0.18 (cid:9) 236.04 (cid:9) 2445.99 (cid:9) -0.14 (cid:9) -0.16 (cid:9) -0.31 (cid:9) 0.74 (cid:9) 389168.89 (cid:9) 1209015.28 N 48 1 29.71 W 103 36 16.49
+2542.00 (cid:9) 0.88 (cid:9) 238.40 (cid:9) 2541.98 (cid:9) -061 (cid:9) -0.85 (cid:9) -1.05 (cid:9) 0.73 (cid:9) 389168.23 (cid:9) 1209014.50 N 48 1 29.71 W 103 36 16.50
+2636.00 (cid:9) 0.97 (cid:9) 224.44 (cid:9) 2635.97 (cid:9) -1.54 (cid:9) -1.82 (cid:9) -2.21 (cid:9) 0.23 (cid:9) 389167.31 (cid:9) 1209013.31 N 48 1 29.70 W 103 36 18.52
+2730.00 (cid:9) 1.14 (cid:9) 205.83 (cid:9) 2729.96(cid:9) -2.91 (cid:9) -3.03 (cid:9) -3.17 (cid:9) 0.41 (cid:9) 389165.94 (cid:9) 1209012.29 N 48 1 29.68 W 103 36 16.53
+2826.00 (cid:9) 1.14 (cid:9) 218.64 (cid:9) 2825.94(cid:9) -4.48 (cid:9) -4.63 (cid:9) -4.18 (cid:9) 0.27 (cid:9) 389164.37 (cid:9) 1209011.22 N 48 1 29.67 W 103 36 16.55
+2924.00 (cid:9) 1.23 (cid:9) 229.10 (cid:9) 2923.92(cid:9) -5.88 (cid:9) -6.08 (cid:9) -5.59 (cid:9) 0.24 (cid:9) 389162.98 (cid:9) 1209009.75 N 48 1 29.65 W 103 36 16.57
+3019.00 (cid:9) 1.14 (cid:9) 228.57 (cid:9) 3018.90 (cid:9) -7.12 (cid:9) -7.38 (cid:9) -7.07 (cid:9) 0.10 (cid:9) 389181.75 (cid:9) 1209008.22 N 48 1 2964 W 103 36 16.59
+3114.00 (cid:9) 1.14 (cid:9) 226.29 (cid:9) 3113.88 (cid:9) -8.35 (cid:9) -8.65 (cid:9) -8.46 (cid:9) 0.05 (cid:9) 389180.53 (cid:9) 1209008.78 N 48 1 29.63 W 103 36 18.61
+3209.00 (cid:9) 1.14 (cid:9) 222.95 (cid:9) 3208.86 (cid:9) -9.84 (cid:9) -10.00 (cid:9) -9.78 (cid:9) 0.07 (cid:9) 389159.24 (cid:9) 1209005.40 N 48 1 29.61 W 103 36 16.63
+3304.00 (cid:9) 1.23 (cid:9) 214.80 (cid:9) 3303.84 (cid:9) -11.13 (cid:9) -11.53 (cid:9) -11.01 (cid:9) 0.20 (cid:9) 389157.76 (cid:9) 1209004.12 N 48 1 29.60 W 103 36 16.65
+3399.00 (cid:9) 0.88 (cid:9) 219.61 (cid:9) 339682 (cid:9) -12.49 (cid:9) -12.93 (cid:9) -12.05 (cid:9) 0.38 (cid:9) 389158.40 (cid:9) 1209003.02 N 48 1 29.58 W 103 36 18.67
+3494.00 (cid:9) 1.23 (cid:9) 211.26 (cid:9) 3493.81 (cid:9) -13.89 (cid:9) -14.37 (cid:9) -13.05 (cid:9) 0.40 (cid:9) 389155.01 (cid:9) 1209001.97 N 48 1 29.57 W 103 36 16.68
+3589.00 (cid:9) 0.97 (cid:9) 213.10 (cid:9) 3588.79 (cid:9) -15.40 (cid:9) -15.91 (cid:9) -14.01 (cid:9) 0.28 (cid:9) 389153.50 (cid:9) 1209000.94 N 48 1 29.55 W 103 36 18.69
+3684.00 (cid:9) 0.88 (cid:9) 204.23 (cid:9) 3683.78 (cid:9) -18.71 (cid:9) -17.25 (cid:9) -1425 (cid:9) 0.18 (cid:9) 389152.19 (cid:9) 1209000.15 N 48 1 29.54 W 103 36 16.71
+3779.00 (cid:9) 0.79 (cid:9) 219.87 (cid:9) 3778.77 (cid:9) -17.85 (cid:9) -18.42 (cid:9) -15.47 (cid:9) 0.26 (cid:9) 389151.06 (cid:9) 1208999.38 N 48 1 29.53 IN 103 36 16.72
+3877.00 (cid:9) 0.79 (cid:9) 219.43 (cid:9) 3876.78 (cid:9) -18.88 (cid:9) -19.46 (cid:9) -18.33 (cid:9) 0.01 (cid:9) 389150.05 (cid:9) 1208998.48 N 48 1 29.52 W 103 36 16.73
+3972.00 (cid:9) 0.70 (cid:9) 224.35 (cid:9) 3971.75 (cid:9) -19.75 (cid:9) -20.38 (cid:9) -17.18 (cid:9) 0.12 (cid:9) 389149.17 (cid:9) 120899762 N 48 1 29.51 W 103 36 16.74
+4065.00 (cid:9) 0.53 (cid:9) 221.63 (cid:9) 4064.74 (cid:9) -20.45 (cid:9) -21.11 (cid:9) -17.84 (cid:9) 0.19 (cid:9) 389148.47 (cid:9) 1208996.91 N 48 1 29.50 W 103 36 16.75
+4159.00 (cid:9) 0.44 (cid:9) 202.91 (cid:9) 4158.74 (cid:9) -21.10 (cid:9) -21.76 (cid:9) -18.27 (cid:9) 0.19 (cid:9) 389147.83 (cid:9) 1208996.45 N 48 1 29.50 W 103 36 16.76
+4254.00 (cid:9) 0.44 (cid:9) 171.71 (cid:9) 4253.74 (cid:9) -21.79 (cid:9) -22.46 (cid:9) -18.36 (cid:9) 0.25 (cid:9) 389147.13 (cid:9) 120899663 N 48 1 29.49 W 103 36 16.76
+4350.00 (cid:9) 0.44 (cid:9) 219.81 (cid:9) 4349.74 (cid:9) -2243 (cid:9) -23.11 (cid:9) -18.54 (cid:9) 0.37 (cid:9) 389146.49 (cid:9) 1208996.13 N 48 1 2948 W 103 36 16.76
+444760 (cid:9) 0.26 (cid:9) 246.50(cid:9) 4446.73 (cid:9) -22.79 (cid:9) -23.48 (cid:9) -18.98 (cid:9) 0.25 (cid:9) 389146.14 (cid:9) 1208995.87 N 48 1 2948 W 103 36 16.77
+454560 (cid:9) 0.18 (cid:9) 238.77(cid:9) 4544.73 (cid:9) -22.95 (cid:9) -23.65 (cid:9) -19.31 (cid:9) 0.09 (cid:9) 389145.98 (cid:9) 1208995.33 N 48 1 2948 W 103 36 16.77
+4639.00 (cid:9) 0.18 (cid:9) 252.65(cid:9) 4638.73 (cid:9) -23.06 (cid:9) -23.77 (cid:9) -19.58 (cid:9) 0.05 (cid:9) 389145.87 (cid:9) 1208995.06 N 48 1 29.48 W 103 36 16.78
+473460 (cid:9) 0.62 (cid:9) 285.61 (cid:9) 4733.73 (cid:9) -22.94 (cid:9) -23.68 (cid:9) -20.22 (cid:9) 0.50 (cid:9) 389145.99 (cid:9) 120899443 N 48 1 2948 W 103 36 16.79
+4830.00 (cid:9) 0.26 (cid:9) 269.27(cid:9) 4829.73 (cid:9) -22.78 (cid:9) -23.54 (cid:9) -20.94 (cid:9) 0.39 (cid:9) 389146.16 (cid:9) 1208993.71 N 48 1 2648 W 103 36 16.80
+4925.00 (cid:9) 0.09 (cid:9) 152.81 (cid:9) 4924.73 (cid:9) -22.84 (cid:9) -23.61 (cid:9) -21.12 (cid:9) 0.33 (cid:9) 389146.09 (cid:9) 1208993.53 N 48 1 29.48 W 103 38 18.80
+5021.00 (cid:9) 0.09 (cid:9) 137.98 (cid:9) 5020.73 (cid:9) -22.97 (cid:9) -23.73 (cid:9) -21.03 (cid:9) 062 (cid:9) 389145.97 (cid:9) 1208993.81 N 48 1 2948 W 103 38 18.80
+5118.00 (cid:9) 0.18 (cid:9) 87.33 (cid:9) 5115.73 (cid:9) -23.02 (cid:9) -23.78 (cid:9) -20.83 (cid:9) 0.15 (cid:9) 389145.91 (cid:9) 1208993.81 N 48 1 29.48 W 103 35 18.79
+5213.00 (cid:9) 0.44 (cid:9) 44.18 (cid:9) 5212.72 (cid:9) -22.76 (cid:9) -23.51 (cid:9) -20.42 (cid:9) 0.34 (cid:9) 389146.17 (cid:9) 1208994.23 N 48 1 29.48 W 103 36 18.79
+5308.00 (cid:9) 0.70 (cid:9) 32.58 (cid:9) 5307.72 (cid:9) -22.03 (cid:9) -2278 (cid:9) -19.88 (cid:9) 0.30 (cid:9) 389148.90 (cid:9) 1208994.83 N 48 1 29.49 W 103 36 16.78
+5404.00 (cid:9) 0.53 (cid:9) 72.30 (cid:9) 5403.71 (cid:9) -21.43 (cid:9) -22.13 (cid:9) -19.12 (cid:9) 0.47 (cid:9) 389147.50 (cid:9) 1208995.59 N 48 1 29.49 W 103 36 16.77
+5498.00 (cid:9) 0.26 (cid:9) 85.89 (cid:9) 5497.71 (cid:9) -21.23 (cid:9) -21.91 (cid:9) -18.51 (cid:9) 0.29 (cid:9) 38914769 (cid:9) 120899621 N 48 1 29.50 W 103 38 16.76
+5594.00 (cid:9) 0.53 (cid:9) 72.30 (cid:9) 5593.71 (cid:9) -21.03 (cid:9) -21.69 (cid:9) -17.89 (cid:9) 0.28 (cid:9) 389147.89 (cid:9) 1208996.84 N 48 1 29.50 W 103 38 16.75
+5689.00 (cid:9) 0.62 (cid:9) 48.57 (cid:9) 5688.71 (cid:9) -20.59 (cid:9) -21.21 (cid:9) -17.08 (cid:9) 0.27 (cid:9) 38914633 (cid:9) 1208997.66 N 48 1 29.50 W 103 36 16.74
+5786.00 (cid:9) 0.70 (cid:9) 41.80 (cid:9) 5785.70 (cid:9) -19.83 (cid:9) -20.42 (cid:9) -16.29 (cid:9) 0.12 (cid:9) 389149.09 (cid:9) 120899840 N 48 1 29.51 W 103 38 16.73
+5882.00 (cid:9) 0.97 (cid:9) 16.84 (cid:9) 5881.89 (cid:9) -18.64 (cid:9) -19.21 (cid:9) -15.67 (cid:9) 0.47 (cid:9) 389150.27 (cid:9) 1208999.15 N 48 1 2962 W 103 36 16.72
+5976.00 (cid:9) 1.32 (cid:9) 32.40 (cid:9) 5975.67 (cid:9) -16.99 (cid:9) -17.53 (cid:9) -14.86 (cid:9) 0,49 (cid:9) 389151.92 (cid:9) 1209000.03 N 48 1 29.54 W 103 36 16.71
+6073.00 (cid:9) 1.23 (cid:9) 38.73 (cid:9) 6072.65 (cid:9) -15.28 (cid:9) -15.78 (cid:9) -13.81 (cid:9) 0.17 (cid:9) 389153.82 (cid:9) 1209001.35 N 48 1 29.58 W 103 36 16.69
+6168.00 (cid:9) 0.88 (cid:9) 35.04 (cid:9) 6167.63 (cid:9) -13.93 (cid:9) -14.38 (cid:9) -12.55 (cid:9) 0.38 (cid:9) 389154.97 (cid:9) 1209002.46 N 48 1 29.57 W 103 36 16.67
+6283.00 (cid:9) 0.97 (cid:9) 25.63 (cid:9) 6262.62 (cid:9) -12.63 (cid:9) -13.06 (cid:9) -11.78 (cid:9) 0.19 (cid:9) 389156.26 (cid:9) 1209003.28 N 48 1 29.58 W 103 36 16.66
+6357.00 (cid:9) 0.79 (cid:9) 21.94 (cid:9) 6356.61 (cid:9) -11.34 (cid:9) -11.74 (cid:9) -1120 (cid:9) 0.20 (cid:9) 389157.55 (cid:9) 1209003.92 N 48 1 29.60 W 103 36 16.65
+6456.00 (cid:9) 0.79 (cid:9) 16.49 (cid:9) 6455.60 (cid:9) -10.07 (cid:9) -10.48 (cid:9) -10.75 (cid:9) 0.08 (cid:9) 389158.82 (cid:9) 120900442 N 48 1 29.61 W 103 36 16.65
+8549.00 (cid:9) 0.53 (cid:9) 44.97 (cid:9) 6548.59 (cid:9) -9.16 (cid:9) -9.54 (cid:9) -10.26 (cid:9) 0.44 (cid:9) 389159.72 (cid:9) 12091104.94 N 48 1 29.62 W 103 36 16.64
+6644.00 (cid:9) 0.62 (cid:9) 56.39 (cid:9) 8643.59 (cid:9) -8.60 (cid:9) -8.94 (cid:9) -9.52 (cid:9) 0.15 (cid:9) 389160.28 (cid:9) 1209005.71 N 48 1 2962 W 103 36 16.63
+6739.00 (cid:9) 0.53 (cid:9) 89.09 (cid:9) 6738.58 (cid:9) -8.34 (cid:9) -865 (cid:9) -8.66 (cid:9) 0.35 (cid:9) 389180.54 (cid:9) 1209006.58 N 48 1 29.83 W 103 36 16.62
+8832.00 (cid:9) 0.62 (cid:9) 63.69 (cid:9) 6831.58 (cid:9) -8.14 (cid:9) -8.42 (cid:9) -7.78 (cid:9) 0.29 (cid:9) 389160.73 (cid:9) 1209007.47 N 48 1 29.63 W 103 38 16.60
+8927.00 (cid:9) 1.14 (cid:9) 83.07 (cid:9) 6926.57 (cid:9) -7.53 (cid:9) -7.76 (cid:9) -6.47 (cid:9) 0.55 (cid:9) 389161.34 (cid:9) 1209008.80 N 48 1 29.64 W 103 36 16.58
+7025.00 (cid:9) 1.14 (cid:9) 53.14 (cid:9) 7024.55(cid:9) -6.56 (cid:9) -6.74 (cid:9) -4.82 (cid:9) 0.20 (cid:9) 389182.30 (cid:9) 1209010.49 N 48 1 29.65 W 103 36 16.56
+7120,00(cid:9) 0.79 (cid:9) 61.14 (cid:9) 7119.53(cid:9) -5.73 (cid:9) -5.86 (cid:9) -3.49 (cid:9) 0.39 (cid:9) 389163.13 (cid:9) 1209011.88 N 48 1 29.65 W 103 36 16.54
+7215.00 (cid:9) 0.97 (cid:9) 41.19 (cid:9) 7214.52(cid:9) -4.85 (cid:9) -4.93 (cid:9) -2.39 (cid:9) 0.37 (cid:9) 389164.00 (cid:9) 1209012.99 N 48 1 29.66 W 103 38 18.52
+7311.00 (cid:9) 1.23 (cid:9) 18.51(cid:9) 7310.50(cid:9) -3.29 (cid:9) -3.35 (cid:9) -1.53 (cid:9) 0.52 (cid:9) 389165.55 (cid:9) 1209013.92 N 48 1 29.68 W 103 36 16.51
+7406.00 (cid:9) 1.32 (cid:9) 27.39 (cid:9) 7405.48 (cid:9) -1.38 (cid:9) -1.41 (cid:9) -0.70 (cid:9) 023 (cid:9) 389167.46 (cid:9) 1209014.82 N 48 1 29.70 W 103 36 16.50
+7471.00 (cid:9) 1.67 (cid:9) 37.94 (cid:9) 7470.46(cid:9) 0.00 (cid:9) 0.00 (cid:9) 0.23 (cid:9) 0.68 (cid:9) 389168.83 (cid:9) 1209015.81 N 48 1 29.71 W 103 36 16.48
+7503.00 (cid:9) 1.67 (cid:9) 41.89 (cid:9) 7502.45(cid:9) 0.69 (cid:9) 0.72 (cid:9) 0.82 (cid:9) 0.38 (cid:9) 389169.52 (cid:9) 1209016.43 N 48 1 29.72 W 103 38 16.48
+7598.00 (cid:9) 1.67 (cid:9) 53.23 (cid:9) 7597.41 (cid:9) 2.47 (cid:9) 2.58 (cid:9) 2.86 (cid:9) 0.35 (cid:9) 389171.30 (cid:9) 1209018.54 N 48 1 29.74 W 103 36 16.45
+7693.00 (cid:9) 1.49 (cid:9) 5024(cid:9) 7692.37(cid:9) 4.02 (cid:9) 4.20 (cid:9) 4.92 (cid:9) 0.21 (cid:9) 389172.83 (cid:9) 1209020.66 N 48 1 29.75 W 103 36 16.42
+7790.00 (cid:9) 1.49 (cid:9) 61.76 (cid:9) 7789.34 (cid:9) 5.35 (cid:9) 5.60 (cid:9) 7.00 (cid:9) 0.31 (cid:9) 389174.15 (cid:9) 1209022.80 N 48 1 29.77 W 103 36 16.39
+7886.00 (cid:9) 0.97 (cid:9) 70.46 (cid:9) 7885.31 (cid:9) 6.14 (cid:9) 646 (cid:9) 8.86 (cid:9) 0.57 (cid:9) 389174.93 (cid:9) 1209024.70 N 48 1 29.78 W 103 36 16.38
+7981.00 (cid:9) 1,14 (cid:9) 86.19 (cid:9) 7980.30 (cid:9) 6.41 (cid:9) 8.79 (cid:9) 10.56 (cid:9) 0.35 (cid:9) 389175.20 (cid:9) 1209026.41 N 48 1 29.78 W 103 36 16.33
+8077.00 (cid:9) 1.14 (cid:9) 131.37 (cid:9) 8076.28 (cid:9) 5.79 (cid:9) 6.23 (cid:9) 12.23 (cid:9) 0.91 (cid:9) 389174.56 (cid:9) 1209028.05 N 48 1 29.77 W 103 38 16.31
+8174.00 (cid:9) 0.97 (cid:9) 129.34 (cid:9) 8173.26 (cid:9) 4.58 (cid:9) 5.07 (cid:9) 13.59 (cid:9) 0.18 (cid:9) 389173.35 (cid:9) 1209029.36 N 48 1 29.76 W 103 36 1629
+Drilling Office 2.5.1100.0 ...Slawson (Magnum 2-36-2511) Nabors 419 \Magnum 2-36-25H \Original Hole \Magnum 2-36-25H MWD 0' to 102371/10/2012 3:38 PM Page 1 of 2(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)
+Comments MD (cid:9) Incl (cid:9) Azim True (cid:9) ND(cid:9) VSEC (cid:9) NS(cid:9) EW (cid:9) DLS (cid:9) Northing (cid:9) Easting (cid:9) Latitude (cid:9) Longitude
+(ft) (cid:9) 1°) (cid:9) 1°) (cid:9) (ft) (cid:9) (ft) (cid:9) Rh (cid:9) Ift) (cid:9) (°/100ft) (cid:9) IftUSI (cid:9) (MA) (cid:9) IN/S " "'I (cid:9) IE/W ° "')
+8270.00 (cid:9) 0.88 (cid:9) 142.44 (cid:9) 8269.25 (cid:9) 3.44 (cid:9) 197 (cid:9) 14.67(cid:9) 0.24 (cid:9) 389172.21 (cid:9) 1209030.40 N 48 1 29.75 W 103 36 16.27
+8365.00 (cid:9) 0.97 (cid:9) 156.15 (cid:9) 8364.24 (cid:9) 2.10 (cid:9) 2.66 (cid:9) 15.44(cid:9) 0.25 (cid:9) 389170.87 (cid:9) 1209031.11 N 48 1 29.74 W 103 36 16.26
+8458.00 (cid:9) 0.79 (cid:9) 152.63 (cid:9) 8457.23 (cid:9) 0.79 (cid:9) 1.37(cid:9) 16.05(cid:9) 0.20 (cid:9) 389169.55 (cid:9) 1209031.67 N 48 1 29.73 W 103 36 16.25
+8554.00 (cid:9) 0.97 (cid:9) 157.21 (cid:9) 8553.22 (cid:9) -0.57 (cid:9) 0.03 (cid:9) 16.67(cid:9) 0.20 (cid:9) 389168.19 (cid:9) 1209032.24 N 48 1 29.71 W 103 36 16.24
+8649.00 (cid:9) 1.14 (cid:9) 169.33 (cid:9) 8648.20 (cid:9) -2.25 (cid:9) -1.84 (cid:9) 17.16(cid:9) 0.29 (cid:9) 389166.50 (cid:9) 1209032.66 N 48 1 29.70 W 103 36 18.24
+8745.00 (cid:9) 0.97 (cid:9) 167.93 (cid:9) 8744.19 (cid:9) -4.00 (cid:9) -3.37 (cid:9) 17.50(cid:9) 0.18 (cid:9) 389164.76 (cid:9) 1209032.93 N 48 1 29.88 W 103 36 16.23
+8840.00 (cid:9) 0.79 (cid:9) 176.01 (cid:9) 8839.17 (cid:9) -5.44 (cid:9) -4.81 (cid:9) 17.72(cid:9) 0.23 (cid:9) 389163.31 (cid:9) 1209033.09 N 48 1 29.66 W 103 36 18.23
+8938.00 (cid:9) 0.79 (cid:9) 183.86 (cid:9) 8935.17 (cid:9) -6.76 (cid:9) -6.13 (cid:9) 17.72(cid:9) 0.11 (cid:9) 389181.99 (cid:9) 1209033.04 N 48 1 29.65 W 103 36 18.23
+9029.00 (cid:9) 1.23 (cid:9) 180.94 (cid:9) 9028.15 (cid:9) -8.40 (cid:9) -7.77 (cid:9) 17.66(cid:9) 0.48 (cid:9) 389160.36 (cid:9) 1209032.92 N 48 1 29.64 W 103 36 16.23
+9125.00 (cid:9) 1.14 (cid:9) 188.05 (cid:9) 9124.13 (cid:9)-10.37 (cid:9) -9.75 (cid:9) 17.51 (cid:9) 0.18 (cid:9) 389158.39 (cid:9) 1209032.69 N 48 1 29.62 W 103 36 16.23
+9220.00 (cid:9) 1.32 (cid:9) 179.79 (cid:9) 9219.11(cid:9) -12.39 (cid:9) -11.78 (cid:9) 17.38(cid:9) 0.27 (cid:9) 389156.37 (cid:9) 1209032.48 N 48 1 29.60 W 103 36 16.23
+9318.00 (cid:9) 123 (cid:9) 182.81 (cid:9) 9315.08 (cid:9)-14.52 (cid:9) -13.91 (cid:9) 17.34(cid:9) 0.11 (cid:9) 38915423 (cid:9) 1209032.35 N 48 1 29.57 W 103 36 16.23
+9411.00 (cid:9) 141 (cid:9) 191.57 (cid:9) 9410.06 (cid:9)-18.138 (cid:9) -18.08 (cid:9) 17.06(cid:9) 0.29 (cid:9) 389152.08 (cid:9) 1209031.98 N 48 1 29.55 W 103 36 16.24
+9508.00 (cid:9) 1.32 (cid:9) 179.27 (cid:9) 9507.03 (cid:9)-18.95 (cid:9) -18.38 (cid:9) 16.84(cid:9) 0.32 (cid:9) 389149.81 (cid:9) 1209031.66 N 48 1 29.53 W 103 36 16.24
+9802.00 (cid:9) 1.32 (cid:9) 177.16 (cid:9) 9601.01(cid:9) -21.12 (cid:9) -20.53 (cid:9) 16.90(cid:9) 0.05 (cid:9) 389147.64 (cid:9) 1209031.64 N 48 1 29.51 W 103 38 16.24
+9698,00 (cid:9) 2.20 (cid:9) 168.63 (cid:9) 9696.96 (cid:9) -24.04 (cid:9) -23.44 (cid:9) 17.32(cid:9) 0.95 (cid:9) 389144.72 (cid:9) 1209031.94 N 48 1 29.48 W 103 36 18.23
+9794.00 (cid:9) 1.93 (cid:9) 165.99 (cid:9) 9792.90 (cid:9)-27.44 (cid:9) -26.81 (cid:9) 18.08(cid:9) 0.30 (cid:9) 389141.32 (cid:9) 1209032.56 N 48 1 29.45 W 103 36 18.22
+9888.00 (cid:9) 1.87 (cid:9) 178.37 (cid:9) 9888.85 (cid:9)-30.38 (cid:9) -29.72 (cid:9) 18.55(cid:9) 0.44 (cid:9) 389138.40 (cid:9) 1209032.91 N 48 1 29.42 W 103 36 16.22
+9985.00 (cid:9) 1.76 (cid:9) 188.91 (cid:9) 9983.81(cid:9) -33.24 (cid:9) -32.80 (cid:9) 18.46(cid:9) 0.34 (cid:9) 389135.51 (cid:9) 1209032.71 N 48 1 29.39 W 103 36 16.22
+10080.00 (cid:9) 1.49 (cid:9) 188.76 (cid:9) 10078.77 (cid:9) -35.90 (cid:9) -35.27 (cid:9) 18.09(cid:9) 0.29 (cid:9) 389132.88 (cid:9) 1209032.24 N 48 1 29.36 W 103 36 16.22
+10175.00 (cid:9) 1.23 (cid:9) 179.09 (cid:9) 10173.74 (cid:9)-38.13 (cid:9) -37.51 (cid:9) 17.92(cid:9) 0.38 (cid:9) 389130.63 (cid:9) 1209031.97 N 48 1 29.34 W 103 38 16.22
+End MWD Survey 10237.00 (cid:9) 0.97 (cid:9) 173.38 (cid:9) 10235.73 (cid:9) -39.32 (cid:9) -38.70 (cid:9) 17.99(cid:9) 0.45 (cid:9) 389129.44 (cid:9) 1209032.00 N 48 1 29.33 W 103 36 18.22
+Survey Type: (cid:9) Def Survey
+Survey Error Model: ISCWSA Rev 0 *** 3-D 95.000% Confidence 2.7955 sigma
+Survey Program:
+Description MD From (cid:9) MD To (cid:9) EOU Freq Survey Tool Type (cid:9) Borehole / Survey
+(ft) (cid:9) (ft) (cid:9) (ft)
+0.000 22.000 1/22.000 SLB_BLIND.TREND-Depth Only Original Hole / Magnum 2-36-25H MWD 0' to 10237
+22.000 2168.000 1/98.425 SLB_BLIND.TREND Original Hole / Magnum 2-38-251-I MWD 0' to 10237'
+2168.000 2168.000 Act Stns SLB_BLINDsTREND Original Hole / Magnum 2-36-25H MWD 0' to 10237'
+2168.000 10237.000 1/8069.000 SLB_MWD-STD Original Hole / Magnum 2-36-2511 MWD to 10237'
+Drilling Office 2.5.1100.0 (cid:9) ...Slawson (Magnum 2-36-25H) Nabors 419 \Magnum 2-36-25H \Original Hole \Magnum 2-36-25H MWD 0' to 102331/10/2012 3:38 PM Page 2 of 2Slawson Exploration Company, Inc.
+McKenzie County, ND
+Sec. 36-T153N-R101W
+Magnum 2-36-25H
+Plan B
+Survey: Sperry MWD Surveys
+Standard Report
+14 May, 2012
+Well Coordinates: 389,190.51 N, 1,208,872.51 E (48° 01' 29.87" N, 103° 36' 18.60" W)
+Ground Level: 2,156.00 ft
+Local Coordinate Origin: Centered on Well Magnum 2-36-25H
+Viewing Datum: RKB 22' @ 2178.00ft (Nabors 419)
+TVDs to System: N
+North Reference: True
+Unit System: API - US Survey Feet - Custom
+Geodetic Scale Factor Applied
+Version: 2003.16 Build: 43ISlawson Exploration Company, Inc.
+McKenzie County, ND
+Survey Report for Magnum 2-36-25H - Sperry MWD Surveys
+Measured Vertical Vertical Dogleg
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft)
+10,237.00 0.97 173.38 10,235.73 -38.70 17.99 -39.32 0.00
+Tie On to Extreme Surveys @ 10237'
+10,282.00 0.29 291.48 10,280.73 -39.04 17.93 -39.65 2.52
+First Sperry MWD Survey @ 10282'
+10,305.00 3.08 324.29 10,303.72 -38.51 17.51 -39.12 12.35
+10,337.00 7.33 327.81 10,335.58 -36.09 15.92 -36.63 13.31
+10,369.00 11.45 327.65 10,367.14 -31.67 13.14 -32.12 12.88
+10,401.00 13.96 330.86 10,398.36 -25.62 9.56 -25.94 8.15
+10,432.00 17.45 327.33 10,428.20 -18.44 5.23 -18.61 11.67
+10,464.00 20.92 326.44 10,458.42 -9.64 -0.52 -9.61 10.88
+10,496.00 24.64 328.18 10,487.91 0.80 -7.20 1.05 11.81
+10,528.00 28.10 329.73 10,516.58 12.98 -14.52 13.49 11.02
+10,560.00 31.68 331.35 10,544.32 26.86 -22.35 27.65 11.47
+10,592.00 35.23 332.18 10,571.01 42.41 -30.69 43.48 11.19
+10,623.00 38.78 333.70 10,595.77 59.02 -39.17 60.39 11.83
+10,655.00 42.65 334.35 10,620.02 77.79 -48.30 79.46 12.17
+10,687.00 46.35 334.49 10,642.84 98.01 -57.98 100.03 11.57
+10,719.00 49.98 334.31 10,664.18 119.51 -68.29 121.88 11.35
+10,751.00 53.06 334.73 10,684.09 142.12 -79.06 144.86 9.68
+10,782.00 56.24 334.29 10,702.02 164.94 -89.94 168.06 10.32
+10,814.00 59.80 333.72 10,718.97 189.34 -101.84 192.86 11.23
+10,846.00 63.61 334.33 10,734.13 214.66 -114.17 218.61 12.02
+10,878.00 67.06 334.85 10,747.48 240.93 -126.65 245.30 10.88
+10,909.00 69.11 336.14 10,759.05 267.09 -138.57 271.88 7.66
+10,941.00 71.41 336.49 10,769.86 294.68 -150.67 299.88 7.26
+10,973.00 73.85 336.96 10,779.41 322.73 -162.74 328.34 7.75
+11,005.00 76.30 337.06 10,787.65 351.19 -174.81 357.22 7.66
+11,037.00 79.51 337.36 10,794.36 380.03 -186.93 386.48 10.07
+11,069.00 83.24 337.84 10,799.16 409.28 -198.99 416.14 11.75
+11,100.00 86.18 338.72 10,802.01 437.95 -210.41 445.20 9.90
+11,132.00 88.25 338.96 10,803.57 467.76 -221.94 475.40 6.51
+11,164.00 89.75 339.53 10,804.13 497.68 -233.28 505.70 5.01
+11,196.00 91.51 339.71 10,803.78 527.67 -244.42 536.08 5.53
+11,260.00 90.71 339.59 10,802.54 587.66 -266.68 596.83 1.26
+11,308.00 90.31 338.58 10,802.11 632.50 -283.81 642.25 2.26
+11,374.00 91.42 338.92 10,801.11 694.00 -307.73 704.57 1.76
+11,468.00 89.20 342.45 10,800.60 782.69 -338.81 794.31 4.44
+11,563.00 88.33 345.48 10,802.65 873.96 -365.04 886.46 3.32
+11,659.00 89.14 349.11 10,804.77 967.57 -386.15 980.77 3.87
+11,754.00 89.01 352.87 10,806.31 1,061.37 -401.02 1,075.04 3.96
+11,848.00 89.08 355.55 10,807.87 1,154.87 -410.50 1,168.82 2.85
+11,944.00 89.38 357.86 10,809.16 1,250.70 -416.02 1,264.78 2.43
+12,039.00 91.02 359.37 10,808.83 1,345.66 -418.32 1,359.77 2.35
+12,071.00 91.23 359.61 10,808.20 1,377.66 -418.60 1,391.75 1.00
+12,134.00 90.09 358.67 10,807.48 1,440.64 -419.55 1,454.73 2.35
+12,197.00 90.28 358.66 10,807.27 1,503.62 -421.01 1,517.72 0.30
+12,229.00 90.31 358.80 10,807.11 1,535.62 -421.72 1,549.72 0.45
+12,292.00 90.86 358.41 10,806.47 1,598.59 -423.26 1,612.71 1.07
+12,324.00 91.33 358.50 10,805.85 1,630.58 -424.12 1,644.70 1.50
+12,387.00 90.06 358.49 10,805.09 1,693.55 -425.77 1,707.70 2.02
+14 May, 2012 - 10:37 Page 2 of 7 COMPASSSlawson Exploration Company, Inc.
+McKenzie County, ND
+Survey Report for Magnum 2-36-25H - Sperry MWD Surveys
+Measured Vertical Vertical Dogleg
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft)
+12,419.00 90.28 358.32 10,805.00 1,725.54 -426.66 1,739.69 0.87
+12,451.00 90.55 358.08 10,804.76 1,757.52 -427.67 1,771.69 1.13
+12,515.00 89.54 358.66 10,804.71 1,821.49 -429.49 1,835.69 1.82
+12,578.00 90.00 358.93 10,804.97 1,884.48 -430.81 1,898.68 0.85
+12,610.00 90.25 358.87 10,804.90 1,916.47 -431.43 1,930.68 0.80
+12,705.00 89.23 358.89 10,805.33 2,011.45 -433.29 2,025.66 1.07
+12,800.00 90.25 358.99 10,805.76 2,106.43 -435.04 2,120.65 1.08
+12,895.00 89.60 359.73 10,805.88 2,201.43 -436.10 2,215.62 1.04
+12,990.00 90.28 359.28 10,805.98 2,296.42 -436.93 2,310.58 0.86
+13,085.00 89.29 359.42 10,806.34 2,391.41 -438.00 2,405.55 1.05
+13,181.00 89.91 358.97 10,807.01 2,487.40 -439.35 2,501.53 0.80
+13,276.00 89.23 359.11 10,807.72 2,582.38 -440.94 2,596.51 0.73
+13,340.00 89.08 359.41 10,808.67 2,646.37 -441.77 2,660.48 0.52
+13,371.00 89.17 358.96 10,809.14 2,677.37 -442.21 2,691.47 1.48
+13,467.00 89.66 358.91 10,810.12 2,773.34 -443.99 2,787.45 0.51
+13,562.00 90.28 358.60 10,810.17 2,868.32 -446.06 2,882.44 0.73
+13,626.00 90.46 358.77 10,809.76 2,932.30 -447.53 2,946.43 0.39
+13,658.00 90.34 358.32 10,809.53 2,964.29 -448.34 2,978.43 1.46
+13,753.00 90.65 357.92 10,808.71 3,059.24 -451.46 3,073.43 0.53
+13,816.00 91.39 357.99 10,807.59 3,122.19 -453.70 3,136.42 1.18
+13,848.00 91.82 357.88 10,806.69 3,154.15 -454.86 3,168.40 1.39
+13,942.00 89.54 358.60 10,805.58 3,248.09 -457.74 3,262.39 2.54
+14,037.00 90.22 358.49 10,805.78 3,343.06 -460.16 3,357.38 0.73
+14,133.00 90.80 358.11 10,804.92 3,439.02 -463.00 3,453.38 0.72
+14,228.00 90.12 359.00 10,804.16 3,533.98 -465.40 3,548.37 1.18
+14,323.00 89.08 0.23 10,804.82 3,628.97 -466.04 3,643.32 1.70
+14,418.00 89.78 359.72 10,805.77 3,723.97 -466.08 3,738.26 0.91
+14,512.00 90.34 359.19 10,805.67 3,817.96 -466.97 3,832.22 0.82
+14,607.00 90.31 0.69 10,805.13 3,912.96 -467.07 3,927.16 1.58
+14,703.00 89.57 0.78 10,805.23 4,008.95 -465.84 4,023.05 0.78
+14,797.00 89.94 0.83 10,805.63 4,102.94 -464.52 4,116.93 0.40
+14,892.00 89.88 0.16 10,805.78 4,197.94 -463.70 4,211.84 0.71
+14,986.00 90.71 0.13 10,805.30 4,291.93 -463.46 4,305.77 0.88
+15,082.00 90.77 0.97 10,804.06 4,387.92 -462.54 4,401.66 0.88
+15,176.00 90.37 1.30 10,803.12 4,481.90 -460.68 4,495.51 0.55
+15,239.00 90.80 1.31 10,802.48 4,544.88 -459.24 4,558.40 0.68
+15,270.00 91.20 0.92 10,801.94 4,575.87 -458.64 4,589.34 1.80
+15,302.00 89.75 1.40 10,801.67 4,607.86 -457.99 4,621.29 4.77
+15,333.00 89.81 1.86 10,801.79 4,638.84 -457.11 4,652.23 1.50
+15,365.00 89.82 1.12 10,801.90 4,670.83 -456.28 4,684.17 2.31
+15,460.00 90.34 0.25 10,801.76 4,765.83 -455.14 4,779.06 1.07
+15,523.00 90.43 0.30 10,801.34 4,828.82 -454.84 4,842.00 0.16
+15,554.00 90.55 0.39 10,801.08 4,859.82 -454.65 4,872.97 0.48
+15,649.00 90.71 359.91 10,800.03 4,954.82 -454.41 4,967.90 0.53
+15,742.00 91.14 359.39 10,798.53 5,047.80 -454.97 5,060.85 0.73
+15,837.00 90.40 0.27 10,797.25 5,142.79 -455.26 5,155.78 1.21
+15,920.00 90.34 1.38 10,796.72 5,225.78 -454.06 5,238.68 1.34
+15,940.00 90.19 1.81 10,796.62 5,245.77 -453.50 5,258.64 2.28
+16,035.00 89.48 2.06 10,796.90 5,340.72 -450.30 5,353.41 0.79
+16,067.00 89.63 2.04 10,797.15 5,372.69 -449.15 5,385.32 0.47
+16,130.00 88.77 2.71 10,798.03 5,435.63 -446.54 5,448.13 1.73
+14 May, 2012 - 10:37 Page 3 of 7 COMPASSSlawson Exploration Company, Inc.
+McKenzie County, ND
+Survey Report for Magnum 2-36-25H - Sperry MWD Surveys
+Measured Vertical Vertical Dogleg
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft)
+16,194.00 87.87 1.80 10,799.90 5,499.55 -444.02 5,511.92 2.00
+16,225.00 87.63 1.88 10,801.12 5,530.51 -443.03 5,542.82 0.82
+16,321.00 89.20 1.70 10,803.77 5,626.43 -440.03 5,638.57 1.65
+16,353.00 89.54 1.85 10,804.13 5,658.41 -439.04 5,670.49 1.16
+16,416.00 89.97 1.40 10,804.40 5,721.38 -437.25 5,733.36 0.99
+16,512.00 90.77 1.89 10,803.78 5,817.34 -434.50 5,829.16 0.98
+16,607.00 89.35 2.06 10,803.68 5,912.28 -431.22 5,923.92 1.51
+16,671.00 89.60 1.11 10,804.26 5,976.25 -429.45 5,987.79 1.53
+16,702.00 89.63 1.53 10,804.47 6,007.25 -428.74 6,018.74 1.36
+16,797.00 90.25 0.91 10,804.57 6,102.22 -426.72 6,113.58 0.92
+16,861.00 90.80 1.51 10,803.98 6,166.21 -425.37 6,177.48 1.27
+16,892.00 90.40 0.72 10,803.66 6,197.20 -424.76 6,208.43 2.86
+16,988.00 90.83 1.07 10,802.63 6,293.18 -423.26 6,304.29 0.58
+17,083.00 89.35 0.82 10,802.48 6,388.16 -421.70 6,399.16 1.58
+17,178.00 90.12 1.26 10,802.92 6,483.15 -419.97 6,494.02 0.93
+17,273.00 90.65 1.13 10,802.28 6,578.12 -417.99 6,588.87 0.57
+17,368.00 88.95 0.81 10,802.61 6,673.11 -416.38 6,683.73 1.82
+17,431.00 89.35 0.67 10,803.55 6,736.09 -415.57 6,746.65 0.67
+17,463.00 89.20 0.50 10,803.95 6,768.09 -415.24 6,778.61 0.71
+17,558.00 89.78 0.61 10,804.80 6,863.08 -414.32 6,873.51 0.62
+17,620.00 90.00 0.43 10,804.92 6,925.08 -413.76 6,935.45 0.46
+17,651.00 90.09 0.90 10,804.89 6,956.08 -413.40 6,966.41 1.54
+17,715.00 90.46 0.25 10,804.59 7,020.07 -412.76 7,030.34 1.17
+17,746.00 90.77 0.58 10,804.25 7,051.07 -412.53 7,061.31 1.46
+17,841.00 89.48 0.64 10,804.05 7,146.06 -411.52 7,156.21 1.36
+17,935.00 89.94 0.83 10,804.52 7,240.05 -410.32 7,250.10 0.53
+18,029.00 90.34 0.34 10,804.29 7,334.05 -409.36 7,344.00 0.67
+18,122.00 90.71 0.14 10,803.44 7,427.04 -408.97 7,436.92 0.45
+18,215.00 89.23 0.26 10,803.49 7,520.04 -408.64 7,529.84 1.60
+18,308.00 89.91 0.63 10,804.19 7,613.03 -407.92 7,622.75 0.83
+18,401.00 90.06 0.03 10,804.21 7,706.03 -407.38 7,715.67 0.67
+18,464.00 90.62 0.25 10,803.84 7,769.03 -407.23 7,778.62 0.96
+18,495.00 90.52 359.97 10,803.53 7,800.03 -407.17 7,809.60 0.96
+18,589.00 89.20 0.32 10,803.76 7,894.02 -406.93 7,903.53 1.45
+18,682.00 89.29 0.09 10,804.98 7,987.02 -406.60 7,996.45 0.27
+18,776.00 89.57 0.07 10,805.92 8,081.01 -406.47 8,090.38 0.30
+18,793.00 89.81 359.02 10,806.01 8,098.01 -406.60 8,107.37 6.34
+18,888.00 90.12 359.14 10,806.07 8,193.00 -408.13 8,202.35 0.35
+18,983.00 90.06 358.23 10,805.92 8,287.97 -410.31 8,297.34 0.96
+19,078.00 90.56 0.22 10,805.41 8,382.96 -411.59 8,392.31 2.16
+19,141.00 90.92 358.72 10,804.59 8,445.95 -412.18 8,455.28 2.45
+19,173.00 91.14 358.90 10,804.02 8,477.93 -412.84 8,487.28 0.89
+19,205.00 91.02 359.01 10,803.41 8,509.92 -413.42 8,519.27 0.51
+19,268.00 90.15 359.12 10,802.77 8,572.91 -414.45 8,582.25 1.39
+19,363.00 89.85 359.48 10,802.77 8,667.90 -415.61 8,677.22 0.49
+19,458.00 89.60 358.38 10,803.23 8,762.88 -417.39 8,772.21 1.19
+19,553.00 91.08 358.39 10,802.66 8,857.84 -420.06 8,867.20 1.56
+19,647.00 89.88 359.40 10,801.87 8,951.82 -421.88 8,961.18 1.67
+19,742.00 90.43 359.40 10,801.62 9,046.81 -422.87 9,056.15 0.58
+19,838.00 90.52 359.38 10,800.82 9,142.80 -423.89 9,152.12 0.10
+19,933.00 90.18 0.23 10,800.24 9,237.80 -424.22 9,247.06 0.96
+14 May, 2012 - 10:37 Page 4 of 7 COMPASSSlawson Exploration Company, Inc.
+McKenzie County, ND
+Survey Report for Magnum 2-36-25H - Sperry MWD Surveys
+Measured Vertical Vertical Dogleg
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft)
+19,997.00 90.59 0.16 10,799.81 9,301.80 -424.00 9,311.01 0.65
+20,028.00 90.92 359.01 10,799.40 9,332.79 -424.22 9,342.00 3.86
+20,124.00 89.26 0.14 10,799.25 9,428.79 -424.94 9,437.95 2.09
+20,219.00 89.26 0.26 10,800.48 9,523.78 -424.60 9,532.87 0.13
+20,313.00 89.63 0.44 10,801.39 9,617.77 -424.03 9,626.78 0.44
+20,408.00 90.00 0.41 10,801.70 9,712.77 -423.33 9,721.69 0.39
+20,502.00 90.31 0.31 10,801.44 9,806.77 -422.74 9,815.61 0.35
+20,598.00 90.80 0.05 10,800.51 9,902.76 -422.43 9,911.53 0.58
+20,681.00 91.20 0.17 10,799.06 9,985.75 -422.27 9,994.46 0.50
+Final Sperry MWD Survey@20681'
+20,728.00 91.20 0.17 10,798.08 10,032.74 -422.13 10,041.42 0.00
+Straight Line Projection To Bit @ 20728'
+Survey Annotations
+Measured Vertical Local Coordinates
+Depth Depth +N/-S +E/-W Comment
+(ft) (ft) (ft) (ft)
+10,237.00 10,235.73 -38.70 17.99 Tie On to Extreme Surveys @ 10237'
+10,282.00 10,280.73 -39.04 17.93 First Sperry MWD Survey @ 10282'
+20,681.00 10,799.06 9,985.75 -422.27 Final Sperry MWD Survey@20681'
+20,728.00 10,798.08 10,032.74 -422.13 Straight Line Projection To Bit @ 20728'
+Vertical Section Information
+Angle Origin Origin Start
+Type Target Azimuth Type +N/_S +E/-W TVD
+(°) (ft) (ft) (ft)
+User No Target (Freehand) 357.95 Slot 0.00 0.00 0.00
+Survey tool program
+From To Survey/Plan Survey Tool
+(ft) (ft)
+2,168.00 10,237.00 Extreme MWD Surveys MWD
+10,282.00 20,728.00 Sperry MWD Surveys MWD
+Casing Details
+Measured Vertical Casing Hole
+Depth Depth Name Diameter Diameter
+(ft) (ft) (") (")
+2,168.00 9 5/8" 9-5/8 12-1/4
+11,104.00 10,802.27 7" 7 8-3/4
+14 May, 2012 - 10:37 Page 5 of 7 COMPASSSlawson Exploration Company, Inc.
+McKenzie County, ND
+Survey Report for Magnum 2-36-25H - Sperry MWD Surveys
+Formation Details
+Measured Vertical Dip
+Depth Depth TVDSS Name Lithology Dip Direction
+(ft) (ft) (ft) (°) (°)
+7,858.68 7,858.00 5,680.00 Tyler 0.00
+8,399.76 8,399.00 6,221.00 Kibbey Lime 0.00
+8,602.79 8,602.00 6,424.00 Charles 0.00
+9,271.91 9,271.00 7,093.00 Base Last Salt 0.00
+9,493.96 9,493.00 7,315.00 Mission Canyon 0.00
+10,023.21 10,022.00 7,844.00 Lodgepole 0.00
+10,920.28 10,763.00 8,585.00 False Bakken 0.00
+10,941.44 10,770.00 8,592.00 Upper Bakken Shale 0.00
+10,994.12 10,785.00 8,607.00 Middle Bakken 0.00
+Targets
+Target Name Dip Dip
+- hit/miss target Angle Dir. TVD +N/-S +E/-W Northing Easting
+- Shape (°) (°) (ft) (ft) (ft) (ft) (ft) Latitude Longitude
+Magnum 2-36-25H BHL0.00 0.00 10,758.00 10,033.01 -360.00 399,229.24 1,208,917.31 48° 3' 8.879 N 103° 36' 23.903 W
+- survey misses target center by 73.94ft at 20728.00ft MD (10798.08 TVD, 10032.74 N, -422.13 E)
+- Point
+Magnum 1-36-25H Plan 0A. 0S0ec. L0in.0e0s -35.00 49.22 -4,197.26 389,408.91 1,204,680.91 48° 1' 30.350 N 103° 37' 20.350 W
+- survey misses target center by 11102.43ft at 10237.00ft MD (10235.73 TVD, -38.70 N, 17.99 E)
+- Polygon
+Magnum 2-36-25H Setba0c.0k0s 0.00 0.00 47.20 -4,197.26 389,406.88 1,204,680.83 48° 1' 30.330 N 103° 37' 20.350 W
+- survey misses target center by 11070.05ft at 10237.00ft MD (10235.73 TVD, -38.70 N, 17.99 E)
+- Polygon
+Magnum 1-36-25H Plan 0A. 0C0tr.Lin0e.00 -35.00 49.22 -4,197.26 389,408.91 1,204,680.91 48° 1' 30.350 N 103° 37' 20.350 W
+- survey misses target center by 11102.43ft at 10237.00ft MD (10235.73 TVD, -38.70 N, 17.99 E)
+- Polygon
+14 May, 2012 - 10:37 Page 6 of 7 COMPASSSlawson Exploration Company, Inc.
+McKenzie County, ND
+North Reference Sheet for Sec. 36-T153N-R101W - Magnum 2-36-25H - Plan B
+All data is in US Feet unless otherwise stated. Directions and Coordinates are relative to True North Reference.
+Vertical Depths are relative to RKB 22' @ 2178.00ft (Nabors 419). Northing and Easting are relative to Magnum 2-36-25H
+Coordinate System is US State Plane 1983, North Dakota Northern Zone using datum North American Datum 1983, ellipsoid GRS 1980
+Projection method is Lambert Conformal Conic (2 parallel)
+Central Meridian is 100° 30' 0.000 W°, Longitude Origin:0° 0' 0.000 E°, Latitude Origin:48° 44' 0.000 N°
+False Easting: 1,968,500.00ft, False Northing: 0.00ft, Scale Reduction: 0.99993638
+Grid Coordinates of Well: 389,190.51 ft N, 1,208,872.51 ft E
+Geographical Coordinates of Well: 48° 01' 29.87" N, 103° 36' 18.60" W
+Grid Convergence at Surface is: -2.31°
+Based upon Minimum Curvature type calculations, at a Measured Depth of 20,728.00ft
+the Bottom Hole Displacement is 10,041.61ft in the Direction of 357.59° (True).
+Magnetic Convergence at surface is: -10.96° (27 March 2012, , BGGM2011)
+14 May, 2012 - 10:37 Page 7 of 7 COMPASSProject: McKenzie County, ND
+Site: Sec. 36-T153N-R101W
+Well: Magnum 2-36-25H Slawson Exploration Company, Inc.
+L E G E N D
+Magnum 2-36-25H, Plan B, Plan B Rev 0 V0
+Sperry MWD Surveys
+10500
+Straight Line Projection To Bit @ 20728'
+Final Sperry MWD Survey@20681'
+9000
+7500
+6000
+4500
+3000
+1500
+First Sperry MWD Survey @ 10282'
+Tie On to Extreme Surveys @ 10237'
+0
+-4500 -3000 -1500 0 1500 3000 4500
+West(-)/East(+) (1500 ft/in)
+)ni/tf
+0051(
+)+(htroN/)-(htuoSProject: McKenzie County, ND
+Site: Sec. 36-T153N-R101W
+Well: Magnum 2-36-25H Slawson Exploration Company, Inc.
+L E G E N D
+Magnum 2-36-25H, Plan B, Plan B Rev 0 V0
+Sperry MWD Surveys
+-2000
+0
+2000
+4000
+6000
+8000
+Tie On to Extreme Surveys @ 10237'
+Straight Line Projection To Bit @ 20728'
+First Sperry MWD Survey @ 10282'
+10000
+Final Sperry MWD Survey@20681'
+12000
+0 2000 4000 6000 8000 10000
+Vertical Section at 357.95° (2000 ft/in)
+)ni/tf
+0002(
+htpeD
+lacitreV
+eurTJanuary 13, 2012
+Khem Suthiwan
+Permitting Manager
+SLAWSON EXPLORATION COMPANY, INC.
+1675 Broadway, Suite 1600
+Denver, CO 80202
+RE: HORIZONTAL WELL
+MAGNUM 2-36-25H
+SESE Section 36-153N-101W
+McKenzie County
+Well File # 22249
+Dear Khem :
+Pursuant to Commission Order No. 18012, approval to drill the above captioned well is hereby given. The
+approval is granted on the condition that all portions of the well bore not isolated by cement, be no closer than
+the 200' setback from the north & south boundaries and 500' setback from the east & west boundaries within
+the 1280 acre spacing unit consisting of All of Sections 36 & 25, T153N R101W. Tool error is not required
+pursuant to order.
+PERMIT STIPULATIONS: A LOCATION DIKE MUST BE CONSTRUCTED ON THE
+NORTHERN PORTION OF THE SITE. ALSO, IN ORDER TO JUSTIFY THE SPACING UNIT,
+THE MAGNUM 1-36-25H & MAGNUM 2-36-25H MUST BE DRILLED BACK TO BACK.
+ALTERNATIVELY, SLAWSON MUST DRILL THE MAGNUM 1-36-25H IF ONLY ONE WELL IS
+DRILLED IN THE SPACING UNIT INITIALLY. LASTLY, SLAWSON MUST CONTACT MARK
+BINNS AT 701-220-5989 PRIOR TO LOCATION CONSTRUCTION.
+Form 1 Changes & Hard Lines
+Any changes, shortening of casing point or lengthening at Total Depth must have prior approval by the NDIC.
+The proposed directional plan is at a legal location. The minimum legal coordinate from the well head at casing
+point is: 260W. Also, based on the azimuth of the proposed lateral the maximum legal coordinate from the well
+head is: 10083N & 260W.
+Location Construction Commencement (Three Day Waiting Period)
+Operators shall not commence operations on a drill site until the 3rd business day following publication of the
+approved drilling permit on the NDIC - OGD Daily Activity Report. If circumstances require operations to
+commence before the 3rd business day following publication on the Daily Activity Report, the waiting period may
+be waived by the Director. Application for a waiver must be by sworn affidavit providing the information
+necessary to evaluate the extenuating circumstances, the factors of NDAC 43-02-03-16.2 (1), (a)-(f), and any other
+information that would allow the Director to conclude that in the event another owner seeks revocation of the
+drilling permit, the applicant should retain the permit.
+Permit Fee & Notification
+Payment was received in the amount of $100 via credit card. It is requested that notification be given
+immediately upon the spudding of the well. This information should be relayed to the Oil & Gas Division,
+Bismarck, via telephone. The following information must be included: Well name, legal location, permit number,
+drilling contractor, company representative, date and time of spudding. Office hours are 8:00 a.m. to 12:00 p.m.
+and 1:00 p.m. to 5:00 p.m. Central Time. Our telephone number is (701) 328-8020, leave a message if after hoursor on the weekend.
+Khem Suthiwan
+January 13, 2012
+Page 2
+Survey Requirements for Horizontal, Horizontal Re-entry, and Directional Wells
+NDAC Section 43-02-03-25 (Deviation Tests and Directional Surveys) states in part (that) the survey
+contractor shall file a certified copy of all surveys with the director free of charge within thirty days of completion.
+Surveys must be submitted as one electronic copy, or in a form approved by the director. However, the director
+may require the directional survey to be filed immediately after completion if the survey is needed to conduct the
+operation of the director's office in a timely manner. Certified surveys must be submitted via email in one adobe
+document, with a certification cover page to certsurvey@nd.gov.
+Survey points shall be of such frequency to accurately determine the entire location of the well bore.
+Confidential status
+Your request for confidential status of all information furnished to the Director, or his representatives, is
+hereby granted. Such information, except production runs, shall remain confidential for six months commencing
+on the date the well is spud.
+Confidential status notwithstanding, the Director and his representatives shall have access to all well
+records wherever located. Your company personnel, or any person performing work for your company shall
+permit the Director and his representatives to come upon any lease, property, well, or drilling rig operated or
+controlled by them, complying with all safety rules, and to inspect the records and operation of such wells and to
+have access at all times to any and all records of wells. The Commission's field personnel periodically inspect
+producing and drilling wells. Any information regarding such wells shall be made available to them at any time
+upon request. The information so obtained by the field personnel shall be maintained in strict confidence and
+shall be available only to the Commission and its staff.
+Drilling pit
+Please be advised approval for use of a drilling reserve pit or drill cuttings pit on this site is contingent on
+site specific conditions and special pit closure requirements may apply.
+Surface casing cement
+Tail cement utilized on surface casing must have a minimum compressive strength of 500 psi within 12
+hours, and tail cement utilized on production casing must have a minimum compressive strength of 500 psi
+before drilling the plug or initiating tests.
+Logs
+NDAC Section 43-02-03-31 requires the running of a Cement Bond Log from which the presence of
+cement can be determined in every well in which production or intermediate casing has been set and a Gamma
+Ray Log must be run from total depth to ground level elevation of the well bore. All logs must be submitted as
+one paper copy and one digital copy in LAS (Log ASCII) format, or a format approved by the Director. Image
+logs that include, but are not limited to, Mud Logs, Cement Bond Logs, and Cyberlook Logs, cannot be produced
+in their entirety as LAS (Log ASCII) files. To create a solution and establish a standard format for industry to
+follow when submitting image logs, the Director has given approval for the operator to submit an image log as a
+TIFF (*.tif) formatted file. The TIFF (*.tif) format will be accepted only when the log cannot be produced in its
+entirety as a LAS (Log ASCII) file format. The digital copy may be submitted on a standard CD, or attached to an
+email sent to digitallogs@nd.gov Thank you for your cooperation.
+Sincerely,
+Todd L. Holweger
+Mineral Resources Permit Manager(cid:9)99=(cid:6)(cid:11)(cid:9)(cid:10)(cid:6)8(cid:14)(cid:8)?8(cid:2)(cid:8)9(cid:3)(cid:2)(cid:13)(cid:6)(cid:10)(cid:8)(cid:10)8(cid:8)(cid:7)(cid:2)(cid:6)==(cid:8)(cid:12)8(cid:2)(cid:6)A8(cid:14)(cid:10)(cid:9)=(cid:8)3(cid:3)==(cid:8)B(cid:8)?8(cid:2)(cid:13)(cid:8)1(cid:12)
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+SFN 54269 (08-2005)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Type of Work Type of Well Approximate Date Work Will Start Confidential Status
+NewLocation Oil&Gas 11 / 01 / 2011 Yes
+Operator Telephone Number
+SLAWSONEXPLORATIONCOMPANY,INC. 720-457-9821
+Address City State Zip Code
+1675Broadway,Suite1600 Denver CO 80202
+✔ Noticehasbeenprovidedtotheownerofany ✔ Thiswellisnotlocatedwithinfivehundred
+permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
+3(cid:3)==(cid:8)(cid:6)(cid:14)?8(cid:2)(cid:13)(cid:9)(cid:10)(cid:6)8(cid:14)(cid:8)@(cid:6)(cid:21)(cid:8)%(cid:27)(cid:18)(cid:17)(cid:8)(cid:19)!(cid:31)#(cid:8)(cid:27)#(cid:17)(cid:8)(cid:30)(cid:31)(cid:19)(cid:17)(cid:18)(cid:31)(cid:30)(cid:8)(cid:29)(cid:18)(cid:27)(cid:29)(cid:27)(cid:23)(cid:17)(cid:22) (cid:8)enter data for additional laterals on page 2)
+Well Name Well Number
+MAGNUM 2-36-25H
+Surface Footages Qtr-Qtr Section Township Range County
+205 F S L 240 F E L SESE 36 153 (cid:14) 101 3 McKenzie
+Longstring Casing Point Footages Qtr-Qtr Section Township Range County
+591 F S L 520 F E L SESE 36 153 (cid:14) 101 3 McKenzie
+Longstring Casing Point Coordinates From Well Head Azimuth Longstring Total Depth
+386 N From WH 280 WFrom WH 324 > 11031 Feet MD 10758 Feet TVD
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+251 F N L 840 F E W L NENE 25 153 (cid:14) 101 3 McKenzie
+Bottom Hole Coordinates From Well Head KOP Lateral 1 Azimuth Lateral 1 Estimated Total Depth Lateral 1
+10032 N From WH 600 WFrom WH 10281 Feet MD 360 > 20743 Feet MD 10758 Feet TVD
+Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
+48 6 01 (cid:28) 29.87: -103 6 36 (cid:28) 18.60 : NAD83 SpacingUnit: AllofSect36&25,T153NR101W
+Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
+2158 Feet Above S.L. 1280 200 FeetN/S 500 FeetFEe/eWt 18012
+North Line of Spacing/Drilling Unit South Line of Spacing/Drilling Unit East Line of Spacing/Drilling Unit West Line of Spacing/Drilling Unit
+5268 Feet 5251 Feet 10488 Feet 10548 Feet
+Objective Horizons Pierre Shale Top
+Bakken 2030
+Proposed Size Weight Depth Cement Volume (cid:14)8(cid:10)(cid:3)(cid:16)(cid:8)(cid:15)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)(cid:8)!(cid:27)(cid:30)(cid:17)(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)(cid:22)(cid:18)(cid:20)(cid:30)(cid:30)(cid:17)(cid:22)(cid:8),(cid:20)(cid:19)!(cid:8)(cid:21)(cid:18)(cid:17)(cid:23)!(cid:8),(cid:31)(cid:19)(cid:17)(cid:18)
+Surface Casing 9 B 5/8 : 36 Lb./Ft. 2130 Feet 660 Sacks (cid:31)#(cid:22)(cid:8)(cid:23)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)(cid:8)$(cid:31)(cid:23)(cid:20)#&(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)$(cid:17)%(cid:17)#(cid:19)(cid:17)(cid:22)(cid:8)*(cid:31)$/(cid:8)(cid:19)(cid:27)(cid:8)(cid:23)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)-
+Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
+Longstring Casing 7 B 0 : 29&32 Lb./Ft. 11031Feet MD 10758 Feet TVD 651 Sacks 4238 Feet 5383 Feet
+BBaassee oLfa LsatsCt hSaarllet s(IfS Aapltp(lIifcAabplpel)icable)
+(cid:14)8(cid:10)(cid:3)(cid:16)(cid:8)(cid:6)#(cid:19)(cid:17)(cid:18)%(cid:17)(cid:22)(cid:20)(cid:31)(cid:19)(cid:17)(cid:8)(cid:27)(cid:18)(cid:8)(cid:30)(cid:27)#&(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)$(cid:31)(cid:23)(cid:20)#&(cid:8)(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)$(cid:17)%(cid:17)#(cid:19)(cid:17)(cid:22)(cid:8)(cid:31)*(cid:27)(cid:25)(cid:17)(cid:8)(cid:19)!(cid:17)(cid:8)(cid:19)(cid:27)(cid:29)(cid:8)(cid:7)(cid:31)/(cid:27)(cid:19)(cid:31)(cid:8);(cid:18)(cid:27)(cid:24)(cid:29)(cid:8)(cid:15)(cid:31)#(cid:22)-
+9254 Feet
+Proposed Logs
+TripleCombo-DIL,CNL,CDLwithGRtosurfaceCBL/GR/CCL
+Drilling Mud Type (Vertical Hole - Below Surface Casing) Drilling Mud Type (Lateral)
+Invert Other-SeeComments
+Survey Type in Vertical Portion of Well Survey Frequency: Build Section Survey Frequency: Lateral Survey Contractor
+MWD Every 100 Feet 30 Feet 90 Feet DirectionalDrillingCo.
+(cid:14)8(cid:10)(cid:3)(cid:16)(cid:8)(cid:9)(cid:8);(cid:31)%%(cid:31)(cid:8)(cid:2)(cid:31)(cid:26)(cid:8)(cid:30)(cid:27)&(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)(cid:18)(cid:24)#(cid:8)(cid:19)(cid:27)(cid:8)&(cid:18)(cid:27)(cid:24)#(cid:22)(cid:8)(cid:23)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)(cid:8)(cid:31)#(cid:22)(cid:8)(cid:31)(cid:8)(cid:11)<=(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)(cid:18)(cid:24)#(cid:8)(cid:27)#(cid:8)(cid:20)#(cid:19)(cid:17)(cid:18)%(cid:17)(cid:22)(cid:20)(cid:31)(cid:19)(cid:17)(cid:8)(cid:27)(cid:18)(cid:8)(cid:30)(cid:27)#&(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)$(cid:31)(cid:23)(cid:20)#&(cid:8)(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)(cid:20)(cid:21)(cid:8)(cid:23)(cid:17)(cid:19)-
+(cid:15)(cid:24)(cid:18)(cid:25)(cid:17)(cid:26)(cid:23)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)(cid:18)(cid:17)’(cid:24)(cid:20)(cid:18)(cid:17)(cid:22)(cid:8)(cid:31)(cid:19)(cid:8)(cid:30)(cid:17)(cid:31)(cid:23)(cid:19)(cid:8)(cid:17)(cid:25)(cid:17)(cid:18)(cid:26)(cid:8)()(cid:8)(cid:21)(cid:17)(cid:17)(cid:19)(cid:8)(cid:20)#(cid:8)(cid:19)!(cid:17)(cid:8)*(cid:24)(cid:20)(cid:30)(cid:22)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:31)#(cid:22)(cid:8)(cid:17)(cid:25)(cid:17)(cid:18)(cid:26)(cid:8)+)(cid:8)(cid:21)(cid:17)(cid:17)(cid:19)(cid:8)(cid:20)#(cid:8)(cid:19)!(cid:17)(cid:8)(cid:30)(cid:31)(cid:19)(cid:17)(cid:18)(cid:31)(cid:30)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:27)(cid:21)(cid:8)(cid:31)(cid:8)!(cid:27)(cid:18)(cid:20)"(cid:27)#(cid:19)(cid:31)(cid:30)(cid:8),(cid:17)(cid:30)(cid:30)-(cid:8)(cid:8)(cid:13)(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)
+(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:20)(cid:17)(cid:23)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)#(cid:27)(cid:19)(cid:8)$(cid:27)#(cid:23)(cid:20)(cid:22)(cid:17)(cid:18)(cid:17)(cid:22)(cid:8),!(cid:17)#(cid:8)(cid:22)(cid:17)(cid:19)(cid:17)(cid:18)%(cid:20)#(cid:20)#&(cid:8)$(cid:27)%(cid:29)(cid:30)(cid:20)(cid:31)#$(cid:17)(cid:8),(cid:20)(cid:19)!(cid:8)(cid:19)!(cid:17)(cid:8)(cid:23)(cid:29)(cid:31)$(cid:20)#&.(cid:22)(cid:18)(cid:20)(cid:30)(cid:30)(cid:20)#&(cid:8)(cid:24)#(cid:20)(cid:19)(cid:8)*(cid:27)(cid:24)#(cid:22)(cid:31)(cid:18)(cid:26)(cid:8)(cid:23)(cid:17)(cid:19)*(cid:31)$/(cid:8)(cid:18)(cid:17)’(cid:24)(cid:20)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:17)0$(cid:17)(cid:29)(cid:19)(cid:8)(cid:20)#(cid:8)(cid:19)!(cid:17)(cid:8)
+(cid:21)(cid:27)(cid:30)(cid:30)(cid:27),(cid:20)#&(cid:8)(cid:23)$(cid:17)#(cid:31)(cid:18)(cid:20)(cid:27)(cid:23)(cid:16)(cid:8)(cid:8)12(cid:8)3!(cid:17)#(cid:8)(cid:19)!(cid:17)(cid:8)(cid:31)#&(cid:30)(cid:17)(cid:8)*(cid:17)(cid:19),(cid:17)(cid:17)#(cid:8)(cid:19)!(cid:17)(cid:8),(cid:17)(cid:30)(cid:30)(cid:8)*(cid:27)(cid:18)(cid:17)(cid:8)(cid:31)#(cid:22)(cid:8)(cid:19)!(cid:17)(cid:8)(cid:18)(cid:17)(cid:23)(cid:29)(cid:17)$(cid:19)(cid:20)(cid:25)(cid:17)(cid:8)*(cid:27)(cid:24)#(cid:22)(cid:31)(cid:18)(cid:26)(cid:8)(cid:20)(cid:23)(cid:8)1)(cid:8)(cid:22)(cid:17)&(cid:18)(cid:17)(cid:17)(cid:23)(cid:8)(cid:27)(cid:18)(cid:8)(cid:30)(cid:17)(cid:23)(cid:23)4(cid:8)(cid:27)(cid:18)(cid:8)52(cid:8)(cid:6)(cid:21)(cid:8)(cid:6)#(cid:22)(cid:24)(cid:23)(cid:19)(cid:18)(cid:26)(cid:8)(cid:23)(cid:19)(cid:31)#(cid:22)(cid:31)(cid:18)(cid:22)
+%(cid:17)(cid:19)!(cid:27)(cid:22)(cid:23)(cid:8)(cid:31)#(cid:22)(cid:8)(cid:17)’(cid:24)(cid:20)(cid:29)%(cid:17)#(cid:19)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)#(cid:27)(cid:19)(cid:8)(cid:24)(cid:19)(cid:20)(cid:30)(cid:20)"(cid:17)(cid:22)-(cid:8)(cid:8)(cid:11)(cid:27)#(cid:23)(cid:24)(cid:30)(cid:19)(cid:8)(cid:19)!(cid:17)(cid:8)(cid:31)(cid:29)(cid:29)(cid:30)(cid:20)$(cid:31)*(cid:30)(cid:17)(cid:8)(cid:21)(cid:20)(cid:17)(cid:30)(cid:22)(cid:8)(cid:27)(cid:18)(cid:22)(cid:17)(cid:18)(cid:8)(cid:21)(cid:27)(cid:18)(cid:8)(cid:17)0$(cid:17)(cid:29)(cid:19)(cid:20)(cid:27)#(cid:23)-
+(cid:8)
+(cid:6)(cid:21)(cid:8)%(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:20)(cid:17)(cid:23)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)(cid:18)(cid:17)’(cid:24)(cid:20)(cid:18)(cid:17)(cid:22)(cid:8)(cid:19)(cid:27)(cid:8)*(cid:17)(cid:8)$(cid:27)#(cid:23)(cid:20)(cid:22)(cid:17)(cid:18)(cid:17)(cid:22) (cid:8)(cid:31)(cid:8)56(cid:8)(cid:13)3(cid:7)(cid:8)%(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:26)(cid:8),(cid:20)(cid:30)(cid:30)(cid:8)*(cid:17)(cid:8)(cid:31)(cid:29)(cid:29)(cid:30)(cid:20)(cid:17)(cid:22)(cid:8)(cid:19)(cid:27)(cid:8)(cid:19)!(cid:17)(cid:8)!(cid:27)(cid:18)(cid:20)"(cid:27)#(cid:19)(cid:31)(cid:30)(cid:8)(cid:29)(cid:27)(cid:18)(cid:19)(cid:20)(cid:27)#(cid:8)(cid:27)(cid:21)(cid:8)(cid:19)!(cid:17)(cid:8),(cid:17)(cid:30)(cid:30)(cid:8)
+*(cid:27)(cid:18)(cid:17)-(cid:8)(cid:8)(cid:10)!(cid:20)(cid:23)(cid:8)%(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:26)(cid:8)(cid:20)(cid:23)(cid:8)(cid:31)(cid:29)(cid:29)(cid:30)(cid:20)(cid:17)(cid:22)(cid:8)(cid:19)(cid:27)(cid:8)(cid:19)!(cid:17)(cid:8),(cid:17)(cid:30)(cid:30)(cid:8)*(cid:27)(cid:18)(cid:17)(cid:8)(cid:21)(cid:18)(cid:27)%(cid:8)789(cid:8)(cid:19)(cid:27)(cid:8)(cid:10)(cid:7)-
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:2)(cid:3)(cid:7)(cid:8)(cid:9)(cid:10)(cid:10)(cid:9)(cid:11)(cid:12)(cid:13)(cid:3)(cid:14)(cid:10)(cid:15)(cid:16)(cid:8)(cid:8)(cid:11)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:20)(cid:17)(cid:22)(cid:8)(cid:23)(cid:24)(cid:18)(cid:25)(cid:17)(cid:26)(cid:27)(cid:18)(cid:28)(cid:23)(cid:8)(cid:29)(cid:30)(cid:31)(cid:19) (cid:8)!(cid:27)(cid:18)(cid:20)"(cid:27)#(cid:19)(cid:31)(cid:30)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:29)(cid:30)(cid:31)(cid:19) (cid:8)(cid:17)(cid:23)(cid:19)(cid:20)%(cid:31)(cid:19)(cid:17)(cid:22)(cid:8)&(cid:17)(cid:27)(cid:30)(cid:27)&(cid:20)$(cid:31)(cid:30)(cid:8)(cid:19)(cid:27)(cid:29)(cid:23) (cid:8)proposed mud/cementing plan,
+directionalplot/plan,$100fee.
+(cid:15)(cid:17)(cid:17)(cid:8)9(cid:31)&(cid:17)(cid:8)5(cid:8)(cid:21)(cid:27)(cid:18)(cid:8)(cid:11)(cid:27)%%(cid:17)#(cid:19)(cid:23)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:31)#(cid:22)(cid:8)(cid:23)(cid:20)&#(cid:31)(cid:19)(cid:24)(cid:18)(cid:17)(cid:8)*(cid:30)(cid:27)$/-Page 2
+SFN 54269 (08-2005)
+(cid:38)(cid:50)(cid:48)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:15)(cid:3)(cid:36)(cid:39)(cid:39)(cid:44)(cid:55)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:15)(cid:3)(cid:36)(cid:49)(cid:39)(cid:18)(cid:50)(cid:53)(cid:3)(cid:47)(cid:44)(cid:54)(cid:55)(cid:3)(cid:50)(cid:41)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)
+Nooccupieddwellingwithin1,320ft.LateralwillbedrilledwithCaClwaterunlesspressureisencountered,thenwillswitchto80/20invertmud.KB@2,180'.Certified
+surveyorswelllocationplat,horizontalsections,padlayout,padx-sections,topomap,proposeddirectionalsurvey&plots,anddrillingprogramwillbeemailed.
+Lateral 2
+KOP Lateral 2 Azimuth Lateral 2 Estimated Total Depth Lateral 2 KOP Coordinates From Well Head
+Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Lateral 3
+KOP Lateral 3 Azimuth Lateral 3 Estimated Total Depth Lateral 3 KOP Coordinates From Well Head
+Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Lateral 4
+KOP Lateral 4 Azimuth Lateral 4 Estimated Total Depth Lateral 4 KOP Coordinates From Well Head
+Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Lateral 5
+KOP Lateral 5 Azimuth Lateral 5 Estimated Total Depth Lateral 5 KOP Coordinates From Well Head
+Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Date
+I hereby swear or affirm the information provided is true, complete and correct as determined from all available records.
+10 / 13 / 2011
+Signature Printed Name Title
+ePermit
+KhemSuthiwan PermittingManager
+Email Address(es)
+(cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60) (cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60)
+Permit and File Number API Number Date Approved
+22249 (cid:22)(cid:22) (cid:16) 053 (cid:16) 03944 1 / 13 / 2012
+Field By
+BAKER ToddL.Holweger
+Pool Permit Type Title
+BAKKEN DEVELOPMENT MineralResourcesPermitManager1675 Broadway, Ste. 1600 Phone # 303-592-8880
+Denver, Co. 80202 Fax: 303-592-8881
+Log Fax:
+GENERAL WELL INFORMATION
+Magnum 2-36-25H - single-lateral Bakken producer with stage-frac completion
+LEASE NAME AND NUMBER
+ORIGINAL GL: 2,158' FOOTAGE CALLS - SURFACE HOLE 205' FSL 240' FEL
+FINISHED PAD ELEVATION: 2,156' SURFACE HOLE LOCATION SESE 36, 153N, 101W
+KB(24') 2,180' BOTTOM HOLE LOCATION NENE 25, 153N, 101W
+PROPOSED TVD 10,758' LATITUDE 48° 01' 29.87" N
+PROPOSED TMD 20,743' LONGITUDE 103° 36' 18.60" W
+LATERAL LENGTH (FT.) 9,713' COUNTY/STATE McKenzie CO, ND
+FIELD Wildcat
+DIRECTIONS TO WELL:
+ESTIMATED TOPS SUBSEA TVD ESTIMATED TOPS SUBSEA TVD
+Pierre/base Foxhills 150' 2,030' Charles -6,266' 8,446'
+Dakota (marine) -3,203' 5,383' base last Charles salt -7,074' 9,254'
+Dunham Salt -4,565' 6,745' Mission Canyon -7,266' 9,446'
+Base Dunham Salt -4,583' 6,763' Lodgepole -7,836' 10,016'
+Pine Salt -4,836' 7,016' Upper Bakken shale -8,556' 10,736'
+Base Pine Salt -4,870' 7,050' Top of Target -8,571' 10,751'
+Opeche -4,895' 7,075' Target -8,578' 10,758'
+Minnelussa -5,100' 7,280' Base of Target -8,585' 10,765'
+Kibbey Lime -6,119' 8,299'
+MUD PROGRAM Type Viscosity Weight Fluid Loss LCM
+Start at (ft.) Change at (ft.)
+0 2,130' ( Through Surface Casing Depth) fresh water 28-32 8.34 NC --
+2,130' 7" csg point 80/20 invert 45-50 9.6-10.5 5-10 --
+7" csg point Total MD Brine 9.2-10.2 NC --
+If overpressured 80/20 invert 28 11.5 - 13 5-10 --
+Maximum anticipated bottom hole pressure is 4,658#; BOPs to be tested to 5000psi
+LOGGING PROGRAM
+Open Hole Triple Combo - DIL,CNL,CDL
+Cased Hole CBL/GR/CCL
+BIT PROGRAM CASING PROGRAM
+Hole Size Casing Bit Type Model Manufacturer SURFACE CASING: start end footage
+13-1/2" 9⅝" Roller-Cone Retip 9-5/8" 36# K55 ' 2,130' 2,130'
+8-3/4" Vertical 7" PDC 655ZX SEC '
+8-3/4" Curve 7" PDC 3641 SEC PRODUCTION CASING: start end footage
+6" 4½" PDC 643 SEC 7" 29# P-110 ' 6,595' 6,595'
+DIRECTIONAL PROGRAM 7" 32# P-110 6,595' 9,408' 2,813'
+KOP 10,281' 7" 29# P-110 9,408' 11,031' 1,623'
+Build rate 12.0°/100'
+Lateral length, (ft.) 9,713'
+Curve Azimuth 324.° Total 29# 8,218' Total 32# 2,813'
+Target zone top (TVD) 10,751' LINER LENGTH: start end Length
+Landing point (TVD) 10,758' 4-1/2" 11.6# P-110 10,281' 20,713' 10,403'
+Target zone bottom (TVD) 10,765' Mech Packer assembly on 4-1/2" liner - Packer depths to be
+Total MD 20,743' provided at TD. The sleeves and packers will provided when
+run.
+***** SEE ATTACHED DIRECTIONAL PLAN
+CEMENT PROGRAM Size Instructions
+SURFACE CASING 9⅝" Cement to surface with 398 SX "G" and 262 SX "G" tail; 1,665 cu.ft. total
+Use 60% excess
+PRODUCTION CASING 7" Cement w/ 303 sx lite Pozmix (Yield: 2.56 ft3/sx) lead and 376 sx Class G (Yield:
+Use 30% excess and a 9" hole 1.65 ft3/sx) tail. Calculated cement top 500' above Dakota. Lead coverage from
+See Drilling Procedure for Float Equipment 500' above Dakota to 150' above Charles, Tail coverage from 150' above Charles
+Recommendation to 7" shoe.
+SLAWSON CONTACT INFORMATION
+Engineering: Office Home Cell
+Mark McCallister 720-897-8758 303-730-9979 303-748-1602
+Matt Houston 720-897-8759 512-944-5528 512-944-5528
+Geology:
+Bob Bogle 720-897-8756 303-773-1706 303-523-5607Magnum 2-36-25H
+KB = 2,180' KOP = 10,281' Target = 10,343' TVD
+Based on True North
+MD Incl. Azi. TVD North East DLS Vertical UTM N UTM E
+Section
+0.00 0.00 324.00 0.00 0.00 0.00 0.00 0.00 205.00 -240.00
+10,200.00 0.00 324.00 10,200.00 0.00 0.00 0.00 0.00 205.00 -240.00
+10,280.50 0.00 324.00 10,280.50 0.00 0.00 0.00 0.00 205.00 -240.00KOP
+10,330.50 6.00 324.00 10,330.36 2.11 -1.54 12.00 2.61 207.11 -241.54
+10,380.50 12.00 324.00 10,379.68 8.43 -6.13 12.00 10.42 213.43 -246.13
+10,430.50 18.00 324.00 10,427.91 18.89 -13.73 12.00 23.35 223.89 -253.73
+10,480.50 24.00 324.00 10,474.53 33.37 -24.25 12.00 41.25 238.37 -264.25
+10,530.50 30.00 324.00 10,519.02 51.71 -37.57 12.00 63.92 256.71 -277.57
+10,580.50 36.00 324.00 10,560.90 73.71 -53.55 12.00 91.11 278.71 -293.55
+10,630.50 42.00 324.00 10,599.70 99.13 -72.02 12.00 122.53 304.13 -312.02
+10,680.50 48.00 324.00 10,635.01 127.69 -92.77 12.00 157.83 332.69 -332.77
+10,730.50 54.00 324.00 10,666.43 159.08 -115.58 12.00 196.63 364.08 -355.58
+10,780.50 60.00 324.00 10,693.62 192.96 -140.19 12.00 238.51 397.96 -380.19
+10,830.50 66.00 324.00 10,716.29 228.95 -166.34 12.00 283.00 433.95 -406.34
+10,880.50 72.00 324.00 10,734.18 266.66 -193.74 12.00 329.61 471.66 -433.74
+10,930.50 78.00 324.00 10,747.10 305.68 -222.09 12.00 377.84 510.68 -462.09
+10,980.50 84.00 324.00 10,754.91 345.58 -251.08 12.00 427.16 550.58 -491.08
+11,030.50 90.00 324.00 10,757.52 385.92 -280.39 12.00 477.02 590.92 -520.39EOC, 7" Csg
+Magnum 2-36-25H
+11,030.50 90.00 324.00 10,757.52 385.92 -280.39 12.00 477.02 590.92 -520.39EOC, 7" Csg
+11,130.50 90.00 327.00 10,757.52 468.30 -337.01 3.00 576.95 673.30 -577.01
+11,230.50 90.00 330.00 10,757.52 553.53 -389.24 3.00 676.60 758.53 -629.24
+11,230.50 90.00 333.00 10,757.52 553.53 -389.24 3.00 676.60 758.53 -629.24
+11,330.50 90.00 336.00 10,757.52 642.51 -434.58 3.00 775.24 847.51 -674.58
+11,430.50 90.00 339.00 10,757.52 734.87 -472.84 3.00 872.45 939.87 -712.84
+11,530.50 90.00 342.00 10,757.52 829.10 -506.21 3.00 968.30 1,034.10 -746.21
+11,630.50 90.00 345.00 10,757.52 924.95 -534.60 3.00 1,062.53 1,129.95 -774.60
+11,730.50 90.00 348.00 10,757.52 1,022.15 -557.94 3.00 1,154.89 1,227.15 -797.94
+11,830.50 90.00 351.00 10,757.52 1,120.44 -576.16 3.00 1,245.11 1,325.44 -816.16
+11,930.50 90.00 354.00 10,757.52 1,219.55 -589.21 3.00 1,332.97 1,424.55 -829.21
+12,030.50 90.00 357.00 10,757.52 1,319.21 -597.05 3.00 1,418.20 1,524.21 -837.05
+12,130.50 90.00 360.00 10,757.52 1,419.14 -599.67 3.00 1,500.59 1,624.14 -839.67
+12,230.50 90.00 360.00 10,757.52 1,519.14 -599.67 0.00 1,581.49 1,724.14 -839.67
+12,330.50 90.00 360.00 10,757.52 1,619.14 -599.67 0.00 1,662.39 1,824.14 -839.67
+12,430.50 90.00 360.00 10,757.52 1,719.14 -599.67 0.00 1,743.29 1,924.14 -839.67
+12,530.50 90.00 360.00 10,757.52 1,819.14 -599.67 0.00 1,824.19 2,024.14 -839.67
+12,630.50 90.00 360.00 10,757.52 1,919.14 -599.67 0.00 1,905.09 2,124.14 -839.67
+12,730.50 90.00 360.00 10,757.52 2,019.14 -599.67 0.00 1,986.00 2,224.14 -839.67
+12,830.50 90.00 360.00 10,757.52 2,119.14 -599.67 0.00 2,066.90 2,324.14 -839.67
+12,930.50 90.00 360.00 10,757.52 2,219.14 -599.67 0.00 2,147.80 2,424.14 -839.67
+13,030.50 90.00 360.00 10,757.52 2,319.14 -599.67 0.00 2,228.70 2,524.14 -839.67
+13,130.50 90.00 360.00 10,757.52 2,419.14 -599.67 0.00 2,309.60 2,624.14 -839.67
+13,230.50 90.00 360.00 10,757.52 2,519.14 -599.67 0.00 2,390.50 2,724.14 -839.67
+13,330.50 90.00 360.00 10,757.52 2,619.14 -599.67 0.00 2,471.41 2,824.14 -839.67
+13,430.50 90.00 360.00 10,757.52 2,719.14 -599.67 0.00 2,552.31 2,924.14 -839.67
+13,530.50 90.00 360.00 10,757.52 2,819.14 -599.67 0.00 2,633.21 3,024.14 -839.67
+13,630.50 90.00 360.00 10,757.52 2,919.14 -599.67 0.00 2,714.11 3,124.14 -839.67
+13,730.50 90.00 360.00 10,757.52 3,019.14 -599.67 0.00 2,795.01 3,224.14 -839.67
+13,830.50 90.00 360.00 10,757.52 3,119.14 -599.67 0.00 2,875.91 3,324.14 -839.67
+13,930.50 90.00 360.00 10,757.52 3,219.14 -599.67 0.00 2,956.82 3,424.14 -839.67
+14,030.50 90.00 360.00 10,757.52 3,319.14 -599.67 0.00 3,037.72 3,524.14 -839.67
+14,130.50 90.00 360.00 10,757.52 3,419.14 -599.67 0.00 3,118.62 3,624.14 -839.67
+14,230.50 90.00 360.00 10,757.52 3,519.14 -599.67 0.00 3,199.52 3,724.14 -839.67
+14,330.50 90.00 360.00 10,757.52 3,619.14 -599.67 0.00 3,280.42 3,824.14 -839.67
+14,430.50 90.00 360.00 10,757.52 3,719.14 -599.67 0.00 3,361.32 3,924.14 -839.67
+14,530.50 90.00 360.00 10,757.52 3,819.14 -599.67 0.00 3,442.23 4,024.14 -839.67
+14,630.50 90.00 360.00 10,757.52 3,919.14 -599.67 0.00 3,523.13 4,124.14 -839.67
+14,730.50 90.00 360.00 10,757.52 4,019.14 -599.67 0.00 3,604.03 4,224.14 -839.67
+14,830.50 90.00 360.00 10,757.52 4,119.14 -599.67 0.00 3,684.93 4,324.14 -839.67
+14,930.50 90.00 360.00 10,757.52 4,219.14 -599.67 0.00 3,765.83 4,424.14 -839.67
+15,030.50 90.00 360.00 10,757.52 4,319.14 -599.67 0.00 3,846.73 4,524.14 -839.67
+15,130.50 90.00 360.00 10,757.52 4,419.14 -599.67 0.00 3,927.64 4,624.14 -839.67
+15,230.50 90.00 360.00 10,757.52 4,519.14 -599.67 0.00 4,008.54 4,724.14 -839.67
+15,330.50 90.00 360.00 10,757.52 4,619.14 -599.67 0.00 4,089.44 4,824.14 -839.67
+15,430.50 90.00 360.00 10,757.52 4,719.14 -599.67 0.00 4,170.34 4,924.14 -839.67
+15,530.50 90.00 360.00 10,757.52 4,819.14 -599.67 0.00 4,251.24 5,024.14 -839.67
+15,630.50 90.00 360.00 10,757.52 4,919.14 -599.67 0.00 4,332.15 5,124.14 -839.67
+15,730.50 90.00 360.00 10,757.52 5,019.14 -599.67 0.00 4,413.05 5,224.14 -839.6715,830.50 90.00 360.00 10,757.52 5,119.14 -599.67 0.00 4,493.95 5,324.14 -839.67
+15,930.50 90.00 360.00 10,757.52 5,219.14 -599.67 0.00 4,574.85 5,424.14 -839.67
+16,030.50 90.00 360.00 10,757.52 5,319.14 -599.67 0.00 4,655.75 5,524.14 -839.67
+16,130.50 90.00 360.00 10,757.52 5,419.14 -599.67 0.00 4,736.65 5,624.14 -839.67
+16,230.50 90.00 360.00 10,757.52 5,519.14 -599.67 0.00 4,817.56 5,724.14 -839.67
+16,330.50 90.00 360.00 10,757.52 5,619.14 -599.67 0.00 4,898.46 5,824.14 -839.67
+16,430.50 90.00 360.00 10,757.52 5,719.14 -599.67 0.00 4,979.36 5,924.14 -839.67
+16,530.50 90.00 360.00 10,757.52 5,819.14 -599.67 0.00 5,060.26 6,024.14 -839.67
+16,630.50 90.00 360.00 10,757.52 5,919.14 -599.67 0.00 5,141.16 6,124.14 -839.67
+16,730.50 90.00 360.00 10,757.52 6,019.14 -599.67 0.00 5,222.06 6,224.14 -839.67
+16,830.50 90.00 360.00 10,757.52 6,119.14 -599.67 0.00 5,302.97 6,324.14 -839.67
+16,930.50 90.00 360.00 10,757.52 6,219.14 -599.67 0.00 5,383.87 6,424.14 -839.67
+17,030.50 90.00 360.00 10,757.52 6,319.14 -599.67 0.00 5,464.77 6,524.14 -839.67
+17,130.50 90.00 360.00 10,757.52 6,419.14 -599.67 0.00 5,545.67 6,624.14 -839.67
+17,230.50 90.00 360.00 10,757.52 6,519.14 -599.67 0.00 5,626.57 6,724.14 -839.67
+17,330.50 90.00 360.00 10,757.52 6,619.14 -599.67 0.00 5,707.47 6,824.14 -839.67
+17,430.50 90.00 360.00 10,757.52 6,719.14 -599.67 0.00 5,788.38 6,924.14 -839.67
+17,530.50 90.00 360.00 10,757.52 6,819.14 -599.67 0.00 5,869.28 7,024.14 -839.67
+17,630.50 90.00 360.00 10,757.52 6,919.14 -599.67 0.00 5,950.18 7,124.14 -839.67
+17,730.50 90.00 360.00 10,757.52 7,019.14 -599.67 0.00 6,031.08 7,224.14 -839.67
+17,830.50 90.00 360.00 10,757.52 7,119.14 -599.67 0.00 6,111.98 7,324.14 -839.67
+17,930.50 90.00 360.00 10,757.52 7,219.14 -599.67 0.00 6,192.88 7,424.14 -839.67
+18,030.50 90.00 360.00 10,757.52 7,319.14 -599.67 0.00 6,273.79 7,524.14 -839.67
+18,130.50 90.00 360.00 10,757.52 7,419.14 -599.67 0.00 6,354.69 7,624.14 -839.67
+18,230.50 90.00 360.00 10,757.52 7,519.14 -599.67 0.00 6,435.59 7,724.14 -839.67
+18,330.50 90.00 360.00 10,757.52 7,619.14 -599.67 0.00 6,516.49 7,824.14 -839.67
+18,430.50 90.00 360.00 10,757.52 7,719.14 -599.67 0.00 6,597.39 7,924.14 -839.67
+18,530.50 90.00 360.00 10,757.52 7,819.14 -599.67 0.00 6,678.29 8,024.14 -839.67
+18,630.50 90.00 360.00 10,757.52 7,919.14 -599.67 0.00 6,759.20 8,124.14 -839.67
+18,730.50 90.00 360.00 10,757.52 8,019.14 -599.67 0.00 6,840.10 8,224.14 -839.67
+18,830.50 90.00 360.00 10,757.52 8,119.14 -599.67 0.00 6,921.00 8,324.14 -839.67
+18,930.50 90.00 360.00 10,757.52 8,219.14 -599.67 0.00 7,001.90 8,424.14 -839.67
+19,030.50 90.00 360.00 10,757.52 8,319.14 -599.67 0.00 7,082.80 8,524.14 -839.67
+19,130.50 90.00 360.00 10,757.52 8,419.14 -599.67 0.00 7,163.70 8,624.14 -839.67
+19,230.50 90.00 360.00 10,757.52 8,519.14 -599.67 0.00 7,244.61 8,724.14 -839.67
+19,330.50 90.00 360.00 10,757.52 8,619.14 -599.67 0.00 7,325.51 8,824.14 -839.67
+19,430.50 90.00 360.00 10,757.52 8,719.14 -599.67 0.00 7,406.41 8,924.14 -839.67
+19,530.50 90.00 360.00 10,757.52 8,819.14 -599.67 0.00 7,487.31 9,024.14 -839.67
+19,630.50 90.00 360.00 10,757.52 8,919.14 -599.67 0.00 7,568.21 9,124.14 -839.67
+19,730.50 90.00 360.00 10,757.52 9,019.14 -599.67 0.00 7,649.11 9,224.14 -839.67
+19,830.50 90.00 360.00 10,757.52 9,119.14 -599.67 0.00 7,730.02 9,324.14 -839.67
+19,930.50 90.00 360.00 10,757.52 9,219.14 -599.67 0.00 7,810.92 9,424.14 -839.67
+20,030.50 90.00 360.00 10,757.52 9,319.14 -599.67 0.00 7,891.82 9,524.14 -839.67
+20,130.50 90.00 360.00 10,757.52 9,419.14 -599.67 0.00 7,972.72 9,624.14 -839.67
+20,230.50 90.00 360.00 10,757.52 9,519.14 -599.67 0.00 8,053.62 9,724.14 -839.67
+20,330.50 90.00 360.00 10,757.52 9,619.14 -599.67 0.00 8,134.52 9,824.14 -839.67
+20,430.50 90.00 360.00 10,757.52 9,719.14 -599.67 0.00 8,215.43 9,924.14 -839.67
+20,530.50 90.00 360.00 10,757.52 9,819.14 -599.67 0.00 8,296.33 10,024.14 -839.67
+20,630.50 90.00 360.00 10,757.52 9,919.14 -599.67 0.00 8,377.23 10,124.14 -839.67
+20,730.50 90.00 360.00 10,757.52 10,019.14 -599.67 0.00 8,458.13 10,224.14 -839.67
+20,743.00 90.00 360.00 10,757.52 10,031.64 -599.67 0.00 8,468.24 10,236.64 -839.67End Lateral
+9,712.50WELL COMPLETl.
+R RECOMPLETION REPORT· FO. 
+INDUSTRIAL COMMISSION OF NORTH DAKOTA 
+~ 
+OIL AND GAS DIVISION 
+• ~· . ~ 
+• 1,; !""I,> I 
+Well File No. 
+600 EAST BOULEVARD DEPT 405 
+,, 
+, ;_ 
+22249 
+BISMARCK, ND 58505-0840 
+Zt 
+., .,..
+·~,--------~ 
+SFN 2468 (04-2010) 
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. 
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. 
+Designate Type of Completion 
+0 Oil Well 
+D EOR Well 
+Gas Well 
+SWDWell 
+D Recompletion 
+Water Supply Well 
+D Deepened Well 
+Other: 
+D 
+Spacing Unit Description 
+Extended Horizontal Leg 
+Well Name and Number 
+MAGNUM 2-36-25H 
+Oper< tor 
+Telephone Number 
+720-457 -9820 
+All of Sect 36 & 25 T153N R101W 
+Field 
+Slawson Exploration Com an , Inc. 
+BAKER 
+Pool 
+Suite 1600 
+Bakken 
+City 
+State 
+Zip Code 
+Permit Type 
+Denver 
+CO 
+80202 
+D Wildcat 
+0 Development 
+D Extension 
+~-----------_._ ___ _._ ________ 
+_._-=~...;,_;;..;...;. ___ 
+_=:_...;,_....:....._;_...;,_ _ 
+___. __ __;,.;_;,...;,_ __ 
+~ 
+LOCATION OF WELL 
+-At Su1face 
+Otr-Qtr 
+I 
+Section 
+!Township I 
+Range 
+County 
+205 F s L 
+240 F 
+E 
+L 
+SESE 
+36 
+153 N 
+101 w McKenzie 
+-Spud Date 
+I 
+Date TD Reached 
+Drilling Contractor and Rig Number 
+I 
+KB Elevation (Ft) Graded Elevation (Ft) 
+3/1812012 
+4/27/2012 
+Nabors #419 
+2177 
+2156 
+-Type of Electric and Other Logs Run (See Instructions) 
+Tripl1e Combo - OIL, CNL, COL with GR to surface CBL/GR/CCL 
+CASING & TUBULARS RECORD (Report all strin! s set in well) 
+w 
+Surfac 
+Vertie 
+Latera 
+~II Bore 
+;e Hole 
+11 Hole 
+11 
+Type 
+Surface 
+Intermediate 
+Liner 
+String 
+Size (Inch) 
+9 5/8 
+7 
+4 1/2 
+Top Set 
+Depth Set 
+(MD Ft) 
+(MD Ft) 
+0 
+2168 
+0 
+11104 
+9082 
+20705 
+Hole Size 
+Weight 
+Anchor Set 
+Packer Set 
+Sacks 
+Top of 
+(Inch) 
+(Lbs/Ft) 
+(MD Ft) 
+(MD Ft) 
+Cement 
+Cement 
+13 1/2 
+36 
+835 
+8 3/4 
+29 & 32 
+1025 
+2200 
+6 
+11.6 
+9082 
+PERFORATION & OPEN HOLE INTERVALS 
+-
+Well Bore TD 
+Open Hole/Perforated 
+Kick-off 
+Top of 
+Weill Bore 
+Drillers Depth 
+Completion 
+Interval (MD.Ft) 
+Point 
+Casing 
+Type 
+Window 
+(MD Ft) 
+Top 
+Bottom 
+(MD Ft) 
+(MD Ft) 
+-
+Latera!1 
+20728 
+Other 
+11104 
+20705 
+10282 
+11104 
+--
+~ 
+------
+PRODUCTION 
+Curren" Producing Open Hole or Perforated lnterval(s), This Completion, Top and Bottom, (MD Ft) 
+111 M' to 20705' 
+Date I/\ ell Completed (SEE INSTRUCTIONS) 
+Producing Method 
+Pumping-Size & Type of Pump 
+211412013 Flowin 
+Date Perfd 
+Date 
+Isolation 
+Sacks 
+or Drilled 
+Isolated 
+Method 
+Cement 
+4/27/2012 
+4/30/2012 
+PKR 
+Name of Zone (If Different from Pool Name) 
+Middle Bakken 
+Well Status (Producing or Shut-In) 
+Producin up a 7" Casin 
+Hours Tested Choke Size 
+Production for Test 
+Oil (Bbls) 
+752 
+Gas (MCF) Water (Bbls) 
+Oil Gravity-AP! (Corr.) 
+Disposition of Gas 
+24 
+22 /64 
+Flowin~ Tubing Pressure (PSI) 
+Flowing Casing Pressure (PSI) 
+600 
+Calculated 
+24-Hour Rate 
+753.504 
+218 
+Oil (Bbls) 
+752 
+Gas (MCF) 
+753.504 
+42.0 ° 
+Flared 
+Water (Bbls) 
+218 
+Gas-Oil Ratio 
+1002 
+PagH 2 
+SFN 2468 (04-2010) 
+GEOLOGICAL MARKERS 
+PLUG BACK INFORMATION 
+-
+Formation 
+-
+MD (Ft) 
+TVD (Ft) 
+Well Bore 
+Type of Plug 
+Top (Ft) 
+Bottom (Ft) 
+Sacks Cemen1 
+GreQnhorn 
+4655 
+Belh~ Fourche 
+4867 
+MoV1try 
+5063 
+lnyatl Kara 
+5487 
+Swif t 
+5930 
+-
+Rier<l:lon 
+6347 
+Piper -
+6537 
+Dunlilam Salt 
+6947 
+-
+Base Dunham Salt 
+6997 
+Spenrfish 
+6997 
+Pine Salt 
+7306 
+-
+Bas1- Pine Sale 
+7364 
+-
+~:he 
+7453 
+Minnelusa 
+absent 
+-
+Amsden 
+7701 
+-
+Tyle1• 
+7886 
+Big Bnowy 
+8108 
+Kibbey 
+,_____ 
+8317 
+Kibbey lime 
+,_____ 
+8451 
+Charles 
+8603 
+,_____ 
+Basu Last Salt 
+9271 
+~ion Canyon 
+9474 
+,_____ 
+Loduepole 
+10025 
+KOP 
+10282 
+CORES CUT 
+-
+Uppnr Bakken Shale 
+10770 
+Top (Ft) 
+Bottom (Ft) 
+Formation 
+Top (Ft) 
+Bottom (Ft) 
+Formation 
+Midc le Bakken 
+10785 
+,_____ 
+Midolle Bakken Mkr 
+10796 
+-
+-
+Dril Stem Test 
+-
+Test Date 
+-
+I Formation 
+I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm 
+IH2S ppm 
+I Shut-in 1 (PSIG) IShut-in 2 (PSIG) 
+Drill I >ipe Recovery 
+,_____ 
+Sample Chamber Recovery 
+----
+Test Date 
+I Formation 
+I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm 
+IH2S ppm 
+I Shut-in 1 (PSIG) I Shut-in 2 (PSIG) 
+Drill I 'ipe Recovery 
+-
+Sample Chamber Recovery 
+Test Date 
+-
+I Formation 
+I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm 
+IH2S ppm 
+I Shut-in 1 (PSIG) I Shut-in 2 (PSIG) 
+Drill Pipe Recovery 
+-
+Sample Chamber Recovery 
+Test Date 
+-
+I Formation 
+I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm 
+IH2S ppm 
+I Shut-in 1 (PSIG) I Shut-in 2 (PSIG) 
+Drill Pipe Recovery 
+Sample Chamber Recovery 
+-Test )ate 
+I Formation 
+-
+I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm 
+IH2S ppm 
+I Shut-in 1 (PSIG) I Shut-in 2 (PSIG) 
+Drill Pipe Recovery 
+-Sample Chamber Recovery 
+-
+Page 3 
+SFN 2468 (04-2010) 
+Date Stimulated 
+11/M/2012 
+Type Treatment 
+Sane I Frac 
+Detals 
+Stimulated Formation 
+Middle Bakken 
+Acid% 
+Top (Ft) 
+Bottom (Ft) Stimulation Stages 
+11104 
+20705 
+32 
+Lbs Proppant 
+1160090 
+Maximum Treatment Pressure (PSI) 
+8403 
+Volume 
+Volume Units 
+22133 
+Barrels 
+Maximum Treatment Rate (BBLS/Min) 
+39.7 
+Frac ured the Middle Bakken with 32, stages using fracturing sleeves and packers, with 346204# of 20/40 White Sand, 182669# of 40/70 White 
+Sane I, 631217# of 20/40 Ceramic, and 22133 bbls of clean water. 
+Date Stimulated 
+Stimulated Formation 
+Top (Ft) 
+Bottom (Ft) Stimulation Stages 
+Volume 
+Volume Units 
+Type Treatment 
+Acid% 
+Lbs Proppant 
+Maximum Treatment Pressure (PSI) 
+Maximum Treatment Rate (BBLS/Min) 
+Deta Is 
+Date Stimulated 
+Stimulated Formation 
+Top (Ft) 
+Bottom (Ft) Stimulation Stages 
+Volume 
+Volume Units 
+Type Treatment 
+Acid% 
+Lbs Proppant 
+Maximum Treatment Pressure (PSI) 
+Maximum Treatment Rate (BBLS/Min) 
+Deta"ls 
+Date Stimulated 
+Stimulated Formation 
+Top (Ft) 
+Bottom (Ft) Stimulation Stages 
+Volume 
+Volume Units 
+Type Treatment 
+Acid% 
+Lbs Proppant 
+Maximum Treatment Pressure (PSI) 
+Maximum Treatment Rate (BBLS/Min) 
+Details 
+Date Stimulated 
+Stimulated Formation 
+Top (Ft) 
+Bottom (Ft) Stimulation Stages 
+Volume 
+Volume Units 
+Type Treatment 
+Acid% 
+Lbs Proppant 
+Maximum Treatment Pressure (PSI) 
+Maximum Treatment Rate (BBLS/Min) 
+Details 
+ADIDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS 
+Attached are the Certified well location plat and a well bore diagram. The directional surveys, Open hole logs and CBL logs will 
+be nent directly to you from the contractors. 
+I hereby swear or affirm that the information 
+prov ded is true, complete and correct as 
+determined from all available records. 
+Signature 
+Email Address 
+mglenn@slawsoncompanies.com 
+Printed Name 
+Matthew Glenn 
+Date 
+3/11/2013 
+Title 
+Technician 
+WELL LOCATION PLAT 
+Slawson Exploration Company, Inc. 
+1675 Broadway, Suite 1600, Denver, Colorado 80202 
+Magnum 2-36-25H 
+205 feet from the south llne ancf 2-40 feet from the east llne (surface location) 
+Section 36, T. 153 N., R. 101 W., 5th P.M. 
+250 feet from the north line and 550 feet from the east line 
+(bottom location) 
+Section 25, T. 153 N., R. 101 W., 5th P.M. 
+McKenzie County, North Dakota 
+Surface owner @ well site -
+State of North Dakota 
+latitude 48"01 '29.869" North; longitude 103"36'18.604" West (surface location) 
+Latitude 48"03'08.925" North; Longitude 103"36'23.042" West (bottom location) 
+[Derived from OPUS Solution NAD-83(CORS96)] 
+I 
+2625.79' (Meas.) 
+090'19'14• -
+2636.98' (Meas.)h °':::' :T;-
+-
+-
+-
+-
+311'2Cap 
+Section Une 
+I 
+F'ound 
+°'e~ 
+I 
+--:-
+Orlg1nal SlaM J090'17'22" 
+F'ound 
+-
+-
+-
+Found 
+.~ 
+I:'... 
+1j 
+; 
+1:: 
+I~ 
+gj 
+~I 
+::E 
+~I 
+~ 
+5 
+I~ 
+~ 
+I~ g 
+N 
+I 
+~ 
+l\t j 
+I 
+~ ! 
+U) i..::::i:__ ____ 
+-NW4 / 
+111& Line 
+I 
+N .j 
+..---------''------'-----J~ 
+I 
+~ 
+~I 
+U) 
+~I 
+IO 
+I') 
+Confidentiality Notice: The information contained on lhia plat ii 
+legally privileged and confidential information Intended only for 
+the uae of racipienb. If you are not the intended raciplenb. 
+you are hereby notified that any u .. , diueminotion, distribution 
+or copyi1>9 of this Information ii alrictly prohibited. 
+NOTE: All land comers ore assumed unless otherwise noted. 
+The well locotion shown hereon is not an os-buiH location. 
+Brian Schmalz 
+08/26/2011 
+Surveyed By N.D.P.L.S. If 6809 
+Date 
+Scale 1•=1000' 
+Vertical Control Datum Used 
+Professional Consulting Engineers 
+Sea-Level Datum of NAVO 88 
+and Surveyors 
+Based on elevation derived from OPUS Solution on 
+Reqistered in 
+CP•KW 15-152-10 (iron rebar) Located a distance 
+North Dakota. South Dakota 
+of 6192.72' an an azimuth of 270'16'4/ from the 
+Montono, Wyomi~ A: Minnesota 
+SW 
+f Se f 
+.. 
+T 53 
+R a 
+5 
+p 
+Tele-Fox No. 701-483-2795 
+comer o 
+c 10n .... 6, 
+.1 
+N., 
+.1 1W., 
+th 
+.M. 
+Bus. Phone No. 701 _483_ 1284 
+.,_be_in"'"g""a_t_2_1_34 
+___ 3g_·_E1_ev_at-io_n_M_s_L ______ _. 
+P.O. Box 290 
+Pro'ect No. 
+3711645 
+677 27th Ave. E. 
+1-----...--------------o1 Dickinson, North Dakota 58602 
+Book OW-257 Pg. 47-50 
+Stoking 
+Sep 07, 2011 -
+10:48om -
+J:\oltllekl\Slanon\3711&45\Cadd\37115458"501 .dw9 
+000'05'55. 
+130.87' (Meas. 
+I~ 
+Ii;; 
+I~ 
+...... ,g 
+0 0 
+240' 
+...... R8bar' ... 
+....,.+---f4•l 
+IS 3!1112 
+(Meas.) 
+-: 
+Cap 
+in 
+0 
+N 
+Kadrmas 
+Lee& 
+Jackson 
+....... _.._ 
+Updated By: 
+On: 
+/.I 
+:::: 
+1:::1 
+1::: 
+9-518" 36# J-55 STC @ 2,168' 
+TOC @ 2,200' (est) 
+Packers Plus SF Liner Hanger 
+with Pack-Off@ 9,082' 
+MIN ID: 3.875" 
+KOP @ 10,282' 
+7" Shoe: 11 ,104' MD 
+I0,078' TVD 
+Note: 7" Casing Stuck Before 
+Reaching Bottom 
+7" 29# HCP! 10 from 
+Surface 
+to 
+6,420' 
+7" 32# HCPI 10 from 
+6,420' 
+to 
+9,270' 
+7" 29# HCPI 10 from 
+9,270' 
+to 
+11 ,102' 
+Packer 
+C::) 5LaWsan 
+exploration company, inc . 
+WELLBORE DIAGRAM 
+Magnum 2-36-25H 
+Formation 
+TVD 
+Pierre/base Foxhills 
+1,534' 
+Dakota (marine) 
+5,217' 
+Dunham Salt 
+6,682' 
+RockSeal 
+Spearfish 
+6,756' 
+Packers@ 
+Pine Salt 
+6,806' 
+Amsden 
+7,227' 
+Kibbey Lime 
+7,926' 
+Charles 
+8,083' 
+base last Charles salt 
+8,709' 
+Ratcliffe 
+8,759' 
+Top Ratcliffe Pay 
+8,833' 
+FracPorts @ 
+Base Ratcliffe Pay 
+8,845' 
+Mission Canyon 
+8,915' 
+Lodgepole 
+9,445' 
+Upper Bakken shale 
+10,199' 
+Top of Target 
+10,216' 
+Target 
+10,221' 
+Base of Target 
+10,225' 
+Packers Plus Completion System: 
+10,444' of4-1 /2" 11.6# P-110 BTC and 
+254' of4-1/2" 13.5# P-110 BTC liner 
+with 35 packers, 32 sleeves and a liner 
+hanger with pack-off(925 ' of tools). Set 
+Liner at 20,705' 
+ANCH 
+20,642' 
+PKR 1 
+20.423' 
+PKR2~ 
+PKR3~ 
+PKR4~ 
+PKR5~ 
+PKR6~ 
+PKR7~ 
+PKR8~ 
+PKR 9 
+18,050' 
+PKR 10--1L.Z§! 
+PKR 11 
+17,477' 
+DEH 
+20,552' 
+1.750 
+20 256' 
+1.875 
+19957' 
+1.938 
+19 669' 
+2.000 
+19,374' 
+2.063 
+19085' 
+2.125 
+18 794' 
+2.188 
+18 480' 
+2.250 
+18176' 
+2.31 3 
+17 889' 
+2.375 
+17 604' 
+2.438 
+17 312' 
+2.500 
+17022' 
+2.563 
+16,731' 
+Location: 205' FSL and 240' FEL 
+SESE Sec 36, T153N-RIOIW 
+McKenzie County, North Dakota 
+ORIGINAL GL ELEVATION= 2,158' 
+FINSCHED PAD ELEVATION =2,156' 
+KB ELEVATION =2,182' 
+API#: 33-053-03944-00-00 
+NDIC#: 22249 
+PKR 12 
+17186' 
+PKR24 
+PKR 13 
+16894' 
+PKR25 
+PKR14 
+16 606' 
+PKR26 
+PKR15 
+16 314' 
+PKR27 
+PKR 16 
+16024' 
+PKR28 
+PKR 17 
+15 733' 
+PKR29 
+PKR 18 
+15440' 
+PKR 30 
+PKR 19 
+15148' 
+PKR 31 
+PKR20 
+14 854' 
+PKR 32 
+PKR 21 
+14 564' 
+PKR 33 
+PKR 22 
+14 310' 
+PKR34 
+PKR23 
+14,019' 
+CHPKR 
+2.625 
+16442' 
+3.500 
+2.688 
+16152' 
+3.563 
+2.750 
+15862' 
+3.625 
+2.813 
+15569' 
+3.688 
+I 
+2.875 
+15275' 
+I 
+13 727' 
+13434' 
+13141' 
+12 849' 
+12 554' 
+12 264' 
+11 971' 
+11 682' 
+11 431' 
+11 379' 
+11 136' 
+11,046' 
+12 393' 
+12 099' 
+11 806' 
+11 561' 
+Balls that have 
+2 .938~ 
+been dropped 
+3.000~ 
+3.063 
+14 437' 
+3.125~ 
+3.188 
+13856' 
+3.250 
+13562' 
+3.313 
+13270' 
+3.375~ 
+3.438 ----1L2!!§.' 
+Sleeve 
+Lateral TD @ 20,728' MD, 
+I0,798' TVD 
+9,624' of Open Hole 
+e 
+e 
+AUTHORIZATION TO PURCHASE AND TRANSPORT OIL FRO.~~ 
+INDUSTRIAL COMMISSION OF NORTH DAKOTA 
+OIL AND GAS DIVISION 
+Well File No. 
+22249 
+600 EAST BOULEVARD DEPT 405 
+BISMARCK, ND 58505-0840 
+DIC CTB No. 
+, l a 
+.).....?-- "'Z..- ""1 
+I 
+SFN 5698 (03-2000) 
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. 
+PLEASE SUBMIT THE ORIGINAL AND FOUR COPIES. 
+Well Name and Number 
+Ma num 2-36-25H 
+Operator 
+Slawson Ex !oration Com an , Inc. 
+Address 
+1675 Broadwa , Suite 1600 
+Name of First Purchaser 
+Tesoro Refining & Marketing 
+Principal Place of Business 
+19100 Ridgewood Parkway 
+Field Address 
+11071 32nd St. SW 
+Name of Transporter 
+Tesoro Logistics Operations LLC 
+Address 
+19100 Ridgeway Parkway 
+Qtr-Qtr 
+SESE 
+Section 
+36 
+Telephone Number Field 
+720-897-8762 
+Baker 
+City 
+Denver 
+State 
+co 
+Telephone Number '%Purchased 
+201-626-6000 
+100 
+City 
+State 
+San Antonio 
+TX 
+City 
+State 
+Dickinson 
+ND 
+Telephone Number 1% Transported 
+201-626-6000 
+100 
+City 
+State 
+San Antonio 
+TX 
+County 
+McKenzie 
+Zip Code 
+I 
+Date Effective 
+December 1, 2012 
+Zip Code 
+Zip Code 
+I 
+Date Effective 
+December 1, 2012 
+Zip Code 
+The above named producer authorizes the above named purchaser to purchase the percentage of oil stated above which is produced from the lease 
+designated above until further notice. The oil will be transported by the above named transporter. 
+Other First Purchasers Purchasing From This Lease 
+"lo Purchased 
+Date Effective 
+Other First Purchasers Purchasing From This Lease 
+"lo Purchased 
+Date Effective 
+Other Transporters Transporting From This Lease 
+"lo Transported 
+Date Effective 
+Other Transporters Transporting From This Lease 
+"lo Transported 
+Date Effective 
+Comments 
+80202 
+78259 
+58601 
+78259 
+1st production expected approx. 12/12/12. Slawson Exploration will request a verbal approval for 8,000 BO to allow 
+time to submit a Well completion report. 
+I hereby swear or affirm that the information provided is true, complete and correct as determined from all available records. 
+Date 
+December 11, 2012 
+Signature 
+Printed Name 
+Matt Glenn 
+Witness Printed Name 
+Stacy Leyshon 
+Date Approved 
+By 
+Title 
+Title 
+Technician 
+Witness Title 
+Market Analyst 
+FOR STATE USE ONLY 
+FEB 2 5 2013 
+my gge 
+Basin - FSM 
+ASX IMPE 
+Trvil=.  
+4 N Lt I N L. L At IN Li 
+6724 Corporation Pkwy 
+Fort Worth, Texas 76126 
+(817) 717-1820 
+Directional Survey Certification Form 
+Slawson  
+Company 
+ND -SLW -0034 
+Job Number 
+Magnum 2 -36 -25H 
+Well Name 
+March 29, 2012  
+Final Report Date 
+McKenzie County, ND 
+33 -053 -03944 
+API Number 
+County/State 
+N 48 1' 29.71200"  
+Surface Latitude 
+NAD83 ND State Plane, 
+Northern Zone, US Feet 
+Datum 
+W 103 36° 16.48800" 
+36 -153 -101 
+Surface Longitude 
+Sec. - TWP - Range 
+Nabors 419 
+22  
+RKB Height 
+Rig Contractor/ Name 
+Survey Depths 
+Type of Survey 
+Survey Depths 
+Type of Survey 
+Site Supervisor 
+0 
+to 	
+10237 
+ft 
+Measurements While Drilling (MWD) 
+ft 
+Jeromy Haggerty 
+The data submitted in this report conforms to the standards and procedures as set 
+forth by Schlumberger. This report represents a true.and correct directional wellbore 
+survey based on original survey data •b ned a 	
+well site. 
+This document has been subscribed and affirmed, or sworn before me in the county of 
+Adams in the state of Colorado, this 	
+day of 	
+, 20 
+Magnum 2-36-25H MWD 0' to 10237' Survey Report 
+(DO Survey) 
+Report Date: 
+Client: 
+Field: 
+Structure / Slot: 
+Well: 
+Borehole: 
+UWI / API#: 
+Survey Name: 
+Survey Date: 
+Tort / AHD I DOI / ERD Ratio: 
+Coordinate Reference System: 
+Location Let / Long: 
+Location Grid N/E Y/X: 
+CRS Grid Convergence Angle: 
+Grid Scale Factor: 
+March 29, 2012 - 07:22 PM 
+Slawson 
+ND, McKenzie County (NAD 83 NZ) 2011 
+Slawson (Magnum 2-36-25H) Nabors 419 / Magnum 2-36-25H 
+Magnum 2-36-25H 
+Original Hole 
+ND-SLW-0034 I 33-053-03944 
+Magnum 2-36-25H MWD d to 10237' 
+March 29, 2012 
+26.094 ° / 129.642 ft / 3.529 / 0.013 
+NAD83 North Dakota State Plane, Northem Zone, US Feet 
+N 48° 1' 29.71200", W 103° 38' 18.48800' 
+N 389168.835 ftUS, E 1209015.582 ftUS 
+-2.31022168 ° 
+0.99993838 
+Survey / DLS Computation: 
+Vertical Section Azimuth: 
+Vertical Section Origin: 
+ND Reference Datum: 
+ND Reference Elevation: 
+Seabed / Ground Elevation: 
+Magnetic Declination: 
+Total Field Strength: 
+Magnetic Dip Angle: 
+Declination Date: 
+Magnetic Declination Model: 
+North Reference: 
+Grid Convergence Used: 
+Total Corr Mag North->True 
+North: 
+Local Coord Referenced To: 
+Minimum Curvature / Lubinski 
+357.950 ° (True North) 
+0.000 ft, 0.000 ft 
+RKB 
+2180.000 ft above MSL 
+2158.000 ft above MSL 
+8.670 ° 
+56577.012 nT 
+73.025 ° 
+March 29, 2012 
+BGGM 2011 
+True North 
+0.000 ° 
+8.670 ° 
+Well Head 
+MD 	
+Ind 	
+/trim True 	
+ND 	 VSEC 	
+NS 	
+EW 	
+DLS 	
+Northing 	
+Easting 	
+Latitude 	Longitude 
+161 	
+1°1 	
+II 	
+Ittl 	
+Ift) 	
+Ift) 	
+1111 	
+1./100r0 	IftUS) 	MUM 	
+IN/S ° "'I 	
+lEAN °' °I 
+0.00 	
+0.00 	
+0.00 	
+0.00 	
+0.00 	
+0.00 	
+0.00 	
+N/A 	
+389168.83 	1209015.58 N 48 1 29.71 W 103 36 16.49 
+2188.00 	
+0.00 	
+0.00 	2168.00 	
+0.00 	
+0.00 	
+0.00 	
+0.00 	
+389168.83 	1209015.58 N 48 1 29.71 W 103 36 1649 
+2256.00 	
+0.79 	
+53.41 	2256.00 	
+0.34 	
+0.36 	
+0.49 	
+0.90 	
+389169.18 	1209016.08 N 48 1 29.72 W 103 36 16.48 
+2351.00 	
+0.88 	 235.600 	2350.99 	
+0.32 	
+0.34 	
+0.41 	
+1.76 	
+389169.16 	1209016.01 N 48 1 29.72 W 103 36 16.48 
+2448.00 	
+0.18 	 236.04 	2445.99 	
+-0.14 	
+-0.16 	
+-0.31 	
+0.74 	
+389168.89 	1209015.28 N 48 1 29.71 W 103 36 16.49 
+2542.00 	
+0.88 	 238.40 	2541.98 	
+-061 	
+-0.85 	
+-1.05 	
+0.73 	
+389168.23 	1209014.50 N 48 1 29.71 W 103 36 16.50 
+2636.00 	
+0.97 	 224.44 	2635.97 	
+-1.54 	
+-1.82 	
+-2.21 	
+0.23 	
+389167.31 	1209013.31 N 48 1 29.70 W 103 36 18.52 
+2730.00 	
+1.14 	 205.83 	2729.96 	
+-2.91 	
+-3.03 	
+-3.17 	
+0.41 	
+389165.94 	1209012.29 N 48 1 29.68 W 103 36 16.53 
+2826.00 	
+1.14 	 218.64 	2825.94 	
+-4.48 	
+-4.63 	
+-4.18 	
+0.27 	
+389164.37 	1209011.22 N 48 1 29.67 W 103 36 16.55 
+2924.00 	
+1.23 	 229.10 	2923.92 	
+-5.88 	
+-6.08 	
+-5.59 	
+0.24 	
+389162.98 	1209009.75 N 48 1 29.65 W 103 36 16.57 
+3019.00 	
+1.14 	 228.57 	3018.90 	
+-7.12 	
+-7.38 	
+-7.07 	
+0.10 	
+389181.75 	1209008.22 N 48 1 2964 W 103 36 16.59 
+3114.00 	
+1.14 	 226.29 	3113.88 	
+-8.35 	
+-8.65 	
+-8.46 	
+0.05 	
+389180.53 	1209008.78 N 48 1 29.63 W 103 36 18.61 
+3209.00 	
+1.14 	 222.95 	3208.86 	
+-9.84 	 -10.00 	
+-9.78 	
+0.07 	
+389159.24 	1209005.40 N 48 1 29.61 W 103 36 16.63 
+3304.00 	
+1.23 	 214.80 	3303.84 	 -11.13 	 -11.53 	 -11.01 	
+0.20 	
+389157.76 	1209004.12 N 48 1 29.60 W 103 36 16.65 
+3399.00 	
+0.88 	 219.61 	339682 	 -12.49 	 -12.93 	 -12.05 	
+0.38 	
+389158.40 	1209003.02 N 48 1 29.58 W 103 36 18.67 
+3494.00 	
+1.23 	 211.26 	3493.81 	 -13.89 	 -14.37 	 -13.05 	
+0.40 	
+389155.01 	1209001.97 N 48 1 29.57 W 103 36 16.68 
+3589.00 	
+0.97 	 213.10 	3588.79 	 -15.40 	 -15.91 	
+-14.01 	
+0.28 	
+389153.50 	1209000.94 N 48 1 29.55 W 103 36 18.69 
+3684.00 	
+0.88 	 204.23 	3683.78 	 -18.71 	 -17.25 	 -1425 	
+0.18 	
+389152.19 	1209000.15 N 48 1 29.54 W 103 36 16.71 
+3779.00 	
+0.79 	 219.87 	3778.77 	 -17.85 	 -18.42 	 -15.47 	
+0.26 	
+389151.06 	1208999.38 N 48 1 29.53 IN 103 36 16.72 
+3877.00 	
+0.79 	 219.43 	3876.78 	 -18.88 	 -19.46 	 -18.33 	
+0.01 	
+389150.05 	1208998.48 N 48 1 29.52 W 103 36 16.73 
+3972.00 	
+0.70 	 224.35 	3971.75 	 -19.75 	 -20.38 	 -17.18 	
+0.12 	
+389149.17 	120899762 N 48 1 29.51 W 103 36 16.74 
+4065.00 	
+0.53 	 221.63 	4064.74 	 -20.45 	 -21.11 	
+-17.84 	
+0.19 	
+389148.47 	1208996.91 N 48 1 29.50 W 103 36 16.75 
+4159.00 	
+0.44 	 202.91 	4158.74 	 -21.10 	 -21.76 	 -18.27 	
+0.19 	
+389147.83 	1208996.45 N 48 1 29.50 W 103 36 16.76 
+4254.00 	
+0.44 	 171.71 	4253.74 	 -21.79 	 -22.46 	 -18.36 	
+0.25 	
+389147.13 	120899663 N 48 1 29.49 W 103 36 16.76 
+4350.00 	
+0.44 	 219.81 	4349.74 	 -2243 	 -23.11 	
+-18.54 	
+0.37 	
+389146.49 	1208996.13 N 48 1 2948 W 103 36 16.76 
+444760 	
+0.26 	 246.50 	4446.73 	 -22.79 	 -23.48 	 -18.98 	
+0.25 	
+389146.14 	1208995.87 N 48 1 2948 W 103 36 16.77 
+454560 	
+0.18 	 238.77 	4544.73 	 -22.95 	 -23.65 	 -19.31 	
+0.09 	
+389145.98 	1208995.33 N 48 1 2948 W 103 36 16.77 
+4639.00 	
+0.18 	 252.65 	4638.73 	 -23.06 	 -23.77 	 -19.58 	
+0.05 	
+389145.87 	1208995.06 N 48 1 29.48 W 103 36 16.78 
+473460 	
+0.62 	 285.61 	4733.73 	 -22.94 	 -23.68 	 -20.22 	
+0.50 	
+389145.99 	120899443 N 48 1 2948 W 103 36 16.79 
+4830.00 	
+0.26 	 269.27 	4829.73 	 -22.78 	 -23.54 	 -20.94 	
+0.39 	
+389146.16 	1208993.71 N 48 1 2648 W 103 36 16.80 
+4925.00 	
+0.09 	 152.81 	4924.73 	 -22.84 	 -23.61 	
+-21.12 	
+0.33 	
+389146.09 	1208993.53 N 48 1 29.48 W 103 38 18.80 
+5021.00 	
+0.09 	 137.98 	5020.73 	 -22.97 	 -23.73 	 -21.03 	
+062 	
+389145.97 	1208993.81 N 48 1 2948 W 103 38 18.80 
+5118.00 	
+0.18 	
+87.33 	5115.73 	 -23.02 	 -23.78 	 -20.83 	
+0.15 	
+389145.91 	1208993.81 N 48 1 29.48 W 103 35 18.79 
+5213.00 	
+0.44 	
+44.18 	5212.72 	 -22.76 	 -23.51 	
+-20.42 	
+0.34 	
+389146.17 	1208994.23 N 48 1 29.48 W 103 36 18.79 
+5308.00 	
+0.70 	
+32.58 	5307.72 	 -22.03 	 -2278 	 -19.88 	
+0.30 	
+389148.90 	1208994.83 N 48 1 29.49 W 103 36 16.78 
+5404.00 	
+0.53 	
+72.30 	5403.71 	 -21.43 	 -22.13 	 -19.12 	
+0.47 	
+389147.50 	1208995.59 N 48 1 29.49 W 103 36 16.77 
+5498.00 	
+0.26 	
+85.89 	5497.71 	 -21.23 	 -21.91 	
+-18.51 	
+0.29 	
+38914769 	120899621 N 48 1 29.50 W 103 38 16.76 
+5594.00 	
+0.53 	
+72.30 	5593.71 	 -21.03 	 -21.69 	 -17.89 	
+0.28 	
+389147.89 	1208996.84 N 48 1 29.50 W 103 38 16.75 
+5689.00 	
+0.62 	
+48.57 	5688.71 	 -20.59 	 -21.21 	
+-17.08 	
+0.27 	
+38914633 	1208997.66 N 48 1 29.50 W 103 36 16.74 
+5786.00 	
+0.70 	
+41.80 	5785.70 	 -19.83 	 -20.42 	 -16.29 	
+0.12 	
+389149.09 	120899840 N 48 1 29.51 W 103 38 16.73 
+5882.00 	
+0.97 	
+16.84 	5881.89 	 -18.64 	 -19.21 	
+-15.67 	
+0.47 	
+389150.27 	1208999.15 N 48 1 2962 W 103 36 16.72 
+5976.00 	
+1.32 	
+32.40 	5975.67 	 -16.99 	 -17.53 	 -14.86 	
+0,49 	
+389151.92 	1209000.03 N 48 1 29.54 W 103 36 16.71 
+6073.00 	
+1.23 	
+38.73 	6072.65 	 -15.28 	 -15.78 	 -13.81 	
+0.17 	
+389153.82 	1209001.35 N 48 1 29.58 W 103 36 16.69 
+6168.00 	
+0.88 	
+35.04 	6167.63 	 -13.93 	 -14.38 	 -12.55 	
+0.38 	
+389154.97 	1209002.46 N 48 1 29.57 W 103 36 16.67 
+6283.00 	
+0.97 	
+25.63 	6262.62 	 -12.63 	 -13.06 	 -11.78 	
+0.19 	
+389156.26 	1209003.28 N 48 1 29.58 W 103 36 16.66 
+6357.00 	
+0.79 	
+21.94 	6356.61 	 -11.34 	 -11.74 	 -1120 	
+0.20 	
+389157.55 	1209003.92 N 48 1 29.60 W 103 36 16.65 
+6456.00 	
+0.79 	
+16.49 	6455.60 	 -10.07 	 -10.48 	 -10.75 	
+0.08 	
+389158.82 	120900442 N 48 1 29.61 W 103 36 16.65 
+8549.00 	
+0.53 	
+44.97 	6548.59 	
+-9.16 	
+-9.54 	 -10.26 	
+0.44 	
+389159.72 	12091104.94 N 48 1 29.62 W 103 36 16.64 
+6644.00 	
+0.62 	
+56.39 	8643.59 	
+-8.60 	
+-8.94 	
+-9.52 	
+0.15 	
+389160.28 	1209005.71 N 48 1 2962 W 103 36 16.63 
+6739.00 	
+0.53 	
+89.09 	6738.58 	
+-8.34 	
+-865 	
+-8.66 	
+0.35 	
+389180.54 	1209006.58 N 48 1 29.83 W 103 36 16.62 
+8832.00 	
+0.62 	
+63.69 	6831.58 	
+-8.14 	
+-8.42 	
+-7.78 	
+0.29 	
+389160.73 	1209007.47 N 48 1 29.63 W 103 38 16.60 
+8927.00 	
+1.14 	
+83.07 	6926.57 	
+-7.53 	
+-7.76 	
+-6.47 	
+0.55 	
+389161.34 	1209008.80 N 48 1 29.64 W 103 36 16.58 
+7025.00 	
+1.14 	
+53.14 	7024.55 	
+-6.56 	
+-6.74 	
+-4.82 	
+0.20 	
+389182.30 	1209010.49 N 48 1 29.65 W 103 36 16.56 
+7120,00 	
+0.79 	
+61.14 	7119.53 	
+-5.73 	
+-5.86 	
+-3.49 	
+0.39 	
+389163.13 	1209011.88 N 48 1 29.65 W 103 36 16.54 
+7215.00 	
+0.97 	
+41.19 	7214.52 	
+-4.85 	
+-4.93 	
+-2.39 	
+0.37 	
+389164.00 	1209012.99 N 48 1 29.66 W 103 38 18.52 
+7311.00 	
+1.23 	
+18.51 	7310.50 	
+-3.29 	
+-3.35 	
+-1.53 	
+0.52 	
+389165.55 	1209013.92 N 48 1 29.68 W 103 36 16.51 
+7406.00 	
+1.32 	
+27.39 	7405.48 	
+-1.38 	
+-1.41 	
+-0.70 	
+023 	
+389167.46 	1209014.82 N 48 1 29.70 W 103 36 16.50 
+7471.00 	
+1.67 	
+37.94 	7470.46 	
+0.00 	
+0.00 	
+0.23 	
+0.68 	
+389168.83 	1209015.81 N 48 1 29.71 W 103 36 16.48 
+7503.00 	
+1.67 	
+41.89 	7502.45 	
+0.69 	
+0.72 	
+0.82 	
+0.38 	
+389169.52 	1209016.43 N 48 1 29.72 W 103 38 16.48 
+7598.00 	
+1.67 	
+53.23 	7597.41 	
+2.47 	
+2.58 	
+2.86 	
+0.35 	
+389171.30 	1209018.54 N 48 1 29.74 W 103 36 16.45 
+7693.00 	
+1.49 	
+5024 	7692.37 	
+4.02 	
+4.20 	
+4.92 	
+0.21 	
+389172.83 	1209020.66 N 48 1 29.75 W 103 36 16.42 
+7790.00 	
+1.49 	
+61.76 	7789.34 	
+5.35 	
+5.60 	
+7.00 	
+0.31 	
+389174.15 	1209022.80 N 48 1 29.77 W 103 36 16.39 
+7886.00 	
+0.97 	
+70.46 	7885.31 	
+6.14 	
+646 	
+8.86 	
+0.57 	
+389174.93 	1209024.70 N 48 1 29.78 W 103 36 16.38 
+7981.00 	
+1,14 	
+86.19 	7980.30 	
+6.41 	
+8.79 	
+10.56 	
+0.35 	
+389175.20 	1209026.41 N 48 1 29.78 W 103 36 16.33 
+8077.00 	
+1.14 	 131.37 	8076.28 	
+5.79 	
+6.23 	
+12.23 	
+0.91 	
+389174.56 	1209028.05 N 48 1 29.77 W 103 38 16.31 
+8174.00 	
+0.97 	 129.34 	8173.26 	
+4.58 	
+5.07 	
+13.59 	
+0.18 	
+389173.35 	1209029.36 N 48 1 29.76 W 103 36 1629 
+Comments 
+Surface 
+Assumed Vertical 
+Start MWD Survey 
+...Slawson (Magnum 2-36-2511) Nabors 419 \Magnum 2-36-25H \Original Hole \Magnum 2-36-25H MWD 0' to 102371/10/2012 3:38 PM Page 1 of 2 
+Drilling Office 2.5.1100.0 
+Comments 
+MD 	
+Incl 	
+Azim True 	 ND 	VSEC 	
+NS 	
+EW 	 DLS 	
+Northing 	
+Easting 	
+Latitude 	
+Longitude 
+(ft) 	
+1°) 	
+1°) 	
+(ft) 	
+(ft) 	
+Rh 	
+Ift) 	
+(°/100ft) 	 IftUSI 	(MA) 	
+IN/S " "'I 	
+IE/W ° "') 
+8270.00 	
+0.88 	142.44 	
+8269.25 	
+3.44 	
+197 	 14.67 	 0.24 	
+389172.21 	
+1209030.40 N 48 1 29.75 W 103 36 16.27 
+8365.00 	
+0.97 	156.15 	
+8364.24 	
+2.10 	
+2.66 	 15.44 	 0.25 	
+389170.87 	
+1209031.11 N 48 1 29.74 W 103 36 16.26 
+8458.00 	
+0.79 	152.63 	
+8457.23 	
+0.79 	
+1.37 	 16.05 	 0.20 	
+389169.55 	
+1209031.67 N 48 1 29.73 W 103 36 16.25 
+8554.00 	
+0.97 	157.21 	
+8553.22 	 -0.57 	
+0.03 	 16.67 	 0.20 	
+389168.19 	
+1209032.24 N 48 1 29.71 W 103 36 16.24 
+End MWD Survey 
+8649.00 	
+1.14 	169.33 	
+8648.20 	 -2.25 	 -1.84 	 17.16 	 0.29 	
+389166.50 	
+1209032.66 N 48 1 29.70 W 103 36 18.24 
+8745.00 	
+0.97 	167.93 	
+8744.19 	 -4.00 	 -3.37 	 17.50 	 0.18 	
+389164.76 	
+1209032.93 N 48 1 29.88 W 103 36 16.23 
+8840.00 	
+0.79 	176.01 	
+8839.17 	 -5.44 	 -4.81 	 17.72 	 0.23 	
+389163.31 	
+1209033.09 N 48 1 29.66 W 103 36 18.23 
+8938.00 	
+0.79 	183.86 	
+8935.17 	 -6.76 	 -6.13 	 17.72 	 0.11 	
+389181.99 	
+1209033.04 N 48 1 29.65 W 103 36 18.23 
+9029.00 	
+1.23 	180.94 	
+9028.15 	 -8.40 	 -7.77 	 17.66 	 0.48 	
+389160.36 	
+1209032.92 N 48 1 29.64 W 103 36 16.23 
+9125.00 	
+1.14 	188.05 	
+9124.13 	-10.37 	 -9.75 	 17.51 	 0.18 	
+389158.39 	
+1209032.69 N 48 1 29.62 W 103 36 16.23 
+9220.00 	
+1.32 	179.79 	
+9219.11 	 -12.39 	-11.78 	 17.38 	 0.27 	
+389156.37 	
+1209032.48 N 48 1 29.60 W 103 36 16.23 
+9318.00 	
+123 	182.81 	
+9315.08 	-14.52 	-13.91 	 17.34 	 0.11 	
+38915423 	
+1209032.35 N 48 1 29.57 W 103 36 16.23 
+9411.00 	
+141 	 191.57 	
+9410.06 	-18.138 	-18.08 	 17.06 	 0.29 	
+389152.08 	
+1209031.98 N 48 1 29.55 W 103 36 16.24 
+9508.00 	
+1.32 	179.27 	
+9507.03 	-18.95 	-18.38 	 16.84 	 0.32 	
+389149.81 	
+1209031.66 N 48 1 29.53 W 103 36 16.24 
+9802.00 	
+1.32 	177.16 	
+9601.01 	 -21.12 	-20.53 	 16.90 	 0.05 	
+389147.64 	
+1209031.64 N 48 1 29.51 W 103 38 16.24 
+9698,00 	
+2.20 	168.63 	
+9696.96 	-24.04 	-23.44 	 17.32 	 0.95 	
+389144.72 	
+1209031.94 N 48 1 29.48 W 103 36 18.23 
+9794.00 	
+1.93 	165.99 	
+9792.90 	-27.44 	-26.81 	
+18.08 	 0.30 	
+389141.32 	
+1209032.56 N 48 1 29.45 W 103 36 18.22 
+9888.00 	
+1.87 	178.37 	
+9888.85 	-30.38 	-29.72 	 18.55 	 0.44 	
+389138.40 	
+1209032.91 N 48 1 29.42 W 103 36 16.22 
+9985.00 	
+1.76 	188.91 	
+9983.81 	 -33.24 	-32.80 	 18.46 	 0.34 	
+389135.51 	
+1209032.71 N 48 1 29.39 W 103 36 16.22 
+10080.00 	
+1.49 	188.76 	
+10078.77 	-35.90 	-35.27 	 18.09 	 0.29 	
+389132.88 	
+1209032.24 N 48 1 29.36 W 103 36 16.22 
+10175.00 	
+1.23 	179.09 	
+10173.74 	-38.13 	-37.51 	 17.92 	 0.38 	
+389130.63 	
+1209031.97 N 48 1 29.34 W 103 38 16.22 
+10237.00 	
+0.97 	173.38 	
+10235.73 	-39.32 	-38.70 	 17.99 	 0.45 	
+389129.44 	
+1209032.00 N 48 1 29.33 W 103 36 18.22 
+Survey Type: 	
+Def Survey 
+Survey Error Model: 
+Survey Program: 
+Description 
+ISCWSA Rev 0 *** 3-D 95.000% Confidence 2.7955 sigma 
+MD From 	MD To 	
+EOU Freq 
+(ft) 	
+(ft) 	
+(ft) 
+Survey Tool Type 	
+Borehole / Survey 
+0.000 
+22.000 
+2168.000 
+2168.000 
+22.000 
+2168.000 
+2168.000 
+10237.000 
+1/22.000 
+1/98.425 
+Act Stns 
+1/8069.000 
+SLB_BLIND.TREND-Depth Only 
+SLB_BLIND.TREND 
+SLB_BLINDsTREND 
+SLB_MWD-STD 
+Original Hole / Magnum 2-36-25H MWD 0' to 10237 
+Original Hole / Magnum 2-38-251-I MWD 0' to 10237' 
+Original Hole / Magnum 2-36-25H MWD 0' to 10237' 
+Original Hole / Magnum 2-36-2511 MWD to 10237' 
+Drilling Office 2.5.1100.0 	
+...Slawson (Magnum 2-36-25H) Nabors 419 \Magnum 2-36-25H \Original Hole \Magnum 2-36-25H MWD 0' to 102331/10/2012 3:38 PM Page 2 of 2 
+Standard Report
+14 May, 2012
+Survey: Sperry MWD Surveys
+Slawson Exploration Company, Inc.
+McKenzie County, ND
+Sec. 36-T153N-R101W
+Magnum 2-36-25H
+Plan B
+Ground Level:  2,156.00 ft
+Well Coordinates:  389,190.51 N, 1,208,872.51 E  (48° 01' 29.87" N, 103° 36' 18.60" W)
+Local Coordinate Origin:
+Centered on Well Magnum 2-36-25H
+Viewing Datum:
+RKB 22' @ 2178.00ft (Nabors 419)
+TVDs to System:
+N
+North Reference:
+Unit System:
+API - US Survey Feet - Custom
+True
+Version:  2003.16  Build:  43I
+Geodetic Scale Factor Applied
+McKenzie County, ND
+Slawson Exploration Company, Inc.
+Survey Report for Magnum 2-36-25H - Sperry MWD Surveys
+Measured
+Depth
+(ft)
+Inclination
+(°)
+Azimuth
+(°)
+Vertical
+Depth
+(ft)
++E/-W
+(ft)
+Vertical
+Section
+(ft)
+Dogleg
+Rate
+(°/100ft)
++N/-S
+(ft)
+10,237.00
+0.97
+173.38
+10,235.73
+-39.32
+0.00
+-38.70
+17.99
+Tie On to Extreme Surveys @ 10237'
+10,282.00
+0.29
+291.48
+10,280.73
+-39.65
+2.52
+-39.04
+17.93
+First Sperry MWD Survey @ 10282'
+10,305.00
+3.08
+324.29
+10,303.72
+-39.12
+12.35
+-38.51
+17.51
+10,337.00
+7.33
+327.81
+10,335.58
+-36.63
+13.31
+-36.09
+15.92
+10,369.00
+11.45
+327.65
+10,367.14
+-32.12
+12.88
+-31.67
+13.14
+10,401.00
+13.96
+330.86
+10,398.36
+-25.94
+8.15
+-25.62
+9.56
+10,432.00
+17.45
+327.33
+10,428.20
+-18.61
+11.67
+-18.44
+5.23
+10,464.00
+20.92
+326.44
+10,458.42
+-9.61
+10.88
+-9.64
+-0.52
+10,496.00
+24.64
+328.18
+10,487.91
+1.05
+11.81
+0.80
+-7.20
+10,528.00
+28.10
+329.73
+10,516.58
+13.49
+11.02
+12.98
+-14.52
+10,560.00
+31.68
+331.35
+10,544.32
+27.65
+11.47
+26.86
+-22.35
+10,592.00
+35.23
+332.18
+10,571.01
+43.48
+11.19
+42.41
+-30.69
+10,623.00
+38.78
+333.70
+10,595.77
+60.39
+11.83
+59.02
+-39.17
+10,655.00
+42.65
+334.35
+10,620.02
+79.46
+12.17
+77.79
+-48.30
+10,687.00
+46.35
+334.49
+10,642.84
+100.03
+11.57
+98.01
+-57.98
+10,719.00
+49.98
+334.31
+10,664.18
+121.88
+11.35
+119.51
+-68.29
+10,751.00
+53.06
+334.73
+10,684.09
+144.86
+9.68
+142.12
+-79.06
+10,782.00
+56.24
+334.29
+10,702.02
+168.06
+10.32
+164.94
+-89.94
+10,814.00
+59.80
+333.72
+10,718.97
+192.86
+11.23
+189.34
+-101.84
+10,846.00
+63.61
+334.33
+10,734.13
+218.61
+12.02
+214.66
+-114.17
+10,878.00
+67.06
+334.85
+10,747.48
+245.30
+10.88
+240.93
+-126.65
+10,909.00
+69.11
+336.14
+10,759.05
+271.88
+7.66
+267.09
+-138.57
+10,941.00
+71.41
+336.49
+10,769.86
+299.88
+7.26
+294.68
+-150.67
+10,973.00
+73.85
+336.96
+10,779.41
+328.34
+7.75
+322.73
+-162.74
+11,005.00
+76.30
+337.06
+10,787.65
+357.22
+7.66
+351.19
+-174.81
+11,037.00
+79.51
+337.36
+10,794.36
+386.48
+10.07
+380.03
+-186.93
+11,069.00
+83.24
+337.84
+10,799.16
+416.14
+11.75
+409.28
+-198.99
+11,100.00
+86.18
+338.72
+10,802.01
+445.20
+9.90
+437.95
+-210.41
+11,132.00
+88.25
+338.96
+10,803.57
+475.40
+6.51
+467.76
+-221.94
+11,164.00
+89.75
+339.53
+10,804.13
+505.70
+5.01
+497.68
+-233.28
+11,196.00
+91.51
+339.71
+10,803.78
+536.08
+5.53
+527.67
+-244.42
+11,260.00
+90.71
+339.59
+10,802.54
+596.83
+1.26
+587.66
+-266.68
+11,308.00
+90.31
+338.58
+10,802.11
+642.25
+2.26
+632.50
+-283.81
+11,374.00
+91.42
+338.92
+10,801.11
+704.57
+1.76
+694.00
+-307.73
+11,468.00
+89.20
+342.45
+10,800.60
+794.31
+4.44
+782.69
+-338.81
+11,563.00
+88.33
+345.48
+10,802.65
+886.46
+3.32
+873.96
+-365.04
+11,659.00
+89.14
+349.11
+10,804.77
+980.77
+3.87
+967.57
+-386.15
+11,754.00
+89.01
+352.87
+10,806.31
+1,075.04
+3.96
+1,061.37
+-401.02
+11,848.00
+89.08
+355.55
+10,807.87
+1,168.82
+2.85
+1,154.87
+-410.50
+11,944.00
+89.38
+357.86
+10,809.16
+1,264.78
+2.43
+1,250.70
+-416.02
+12,039.00
+91.02
+359.37
+10,808.83
+1,359.77
+2.35
+1,345.66
+-418.32
+12,071.00
+91.23
+359.61
+10,808.20
+1,391.75
+1.00
+1,377.66
+-418.60
+12,134.00
+90.09
+358.67
+10,807.48
+1,454.73
+2.35
+1,440.64
+-419.55
+12,197.00
+90.28
+358.66
+10,807.27
+1,517.72
+0.30
+1,503.62
+-421.01
+12,229.00
+90.31
+358.80
+10,807.11
+1,549.72
+0.45
+1,535.62
+-421.72
+12,292.00
+90.86
+358.41
+10,806.47
+1,612.71
+1.07
+1,598.59
+-423.26
+12,324.00
+91.33
+358.50
+10,805.85
+1,644.70
+1.50
+1,630.58
+-424.12
+12,387.00
+90.06
+358.49
+10,805.09
+1,707.70
+2.02
+1,693.55
+-425.77
+14 May, 2012 - 10:37
+COMPASS
+Page 2 of 7
+McKenzie County, ND
+Slawson Exploration Company, Inc.
+Survey Report for Magnum 2-36-25H - Sperry MWD Surveys
+Measured
+Depth
+(ft)
+Inclination
+(°)
+Azimuth
+(°)
+Vertical
+Depth
+(ft)
++E/-W
+(ft)
+Vertical
+Section
+(ft)
+Dogleg
+Rate
+(°/100ft)
++N/-S
+(ft)
+12,419.00
+90.28
+358.32
+10,805.00
+1,739.69
+0.87
+1,725.54
+-426.66
+12,451.00
+90.55
+358.08
+10,804.76
+1,771.69
+1.13
+1,757.52
+-427.67
+12,515.00
+89.54
+358.66
+10,804.71
+1,835.69
+1.82
+1,821.49
+-429.49
+12,578.00
+90.00
+358.93
+10,804.97
+1,898.68
+0.85
+1,884.48
+-430.81
+12,610.00
+90.25
+358.87
+10,804.90
+1,930.68
+0.80
+1,916.47
+-431.43
+12,705.00
+89.23
+358.89
+10,805.33
+2,025.66
+1.07
+2,011.45
+-433.29
+12,800.00
+90.25
+358.99
+10,805.76
+2,120.65
+1.08
+2,106.43
+-435.04
+12,895.00
+89.60
+359.73
+10,805.88
+2,215.62
+1.04
+2,201.43
+-436.10
+12,990.00
+90.28
+359.28
+10,805.98
+2,310.58
+0.86
+2,296.42
+-436.93
+13,085.00
+89.29
+359.42
+10,806.34
+2,405.55
+1.05
+2,391.41
+-438.00
+13,181.00
+89.91
+358.97
+10,807.01
+2,501.53
+0.80
+2,487.40
+-439.35
+13,276.00
+89.23
+359.11
+10,807.72
+2,596.51
+0.73
+2,582.38
+-440.94
+13,340.00
+89.08
+359.41
+10,808.67
+2,660.48
+0.52
+2,646.37
+-441.77
+13,371.00
+89.17
+358.96
+10,809.14
+2,691.47
+1.48
+2,677.37
+-442.21
+13,467.00
+89.66
+358.91
+10,810.12
+2,787.45
+0.51
+2,773.34
+-443.99
+13,562.00
+90.28
+358.60
+10,810.17
+2,882.44
+0.73
+2,868.32
+-446.06
+13,626.00
+90.46
+358.77
+10,809.76
+2,946.43
+0.39
+2,932.30
+-447.53
+13,658.00
+90.34
+358.32
+10,809.53
+2,978.43
+1.46
+2,964.29
+-448.34
+13,753.00
+90.65
+357.92
+10,808.71
+3,073.43
+0.53
+3,059.24
+-451.46
+13,816.00
+91.39
+357.99
+10,807.59
+3,136.42
+1.18
+3,122.19
+-453.70
+13,848.00
+91.82
+357.88
+10,806.69
+3,168.40
+1.39
+3,154.15
+-454.86
+13,942.00
+89.54
+358.60
+10,805.58
+3,262.39
+2.54
+3,248.09
+-457.74
+14,037.00
+90.22
+358.49
+10,805.78
+3,357.38
+0.73
+3,343.06
+-460.16
+14,133.00
+90.80
+358.11
+10,804.92
+3,453.38
+0.72
+3,439.02
+-463.00
+14,228.00
+90.12
+359.00
+10,804.16
+3,548.37
+1.18
+3,533.98
+-465.40
+14,323.00
+89.08
+0.23
+10,804.82
+3,643.32
+1.70
+3,628.97
+-466.04
+14,418.00
+89.78
+359.72
+10,805.77
+3,738.26
+0.91
+3,723.97
+-466.08
+14,512.00
+90.34
+359.19
+10,805.67
+3,832.22
+0.82
+3,817.96
+-466.97
+14,607.00
+90.31
+0.69
+10,805.13
+3,927.16
+1.58
+3,912.96
+-467.07
+14,703.00
+89.57
+0.78
+10,805.23
+4,023.05
+0.78
+4,008.95
+-465.84
+14,797.00
+89.94
+0.83
+10,805.63
+4,116.93
+0.40
+4,102.94
+-464.52
+14,892.00
+89.88
+0.16
+10,805.78
+4,211.84
+0.71
+4,197.94
+-463.70
+14,986.00
+90.71
+0.13
+10,805.30
+4,305.77
+0.88
+4,291.93
+-463.46
+15,082.00
+90.77
+0.97
+10,804.06
+4,401.66
+0.88
+4,387.92
+-462.54
+15,176.00
+90.37
+1.30
+10,803.12
+4,495.51
+0.55
+4,481.90
+-460.68
+15,239.00
+90.80
+1.31
+10,802.48
+4,558.40
+0.68
+4,544.88
+-459.24
+15,270.00
+91.20
+0.92
+10,801.94
+4,589.34
+1.80
+4,575.87
+-458.64
+15,302.00
+89.75
+1.40
+10,801.67
+4,621.29
+4.77
+4,607.86
+-457.99
+15,333.00
+89.81
+1.86
+10,801.79
+4,652.23
+1.50
+4,638.84
+-457.11
+15,365.00
+89.82
+1.12
+10,801.90
+4,684.17
+2.31
+4,670.83
+-456.28
+15,460.00
+90.34
+0.25
+10,801.76
+4,779.06
+1.07
+4,765.83
+-455.14
+15,523.00
+90.43
+0.30
+10,801.34
+4,842.00
+0.16
+4,828.82
+-454.84
+15,554.00
+90.55
+0.39
+10,801.08
+4,872.97
+0.48
+4,859.82
+-454.65
+15,649.00
+90.71
+359.91
+10,800.03
+4,967.90
+0.53
+4,954.82
+-454.41
+15,742.00
+91.14
+359.39
+10,798.53
+5,060.85
+0.73
+5,047.80
+-454.97
+15,837.00
+90.40
+0.27
+10,797.25
+5,155.78
+1.21
+5,142.79
+-455.26
+15,920.00
+90.34
+1.38
+10,796.72
+5,238.68
+1.34
+5,225.78
+-454.06
+15,940.00
+90.19
+1.81
+10,796.62
+5,258.64
+2.28
+5,245.77
+-453.50
+16,035.00
+89.48
+2.06
+10,796.90
+5,353.41
+0.79
+5,340.72
+-450.30
+16,067.00
+89.63
+2.04
+10,797.15
+5,385.32
+0.47
+5,372.69
+-449.15
+16,130.00
+88.77
+2.71
+10,798.03
+5,448.13
+1.73
+5,435.63
+-446.54
+14 May, 2012 - 10:37
+COMPASS
+Page 3 of 7
+McKenzie County, ND
+Slawson Exploration Company, Inc.
+Survey Report for Magnum 2-36-25H - Sperry MWD Surveys
+Measured
+Depth
+(ft)
+Inclination
+(°)
+Azimuth
+(°)
+Vertical
+Depth
+(ft)
++E/-W
+(ft)
+Vertical
+Section
+(ft)
+Dogleg
+Rate
+(°/100ft)
++N/-S
+(ft)
+16,194.00
+87.87
+1.80
+10,799.90
+5,511.92
+2.00
+5,499.55
+-444.02
+16,225.00
+87.63
+1.88
+10,801.12
+5,542.82
+0.82
+5,530.51
+-443.03
+16,321.00
+89.20
+1.70
+10,803.77
+5,638.57
+1.65
+5,626.43
+-440.03
+16,353.00
+89.54
+1.85
+10,804.13
+5,670.49
+1.16
+5,658.41
+-439.04
+16,416.00
+89.97
+1.40
+10,804.40
+5,733.36
+0.99
+5,721.38
+-437.25
+16,512.00
+90.77
+1.89
+10,803.78
+5,829.16
+0.98
+5,817.34
+-434.50
+16,607.00
+89.35
+2.06
+10,803.68
+5,923.92
+1.51
+5,912.28
+-431.22
+16,671.00
+89.60
+1.11
+10,804.26
+5,987.79
+1.53
+5,976.25
+-429.45
+16,702.00
+89.63
+1.53
+10,804.47
+6,018.74
+1.36
+6,007.25
+-428.74
+16,797.00
+90.25
+0.91
+10,804.57
+6,113.58
+0.92
+6,102.22
+-426.72
+16,861.00
+90.80
+1.51
+10,803.98
+6,177.48
+1.27
+6,166.21
+-425.37
+16,892.00
+90.40
+0.72
+10,803.66
+6,208.43
+2.86
+6,197.20
+-424.76
+16,988.00
+90.83
+1.07
+10,802.63
+6,304.29
+0.58
+6,293.18
+-423.26
+17,083.00
+89.35
+0.82
+10,802.48
+6,399.16
+1.58
+6,388.16
+-421.70
+17,178.00
+90.12
+1.26
+10,802.92
+6,494.02
+0.93
+6,483.15
+-419.97
+17,273.00
+90.65
+1.13
+10,802.28
+6,588.87
+0.57
+6,578.12
+-417.99
+17,368.00
+88.95
+0.81
+10,802.61
+6,683.73
+1.82
+6,673.11
+-416.38
+17,431.00
+89.35
+0.67
+10,803.55
+6,746.65
+0.67
+6,736.09
+-415.57
+17,463.00
+89.20
+0.50
+10,803.95
+6,778.61
+0.71
+6,768.09
+-415.24
+17,558.00
+89.78
+0.61
+10,804.80
+6,873.51
+0.62
+6,863.08
+-414.32
+17,620.00
+90.00
+0.43
+10,804.92
+6,935.45
+0.46
+6,925.08
+-413.76
+17,651.00
+90.09
+0.90
+10,804.89
+6,966.41
+1.54
+6,956.08
+-413.40
+17,715.00
+90.46
+0.25
+10,804.59
+7,030.34
+1.17
+7,020.07
+-412.76
+17,746.00
+90.77
+0.58
+10,804.25
+7,061.31
+1.46
+7,051.07
+-412.53
+17,841.00
+89.48
+0.64
+10,804.05
+7,156.21
+1.36
+7,146.06
+-411.52
+17,935.00
+89.94
+0.83
+10,804.52
+7,250.10
+0.53
+7,240.05
+-410.32
+18,029.00
+90.34
+0.34
+10,804.29
+7,344.00
+0.67
+7,334.05
+-409.36
+18,122.00
+90.71
+0.14
+10,803.44
+7,436.92
+0.45
+7,427.04
+-408.97
+18,215.00
+89.23
+0.26
+10,803.49
+7,529.84
+1.60
+7,520.04
+-408.64
+18,308.00
+89.91
+0.63
+10,804.19
+7,622.75
+0.83
+7,613.03
+-407.92
+18,401.00
+90.06
+0.03
+10,804.21
+7,715.67
+0.67
+7,706.03
+-407.38
+18,464.00
+90.62
+0.25
+10,803.84
+7,778.62
+0.96
+7,769.03
+-407.23
+18,495.00
+90.52
+359.97
+10,803.53
+7,809.60
+0.96
+7,800.03
+-407.17
+18,589.00
+89.20
+0.32
+10,803.76
+7,903.53
+1.45
+7,894.02
+-406.93
+18,682.00
+89.29
+0.09
+10,804.98
+7,996.45
+0.27
+7,987.02
+-406.60
+18,776.00
+89.57
+0.07
+10,805.92
+8,090.38
+0.30
+8,081.01
+-406.47
+18,793.00
+89.81
+359.02
+10,806.01
+8,107.37
+6.34
+8,098.01
+-406.60
+18,888.00
+90.12
+359.14
+10,806.07
+8,202.35
+0.35
+8,193.00
+-408.13
+18,983.00
+90.06
+358.23
+10,805.92
+8,297.34
+0.96
+8,287.97
+-410.31
+19,078.00
+90.56
+0.22
+10,805.41
+8,392.31
+2.16
+8,382.96
+-411.59
+19,141.00
+90.92
+358.72
+10,804.59
+8,455.28
+2.45
+8,445.95
+-412.18
+19,173.00
+91.14
+358.90
+10,804.02
+8,487.28
+0.89
+8,477.93
+-412.84
+19,205.00
+91.02
+359.01
+10,803.41
+8,519.27
+0.51
+8,509.92
+-413.42
+19,268.00
+90.15
+359.12
+10,802.77
+8,582.25
+1.39
+8,572.91
+-414.45
+19,363.00
+89.85
+359.48
+10,802.77
+8,677.22
+0.49
+8,667.90
+-415.61
+19,458.00
+89.60
+358.38
+10,803.23
+8,772.21
+1.19
+8,762.88
+-417.39
+19,553.00
+91.08
+358.39
+10,802.66
+8,867.20
+1.56
+8,857.84
+-420.06
+19,647.00
+89.88
+359.40
+10,801.87
+8,961.18
+1.67
+8,951.82
+-421.88
+19,742.00
+90.43
+359.40
+10,801.62
+9,056.15
+0.58
+9,046.81
+-422.87
+19,838.00
+90.52
+359.38
+10,800.82
+9,152.12
+0.10
+9,142.80
+-423.89
+19,933.00
+90.18
+0.23
+10,800.24
+9,247.06
+0.96
+9,237.80
+-424.22
+14 May, 2012 - 10:37
+COMPASS
+Page 4 of 7
+McKenzie County, ND
+Slawson Exploration Company, Inc.
+Survey Report for Magnum 2-36-25H - Sperry MWD Surveys
+Measured
+Depth
+(ft)
+Inclination
+(°)
+Azimuth
+(°)
+Vertical
+Depth
+(ft)
++E/-W
+(ft)
+Vertical
+Section
+(ft)
+Dogleg
+Rate
+(°/100ft)
++N/-S
+(ft)
+19,997.00
+90.59
+0.16
+10,799.81
+9,311.01
+0.65
+9,301.80
+-424.00
+20,028.00
+90.92
+359.01
+10,799.40
+9,342.00
+3.86
+9,332.79
+-424.22
+20,124.00
+89.26
+0.14
+10,799.25
+9,437.95
+2.09
+9,428.79
+-424.94
+20,219.00
+89.26
+0.26
+10,800.48
+9,532.87
+0.13
+9,523.78
+-424.60
+20,313.00
+89.63
+0.44
+10,801.39
+9,626.78
+0.44
+9,617.77
+-424.03
+20,408.00
+90.00
+0.41
+10,801.70
+9,721.69
+0.39
+9,712.77
+-423.33
+20,502.00
+90.31
+0.31
+10,801.44
+9,815.61
+0.35
+9,806.77
+-422.74
+20,598.00
+90.80
+0.05
+10,800.51
+9,911.53
+0.58
+9,902.76
+-422.43
+20,681.00
+91.20
+0.17
+10,799.06
+9,994.46
+0.50
+9,985.75
+-422.27
+Final Sperry MWD Survey@20681'
+20,728.00
+91.20
+0.17
+10,798.08
+10,041.42
+0.00
+10,032.74
+-422.13
+Straight Line Projection To Bit @ 20728'
+Survey Annotations
+Measured
+Depth
+(ft)
+Vertical
+Depth
+(ft)
++E/-W
+(ft)
++N/-S
+(ft)
+Local Coordinates
+Comment
+10,237.00
+10,235.73
+-38.70
+17.99
+Tie On to Extreme Surveys @ 10237'
+10,282.00
+10,280.73
+-39.04
+17.93
+First Sperry MWD Survey @ 10282'
+20,681.00
+10,799.06
+9,985.75
+-422.27
+Final Sperry MWD Survey@20681'
+20,728.00
+10,798.08
+10,032.74
+-422.13
+Straight Line Projection To Bit @ 20728'
+Angle
+Type
+Target
+Azimuth
+(°)
+Origin
+Type
+Origin
++N/_S
+(ft)
++E/-W
+(ft)
+Start
+TVD
+(ft)
+Vertical Section Information
+0.00
+357.95
+0.00
+0.00
+No Target (Freehand)
+User
+Slot
+Survey tool program
+From
+(ft)
+To
+(ft)
+Survey/Plan
+Survey Tool
+MWD
+2,168.00
+10,237.00
+Extreme MWD Surveys
+MWD
+10,282.00
+20,728.00
+Sperry MWD Surveys
+Casing Details
+Vertical 
+Depth
+(ft)
+Measured 
+Depth
+(ft)
+Casing
+Diameter
+(")
+Hole
+Diameter
+(")
+Name
+9 5/8"
+2,168.00
+9-5/8
+12-1/4
+7"
+10,802.27
+11,104.00
+7
+8-3/4
+14 May, 2012 - 10:37
+COMPASS
+Page 5 of 7
+McKenzie County, ND
+Slawson Exploration Company, Inc.
+Survey Report for Magnum 2-36-25H - Sperry MWD Surveys
+Formation Details
+Measured
+Depth
+(ft)
+Vertical
+Depth
+(ft)
+Dip
+Direction
+(°)
+Name
+Lithology
+Dip
+(°)
+TVDSS
+(ft)
+7,858.68
+7,858.00
+Tyler
+0.00
+5,680.00
+8,399.76
+8,399.00
+Kibbey Lime
+0.00
+6,221.00
+8,602.79
+8,602.00
+Charles
+0.00
+6,424.00
+9,271.91
+9,271.00
+Base Last Salt
+0.00
+7,093.00
+9,493.96
+9,493.00
+Mission Canyon
+0.00
+7,315.00
+10,023.21
+10,022.00
+Lodgepole
+0.00
+7,844.00
+10,920.28
+10,763.00
+False Bakken
+0.00
+8,585.00
+10,941.44
+10,770.00
+Upper Bakken Shale
+0.00
+8,592.00
+10,994.12
+10,785.00
+Middle Bakken
+0.00
+8,607.00
+Target Name
+     - hit/miss target
+     - Shape
+TVD
+(ft)
+Northing
+(ft)
+Easting
+(ft)
++N/-S
+(ft)
++E/-W
+(ft)
+Targets 
+Longitude
+Latitude
+Dip 
+Angle
+(°)
+Dip 
+Dir.
+(°)
+Magnum 2-36-25H BHL
+10,758.00
+399,229.24
+1,208,917.31
+10,033.01
+-360.00
+0.00
+0.00
+48° 3' 8.879 N 103° 36' 23.903 W
+- survey misses target center by 73.94ft at 20728.00ft MD (10798.08 TVD, 10032.74 N, -422.13 E)
+- Point
+Magnum 1-36-25H Plan A Sec. Lines
+-35.00
+389,408.91
+1,204,680.91
+49.22
+-4,197.26
+0.00
+0.00
+48° 1' 30.350 N 103° 37' 20.350 W
+- survey misses target center by 11102.43ft at 10237.00ft MD (10235.73 TVD, -38.70 N, 17.99 E)
+- Polygon
+Magnum 2-36-25H Setbacks
+0.00
+389,406.88
+1,204,680.83
+47.20
+-4,197.26
+0.00
+0.00
+48° 1' 30.330 N 103° 37' 20.350 W
+- survey misses target center by 11070.05ft at 10237.00ft MD (10235.73 TVD, -38.70 N, 17.99 E)
+- Polygon
+Magnum 1-36-25H Plan A Ctr.Line
+-35.00
+389,408.91
+1,204,680.91
+49.22
+-4,197.26
+0.00
+0.00
+48° 1' 30.350 N 103° 37' 20.350 W
+- survey misses target center by 11102.43ft at 10237.00ft MD (10235.73 TVD, -38.70 N, 17.99 E)
+- Polygon
+14 May, 2012 - 10:37
+COMPASS
+Page 6 of 7
+Slawson Exploration Company, Inc.
+McKenzie County, ND
+North Reference Sheet for Sec. 36-T153N-R101W - Magnum 2-36-25H - Plan B
+Magnetic Convergence at surface is: -10.96° (27 March 2012, , BGGM2011)
+Based upon Minimum Curvature type calculations, at a Measured Depth of 20,728.00ft
+the Bottom Hole Displacement is 10,041.61ft in the Direction of 357.59° (True).
+Grid Convergence at Surface is: -2.31°
+Geographical Coordinates of Well: 48° 01' 29.87" N, 103° 36' 18.60" W
+Grid Coordinates of Well: 389,190.51 ft N, 1,208,872.51 ft E
+False Easting: 1,968,500.00ft, False Northing: 0.00ft, Scale Reduction: 0.99993638
+Central Meridian is 100° 30' 0.000 W°, Longitude Origin:0° 0' 0.000 E°, Latitude Origin:48° 44' 0.000 N°
+Projection method is Lambert Conformal Conic (2 parallel)
+Coordinate System is US State Plane 1983, North Dakota Northern Zone using datum North American Datum 1983, ellipsoid GRS 1980
+Vertical Depths are relative to RKB 22' @ 2178.00ft (Nabors 419).  Northing and Easting are relative to Magnum 2-36-25H
+All data is in US Feet unless otherwise stated.  Directions and Coordinates are relative to True North Reference.
+14 May, 2012 - 10:37
+COMPASS
+Page 7 of 7
+0
+1500
+3000
+4500
+6000
+7500
+9000
+10500
+South(-)/North(+) (1500 ft/in)
+-4500
+-3000
+-1500
+0
+1500
+3000
+4500
+West(-)/East(+) (1500 ft/in)
+Tie On to Extreme Surveys @ 10237'
+First Sperry MWD Survey @ 10282'
+Final Sperry MWD Survey@20681'
+Straight Line Projection To Bit @ 20728'
+Slawson Exploration Company, Inc.
+Project: McKenzie County, ND
+Site: Sec. 36-T153N-R101W
+Well: Magnum 2-36-25H
+Magnum 2-36-25H, Plan B, Plan B Rev 0 V0
+Sperry MWD Surveys
+L E G E N D
+-2000
+0
+2000
+4000
+6000
+8000
+10000
+12000
+True Vertical Depth (2000 ft/in)
+0
+2000
+4000
+6000
+8000
+10000
+Vertical Section at 357.95° (2000 ft/in)
+Tie On to Extreme Surveys @ 10237'
+First Sperry MWD Survey @ 10282'
+Final Sperry MWD Survey@20681'
+Straight Line Projection To Bit @ 20728'
+Slawson Exploration Company, Inc.
+Project:
+McKenzie County, ND
+Site:
+Sec. 36-T153N-R101W
+Well:
+Magnum 2-36-25H
+Magnum 2-36-25H, Plan B, Plan B Rev 0 V0
+Sperry MWD Surveys
+L E G E N D
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 13, 2012 
+Khem Suthiwan 
+Permitting Manager 
+SLAWSON EXPLORATION COMPANY, INC. 
+1675 Broadway, Suite 1600 
+Denver, CO 80202 
+  
+  
+ 
+ 
+ 
+ 
+RE:      HORIZONTAL  WELL 
+  
+ 
+ 
+ 
+ 
+ 
+MAGNUM  2-36-25H 
+  
+ 
+ 
+ 
+ 
+ 
+SESE Section 36-153N-101W 
+  
+ 
+ 
+ 
+ 
+ 
+McKenzie County 
+  
+ 
+ 
+ 
+ 
+ 
+Well File # 22249 
+ 
+Dear Khem : 
+ 
+ 
+Pursuant to Commission Order No. 18012, approval to drill the above captioned well is hereby given. The 
+approval is granted on the condition that all portions of the well bore not isolated by cement, be no closer than 
+the 200' setback from the north & south boundaries and 500' setback from the east & west boundaries within 
+the 1280 acre spacing unit consisting of All of Sections 36 & 25, T153N R101W. Tool error is not required 
+pursuant to order.   
+ 
+PERMIT STIPULATIONS: A LOCATION DIKE MUST BE CONSTRUCTED ON THE 
+NORTHERN PORTION OF THE SITE.  ALSO, IN ORDER TO JUSTIFY THE SPACING UNIT, 
+THE MAGNUM 1-36-25H & MAGNUM 2-36-25H MUST BE DRILLED BACK TO BACK.  
+ALTERNATIVELY, SLAWSON MUST DRILL THE MAGNUM 1-36-25H IF ONLY ONE WELL IS 
+DRILLED IN THE SPACING UNIT INITIALLY.  LASTLY, SLAWSON MUST CONTACT MARK 
+BINNS AT 701-220-5989 PRIOR TO LOCATION CONSTRUCTION.   
+ 
+Form 1 Changes & Hard Lines  
+  Any changes, shortening of casing point or lengthening at Total Depth must have prior approval by the NDIC.  
+The proposed directional plan is at a legal location.  The minimum legal coordinate from the well head at casing 
+point is: 260W.   Also, based on the azimuth of the proposed lateral the maximum legal coordinate from the well 
+head is:  10083N & 260W. 
+ 
+Location Construction Commencement (Three Day Waiting Period) 
+   Operators shall not commence operations on a drill site until the 3rd business day following publication of the 
+approved drilling permit on the NDIC - OGD Daily Activity Report.   If circumstances require operations to 
+commence before the 3rd business day following publication on the Daily Activity Report, the waiting period may 
+be waived by the Director.  Application for a waiver must be by sworn affidavit providing the information 
+necessary to evaluate the extenuating circumstances, the factors of NDAC 43-02-03-16.2 (1), (a)-(f), and any other 
+information that would allow the Director to conclude that in the event another owner seeks revocation of the 
+drilling permit, the applicant should retain the permit. 
+ 
+Permit Fee & Notification 
+ 
+Payment was received in the amount of $100 via credit card.  It is requested that notification be given 
+immediately upon the spudding of the well.  This information should be relayed to the Oil & Gas Division, 
+Bismarck, via telephone.  The following information must be included:  Well name, legal location, permit number, 
+drilling contractor, company representative, date and time of spudding.  Office hours are 8:00 a.m. to 12:00 p.m. 
+and 1:00 p.m. to 5:00 p.m. Central Time. Our telephone number is (701) 328-8020, leave a message if after hours 
+or on the weekend.  
+ 
+ 
+Khem Suthiwan 
+January 13, 2012 
+Page 2 
+ 
+   Survey Requirements for Horizontal, Horizontal Re-entry, and Directional Wells 
+ 
+NDAC Section 43-02-03-25 (Deviation Tests and Directional Surveys) states in part (that) the survey 
+contractor shall file a certified copy of all surveys with the director free of charge within thirty days of completion.  
+Surveys must be submitted as one electronic copy, or in a form approved by the director. However, the director 
+may require the directional survey to be filed immediately after completion if the survey is needed to conduct the 
+operation of the director's office in a timely manner.  Certified surveys must be submitted via email in one adobe 
+document, with a certification cover page to certsurvey@nd.gov. 
+Survey points shall be of such frequency to accurately determine the entire location of the well bore.  
+ 
+Confidential status 
+ 
+Your request for confidential status of all information furnished to the Director, or his representatives, is 
+hereby granted.  Such information, except production runs, shall remain confidential for six months commencing 
+on the date the well is spud. 
+ 
+Confidential status notwithstanding, the Director and his representatives shall have access to all well 
+records wherever located. Your company personnel, or any person performing work for your company shall 
+permit the Director and his representatives to come upon any lease, property, well, or drilling rig operated or 
+controlled by them, complying with all safety rules, and to inspect the records and operation of such wells and to 
+have access at all times to any and all records of wells. The Commission's field personnel periodically inspect 
+producing and drilling wells.  Any information regarding such wells shall be made available to them at any time 
+upon request.  The information so obtained by the field personnel shall be maintained in strict confidence and 
+shall be available only to the Commission and its staff. 
+ 
+Drilling pit 
+ 
+Please be advised approval for use of a drilling reserve pit or drill cuttings pit on this site is contingent on 
+site specific conditions and special pit closure requirements may apply. 
+ 
+Surface casing cement 
+ 
+Tail cement utilized on surface casing must have a minimum compressive strength of 500 psi within 12 
+hours, and tail cement utilized on production casing must have a minimum compressive strength of 500 psi 
+before drilling the plug or initiating tests.   
+ 
+Logs 
+ 
+NDAC Section 43-02-03-31 requires the running of a Cement Bond Log from which the presence of 
+cement can be determined in every well in which production or intermediate casing has been set and a Gamma 
+Ray Log must be run from total depth to ground level elevation of the well bore.  All logs must be submitted as 
+one paper copy and one digital copy in LAS (Log ASCII) format, or a format approved by the Director.  Image 
+logs that include, but are not limited to, Mud Logs, Cement Bond Logs, and Cyberlook Logs, cannot be produced 
+in their entirety as LAS (Log ASCII) files.  To create a solution and establish a standard format for industry to 
+follow when submitting image logs, the Director has given approval for the operator to submit an image log as a 
+TIFF (*.tif) formatted file.  The TIFF (*.tif) format will be accepted only when the log cannot be produced in its 
+entirety as a LAS (Log ASCII) file format. The digital copy may be submitted on a standard CD, or attached to an 
+email sent to digitallogs@nd.gov   Thank you for your cooperation.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Sincerely,  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Todd L. Holweger  
+  
+ 
+ 
+ 
+ 
+ 
+Mineral Resources Permit Manager 
+From WH
+From WH
+Sacks
+	
+
+	
+ !"#$# %&&$ proposed mud/cementing plan,
+'()#!*$##+)#!$#!"#,-%#
+#$$$#$#,!#%##&$%#$,!!$#&.#&#*#*$/'%#0$#!
+,#&$#123!#!#&*,#!,*#!$*#1)&452##
+%!#'%##"-#!$*0$#-
+
+%%##$$$'*$# 563%%##$$$,*!!"##!,
+*-
+!%%##$$$!,*%789
+-
+Drilling Mud Type (Lateral)
+Drilling Mud Type (Vertical Hole - Below Surface Casing)
+Cement Volume
+Feet
+
+Latitude of Well Head
+(Subject to NDIC Approval)
+Description of
+Longitude of Well Head
+6
+
+L
+:
+From WH
+Feet
+Feet
+Top Dakota Sand
+6
+Industrial Commission Order
+Lb./Ft.
+Weight(s)
+Longstring Total Depth
+8
+$!%*,!!,
+Cement Top
+Surface Casing
+Proposed
+:
+Spacing/Drilling Unit Setback Requirement 
+Size
+North Line of Spacing/Drilling Unit
+Feet
+Depth
+West Line of Spacing/Drilling Unit
+Feet Above S.L.
+Cement Volume
+Feet
+:
+#$$#&%*$%#*$/$-
+Objective Horizons
+Pierre Shale Top
+Feet MD
+:
+Sacks
+Proposed
+8
+#%#&#&$#&#&%*$%#*!/;#-
+NAD Reference
+Qtr-Qtr
+South Line of Spacing/Drilling Unit
+East Line of Spacing/Drilling Unit
+Proposed Logs
+Feet
+8
+	;%%&%*#&#$#<=%*###%#&#&$#&#&-
+9&5%%#$##&#*$/-
+>
+
+Weight
+Azimuth
+>
+
+Bottom Hole Coordinates From Well Head
+L
+Qtr-Qtr
+Surface Footages
+L
+Well Name 
+L
+F
+Feet
+Ground Elevation
+Feet
+Feet
+Acres in Spacing/Drilling Unit
+Section
+F
+L
+Longstring Casing Point Footages
+SFN  54269 (08-2005)
+Operator
+Well Number
+Type of Well
+Telephone Number
+3==?8	
+8@%!## enter data for additional laterals on page 2)
+Zip Code
+	99=	
+8?89
+
+8==8A8
+	=3==B?81
+Confidential Status
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD   DEPT 405
+Approximate Date Work Will Start
+Type of Work
+BISMARCK, ND  58505-0840
+State
+Address
+City
+F
+L
+F
+F
+Qtr-Qtr
+F
+From WH
+Longstring Casing Point Coordinates From Well Head
+B
+Size
+Feet
+Longstring Casing
+Base of Last Salt (If Applicable)
+B
+Feet
+Lb./Ft.
+Feet TVD
+Survey Frequency:  Build Section
+Survey Frequency:  Lateral
+Longstring Total Depth
+Feet MD
+Bottom Hole Footages From Nearest Section Line
+Survey Type in Vertical Portion of Well
+Survey Contractor
+Township
+Section
+Township
+Range
+3
+Range
+County
+County
+Feet TVD
+3
+Range
+
+Azimuth Lateral 1
+Feet MD
+Feet MD
+County
+Estimated Total Depth Lateral 1
+KOP Lateral 1
+Section
+Township
+Feet TVD
+3
+Every 100 Feet
+New Location
+Oil & Gas
+11 / 01 / 2011
+Yes
+SLAWSON EXPLORATION COMPANY, INC.
+720-457-9821
+1675 Broadway, Suite 1600
+Denver
+CO
+80202
+✔
+Notice has been provided to the owner of any
+permanently occupied dwelling within 1,320 feet.
+✔
+This well is not located within five hundred
+feet of an occupied dwelling.
+MAGNUM
+2-36-25H
+205
+S
+240
+E
+SESE
+36
+153
+101
+McKenzie
+591
+S
+520
+E
+SESE
+36
+153
+101
+McKenzie
+386 N
+280 W
+324
+11031
+10758
+251
+N
+840
+W
+NENE
+25
+153
+101
+McKenzie
+10032 N
+600 W
+10281
+360
+20743
+10758
+48
+01
+29.87
+-103
+36
+18.60
+NAD83
+Spacing Unit:
+All of Sect 36 & 25, T153N R101W
+2158
+1280
+200 Feet N/S
+500 Feet E/W
+18012
+5268
+5251
+10488
+10548
+Bakken
+2030
+9
+5/8
+36
+2130
+660
+7
+0
+29 & 32
+11031
+10758
+651
+4238
+5383
+Base Last Charles Salt (If Applicable)
+9254
+Triple Combo - DIL, CNL, CDL with GR to surface CBL/GR/CCL
+Invert
+Other - See Comments
+MWD
+30
+90
+Directional Drilling Co.
+directional plot/plan, $100 fee.
+E
+:
+1
+F
+L
+F
+L
+Bottom Hole Footages From Nearest Section Line
+Township
+Range
+F
+L
+F
+L
+From WH
+KOP Footages From Nearest Section Line
+Township
+Range
+From WH
+County
+Lateral 5
+KOP Lateral 5
+Azimuth Lateral 5
+Estimated Total Depth Lateral 5
+KOP Coordinates From Well Head
+Feet MD
+Qtr-Qtr
+Section
+County
+1
+:
+Qtr-Qtr
+Section
+From WH
+Bottom Hole Coordinates From Well Head
+Formation Entry Point Coordinates From Well Head
+From WH
+
+Feet MD
+Feet TVD
+From WH
+From WH
+From WH
+From WH
+From WH
+From WH
+County
+Range
+:
+Page 2
+&200(176$'',7,21$/,1)250$7,21$1'25/,672)$77$&+0(176
+From WH
+Bottom Hole Coordinates From Well Head
+Feet TVD
+Feet MD
+KOP Coordinates From Well Head
+Feet MD
+
+SFN 54269  (08-2005)
+KOP Lateral 2
+Formation Entry Point Coordinates From Well Head
+Date
+Lateral 2
+I hereby swear or affirm the information provided is true, complete and correct as determined from all available records.
+Estimated Total Depth Lateral 2
+Title
+)2567$7(86(21/<
+By
+Date Approved
+)2567$7(86(21/<
+
+Field
+ 
+Pool
+Permit Type
+API Number
+Permit and File Number
+Printed Name
+Title
+Azimuth Lateral 2
+From WH
+Feet MD
+Feet TVD
+From WH
+Bottom Hole Coordinates From Well Head
+From WH
+From WH
+Qtr-Qtr
+Section
+Township
+From WH
+From WH
+County
+F
+L
+F
+L
+KOP Footages From Nearest Section Line
+1
+Range
+:
+Bottom Hole Footages From Nearest Section Line
+Qtr-Qtr
+Section
+Township
+Range
+County
+L
+F
+L
+:
+Lateral 3
+1
+F
+Township
+Feet MD
+
+From WH
+Formation Entry Point Coordinates From Well Head
+L
+Qtr-Qtr
+Section
+KOP Footages From Nearest Section Line
+F
+1
+F
+L
+L
+Bottom Hole Footages From Nearest Section Line
+Qtr-Qtr
+Section
+Township
+Range
+County
+Lateral 4
+F
+L
+F
+Estimated Total Depth Lateral 4
+KOP Coordinates From Well Head
+:
+1
+
+KOP Lateral 4
+Azimuth Lateral 4
+From WH
+Formation Entry Point Coordinates From Well Head
+Bottom Hole Coordinates From Well Head
+Feet TVD
+Feet MD
+Feet MD
+Qtr-Qtr
+Section
+Township
+From WH
+County
+F
+L
+F
+L
+KOP Footages From Nearest Section Line
+1
+Range
+:
+Bottom Hole Footages From Nearest Section Line
+Qtr-Qtr
+Section
+Township
+Range
+County
+F
+L
+F
+L
+:
+1
+From WH
+KOP Lateral 3
+Azimuth Lateral 3
+Estimated Total Depth Lateral 3
+KOP Coordinates From Well Head
+From WH
+Email Address(es)
+From WH
+From WH
+Signature
+No occupied dwelling within 1,320 ft. Lateral will be drilled with CaCl water unless pressure is encountered, then will switch to 80/20 invert mud. KB @ 2,180'. Certified
+surveyors well location plat, horizontal sections, pad layout, pad x-sections, topo map, proposed directional survey & plots, and drilling program will be emailed.
+10 / 13 / 2011
+ePermit
+Khem Suthiwan
+Permitting Manager
+22249
+053
+03944
+1 / 13 / 2012
+BAKER
+Todd L. Holweger
+BAKKEN
+DEVELOPMENT
+Mineral Resources Permit Manager
+1675 Broadway, Ste. 1600
+Phone #
+Denver, Co.  80202
+Fax:
+Log Fax:   
+GENERAL WELL INFORMATION
+205' FSL
+240' FEL
+SESE
+36,
+153N,
+101W
+NENE
+25,
+153N,
+101W
+ESTIMATED TOPS
+SUBSEA
+SUBSEA
+150'
+-6,266'
+-3,203'
+-7,074'
+-4,565'
+-7,266'
+-4,583'
+-7,836'
+-4,836'
+-8,556'
+-4,870'
+-8,571'
+-4,895'
+-8,578'
+-5,100'
+-8,585'
+-6,119'
+MUD PROGRAM
+Type
+Viscosity
+Weight
+Start at (ft.)
+Change at (ft.)
+0
+2,130'
+( Through Surface Casing Depth)
+fresh water
+28-32
+8.34
+2,130'
+7" csg point
+80/20 invert
+45-50
+9.6-10.5
+7" csg point
+Total MD
+Brine
+9.2-10.2
+If overpressured
+80/20 invert
+28
+11.5 - 13
+Open Hole
+Cased Hole
+BIT PROGRAM
+Hole Size
+Casing
+Bit Type
+Model
+start
+end
+footage
+13-1/2"
+9⅝"
+Roller-Cone
+9-5/8"
+36#
+K55
+'
+2,130'
+2,130'
+8-3/4" Vertical
+7"
+PDC
+655ZX
+'
+8-3/4" Curve
+7"
+PDC
+3641
+start
+end
+footage
+6"
+4½"
+PDC
+643
+7"
+29#
+P-110
+'
+6,595'
+6,595'
+DIRECTIONAL PROGRAM
+7"
+32#
+P-110
+6,595'
+9,408'
+2,813'
+KOP
+10,281'
+7"
+29#
+P-110
+9,408'
+11,031'
+1,623'
+Build rate
+12.0°/100'
+Lateral length, (ft.)
+9,713'
+Curve Azimuth
+324.°
+Total 29#
+8,218'
+Total 32#
+2,813'
+Target zone top (TVD)
+10,751'
+start
+end
+Length
+Landing point (TVD)
+10,758'
+4-1/2"
+11.6#
+P-110
+10,281'
+20,713'
+10,403'
+Target zone bottom (TVD)
+10,765'
+Total MD
+20,743'
+CEMENT PROGRAM
+Size
+Instructions
+SURFACE CASING
+9⅝"
+PRODUCTION CASING
+7"
+Engineering:
+Mark McCallister
+Matt Houston
+Geology:
+Bob Bogle
+LINER LENGTH:
+SURFACE CASING:
+LOGGING PROGRAM
+Triple Combo - DIL,CNL,CDL 
+CBL/GR/CCL
+Minnelussa
+PROPOSED TMD
+2,156'
+Maximum anticipated bottom hole pressure is 4,658#;        BOPs to be tested to 5000psi
+PRODUCTION CASING:
+5-10
+***** SEE ATTACHED DIRECTIONAL PLAN
+Retip
+SEC
+SEC
+SEC
+Mech Packer assembly on 4-1/2" liner - Packer depths to be 
+provided at TD.  The sleeves and packers will provided when 
+run.
+NC
+DIRECTIONS TO WELL:
+LCM
+Cell
+Home
+Office
+SLAWSON CONTACT INFORMATION
+NC
+10,751'
+10,758'
+SURFACE HOLE LOCATION
+10,758'
+--
+--
+5-10
+TVD
+10,765'
+Fluid Loss
+6,745'
+LATERAL LENGTH (FT.)
+FIELD
+6,763'
+Pierre/base Foxhills
+LEASE NAME AND NUMBER
+ORIGINAL GL: 
+PROPOSED TVD
+KB(24')
+FINISHED PAD ELEVATION:
+Dunham Salt
+Base Dunham Salt
+Target
+Use 30% excess and a 9" hole
+7,016'
+Pine Salt
+Base Pine Salt
+CASING PROGRAM
+Kibbey Lime
+Opeche
+Use 60% excess 
+Dakota (marine)
+7,075'
+8,446'
+Cement to surface with 398 SX "G" and 262 SX "G" tail; 1,665 cu.ft. total 
+7,280'
+10,016'
+Manufacturer
+10,736'
+--
+--
+512-944-5528
+303-523-5607
+303-773-1706
+512-944-5528
+See Drilling Procedure for Float Equipment 
+Recommendation
+Cement w/ 303 sx lite Pozmix (Yield: 2.56 ft3/sx) lead and 376 sx Class G (Yield: 
+1.65 ft3/sx) tail.  Calculated cement top 500' above Dakota.  Lead coverage from 
+500' above Dakota to 150' above Charles, Tail coverage from 150' above Charles 
+to 7" shoe.
+720-897-8756
+720-897-8759
+Base of Target
+Upper Bakken shale
+Lodgepole
+Top of Target
+8,299'
+7,050'
+303-748-1602
+303-730-9979
+720-897-8758
+303-592-8881
+9,254'
+9,446'
+TVD
+48° 01' 29.87" N
+103° 36' 18.60" W
+McKenzie CO, ND
+20,743'
+LATITUDE
+Wildcat
+COUNTY/STATE
+ESTIMATED TOPS
+BOTTOM HOLE LOCATION
+9,713'
+LONGITUDE
+2,158'
+FOOTAGE CALLS - SURFACE HOLE
+2,180'
+Mission Canyon
+Charles
+base last Charles salt
+2,030'
+5,383'
+303-592-8880
+Magnum 2-36-25H - single-lateral Bakken producer with stage-frac completion
+MD
+Incl.
+Azi.
+TVD
+North
+East
+DLS
+Vertical 
+Section
+UTM N
+UTM E
+0.00
+0.00
+324.00
+0.00
+0.00
+0.00
+0.00
+0.00
+205.00
+-240.00
+10,200.00
+0.00
+324.00
+10,200.00
+0.00
+0.00
+0.00
+0.00
+205.00
+-240.00
+10,280.50
+0.00
+324.00
+10,280.50
+0.00
+0.00
+0.00
+0.00
+205.00
+-240.00 KOP
+10,330.50
+6.00
+324.00
+10,330.36
+2.11
+-1.54
+12.00
+2.61
+207.11
+-241.54
+10,380.50
+12.00
+324.00
+10,379.68
+8.43
+-6.13
+12.00
+10.42
+213.43
+-246.13
+10,430.50
+18.00
+324.00
+10,427.91
+18.89
+-13.73
+12.00
+23.35
+223.89
+-253.73
+10,480.50
+24.00
+324.00
+10,474.53
+33.37
+-24.25
+12.00
+41.25
+238.37
+-264.25
+10,530.50
+30.00
+324.00
+10,519.02
+51.71
+-37.57
+12.00
+63.92
+256.71
+-277.57
+10,580.50
+36.00
+324.00
+10,560.90
+73.71
+-53.55
+12.00
+91.11
+278.71
+-293.55
+10,630.50
+42.00
+324.00
+10,599.70
+99.13
+-72.02
+12.00
+122.53
+304.13
+-312.02
+10,680.50
+48.00
+324.00
+10,635.01
+127.69
+-92.77
+12.00
+157.83
+332.69
+-332.77
+10,730.50
+54.00
+324.00
+10,666.43
+159.08
+-115.58
+12.00
+196.63
+364.08
+-355.58
+10,780.50
+60.00
+324.00
+10,693.62
+192.96
+-140.19
+12.00
+238.51
+397.96
+-380.19
+10,830.50
+66.00
+324.00
+10,716.29
+228.95
+-166.34
+12.00
+283.00
+433.95
+-406.34
+10,880.50
+72.00
+324.00
+10,734.18
+266.66
+-193.74
+12.00
+329.61
+471.66
+-433.74
+10,930.50
+78.00
+324.00
+10,747.10
+305.68
+-222.09
+12.00
+377.84
+510.68
+-462.09
+10,980.50
+84.00
+324.00
+10,754.91
+345.58
+-251.08
+12.00
+427.16
+550.58
+-491.08
+11,030.50
+90.00
+324.00
+10,757.52
+385.92
+-280.39
+12.00
+477.02
+590.92
+-520.39 EOC, 7" Csg
+Magnum 2-36-25H
+11,030.50
+90.00
+324.00
+10,757.52
+385.92
+-280.39
+12.00
+477.02
+590.92
+-520.39 EOC, 7" Csg
+11,130.50
+90.00
+327.00
+10,757.52
+468.30
+-337.01
+3.00
+576.95
+673.30
+-577.01
+11,230.50
+90.00
+330.00
+10,757.52
+553.53
+-389.24
+3.00
+676.60
+758.53
+-629.24
+11,230.50
+90.00
+333.00
+10,757.52
+553.53
+-389.24
+3.00
+676.60
+758.53
+-629.24
+11,330.50
+90.00
+336.00
+10,757.52
+642.51
+-434.58
+3.00
+775.24
+847.51
+-674.58
+11,430.50
+90.00
+339.00
+10,757.52
+734.87
+-472.84
+3.00
+872.45
+939.87
+-712.84
+11,530.50
+90.00
+342.00
+10,757.52
+829.10
+-506.21
+3.00
+968.30
+1,034.10
+-746.21
+11,630.50
+90.00
+345.00
+10,757.52
+924.95
+-534.60
+3.00
+1,062.53
+1,129.95
+-774.60
+11,730.50
+90.00
+348.00
+10,757.52
+1,022.15
+-557.94
+3.00
+1,154.89
+1,227.15
+-797.94
+11,830.50
+90.00
+351.00
+10,757.52
+1,120.44
+-576.16
+3.00
+1,245.11
+1,325.44
+-816.16
+11,930.50
+90.00
+354.00
+10,757.52
+1,219.55
+-589.21
+3.00
+1,332.97
+1,424.55
+-829.21
+12,030.50
+90.00
+357.00
+10,757.52
+1,319.21
+-597.05
+3.00
+1,418.20
+1,524.21
+-837.05
+12,130.50
+90.00
+360.00
+10,757.52
+1,419.14
+-599.67
+3.00
+1,500.59
+1,624.14
+-839.67
+12,230.50
+90.00
+360.00
+10,757.52
+1,519.14
+-599.67
+0.00
+1,581.49
+1,724.14
+-839.67
+12,330.50
+90.00
+360.00
+10,757.52
+1,619.14
+-599.67
+0.00
+1,662.39
+1,824.14
+-839.67
+12,430.50
+90.00
+360.00
+10,757.52
+1,719.14
+-599.67
+0.00
+1,743.29
+1,924.14
+-839.67
+12,530.50
+90.00
+360.00
+10,757.52
+1,819.14
+-599.67
+0.00
+1,824.19
+2,024.14
+-839.67
+12,630.50
+90.00
+360.00
+10,757.52
+1,919.14
+-599.67
+0.00
+1,905.09
+2,124.14
+-839.67
+12,730.50
+90.00
+360.00
+10,757.52
+2,019.14
+-599.67
+0.00
+1,986.00
+2,224.14
+-839.67
+12,830.50
+90.00
+360.00
+10,757.52
+2,119.14
+-599.67
+0.00
+2,066.90
+2,324.14
+-839.67
+12,930.50
+90.00
+360.00
+10,757.52
+2,219.14
+-599.67
+0.00
+2,147.80
+2,424.14
+-839.67
+13,030.50
+90.00
+360.00
+10,757.52
+2,319.14
+-599.67
+0.00
+2,228.70
+2,524.14
+-839.67
+13,130.50
+90.00
+360.00
+10,757.52
+2,419.14
+-599.67
+0.00
+2,309.60
+2,624.14
+-839.67
+13,230.50
+90.00
+360.00
+10,757.52
+2,519.14
+-599.67
+0.00
+2,390.50
+2,724.14
+-839.67
+13,330.50
+90.00
+360.00
+10,757.52
+2,619.14
+-599.67
+0.00
+2,471.41
+2,824.14
+-839.67
+13,430.50
+90.00
+360.00
+10,757.52
+2,719.14
+-599.67
+0.00
+2,552.31
+2,924.14
+-839.67
+13,530.50
+90.00
+360.00
+10,757.52
+2,819.14
+-599.67
+0.00
+2,633.21
+3,024.14
+-839.67
+13,630.50
+90.00
+360.00
+10,757.52
+2,919.14
+-599.67
+0.00
+2,714.11
+3,124.14
+-839.67
+13,730.50
+90.00
+360.00
+10,757.52
+3,019.14
+-599.67
+0.00
+2,795.01
+3,224.14
+-839.67
+13,830.50
+90.00
+360.00
+10,757.52
+3,119.14
+-599.67
+0.00
+2,875.91
+3,324.14
+-839.67
+13,930.50
+90.00
+360.00
+10,757.52
+3,219.14
+-599.67
+0.00
+2,956.82
+3,424.14
+-839.67
+14,030.50
+90.00
+360.00
+10,757.52
+3,319.14
+-599.67
+0.00
+3,037.72
+3,524.14
+-839.67
+14,130.50
+90.00
+360.00
+10,757.52
+3,419.14
+-599.67
+0.00
+3,118.62
+3,624.14
+-839.67
+14,230.50
+90.00
+360.00
+10,757.52
+3,519.14
+-599.67
+0.00
+3,199.52
+3,724.14
+-839.67
+14,330.50
+90.00
+360.00
+10,757.52
+3,619.14
+-599.67
+0.00
+3,280.42
+3,824.14
+-839.67
+14,430.50
+90.00
+360.00
+10,757.52
+3,719.14
+-599.67
+0.00
+3,361.32
+3,924.14
+-839.67
+14,530.50
+90.00
+360.00
+10,757.52
+3,819.14
+-599.67
+0.00
+3,442.23
+4,024.14
+-839.67
+14,630.50
+90.00
+360.00
+10,757.52
+3,919.14
+-599.67
+0.00
+3,523.13
+4,124.14
+-839.67
+14,730.50
+90.00
+360.00
+10,757.52
+4,019.14
+-599.67
+0.00
+3,604.03
+4,224.14
+-839.67
+14,830.50
+90.00
+360.00
+10,757.52
+4,119.14
+-599.67
+0.00
+3,684.93
+4,324.14
+-839.67
+14,930.50
+90.00
+360.00
+10,757.52
+4,219.14
+-599.67
+0.00
+3,765.83
+4,424.14
+-839.67
+15,030.50
+90.00
+360.00
+10,757.52
+4,319.14
+-599.67
+0.00
+3,846.73
+4,524.14
+-839.67
+15,130.50
+90.00
+360.00
+10,757.52
+4,419.14
+-599.67
+0.00
+3,927.64
+4,624.14
+-839.67
+15,230.50
+90.00
+360.00
+10,757.52
+4,519.14
+-599.67
+0.00
+4,008.54
+4,724.14
+-839.67
+15,330.50
+90.00
+360.00
+10,757.52
+4,619.14
+-599.67
+0.00
+4,089.44
+4,824.14
+-839.67
+15,430.50
+90.00
+360.00
+10,757.52
+4,719.14
+-599.67
+0.00
+4,170.34
+4,924.14
+-839.67
+15,530.50
+90.00
+360.00
+10,757.52
+4,819.14
+-599.67
+0.00
+4,251.24
+5,024.14
+-839.67
+15,630.50
+90.00
+360.00
+10,757.52
+4,919.14
+-599.67
+0.00
+4,332.15
+5,124.14
+-839.67
+15,730.50
+90.00
+360.00
+10,757.52
+5,019.14
+-599.67
+0.00
+4,413.05
+5,224.14
+-839.67
+Magnum 2-36-25H
+Based on True North
+KOP = 10,281'
+Target = 10,343' TVD
+KB = 2,180'
+15,830.50
+90.00
+360.00
+10,757.52
+5,119.14
+-599.67
+0.00
+4,493.95
+5,324.14
+-839.67
+15,930.50
+90.00
+360.00
+10,757.52
+5,219.14
+-599.67
+0.00
+4,574.85
+5,424.14
+-839.67
+16,030.50
+90.00
+360.00
+10,757.52
+5,319.14
+-599.67
+0.00
+4,655.75
+5,524.14
+-839.67
+16,130.50
+90.00
+360.00
+10,757.52
+5,419.14
+-599.67
+0.00
+4,736.65
+5,624.14
+-839.67
+16,230.50
+90.00
+360.00
+10,757.52
+5,519.14
+-599.67
+0.00
+4,817.56
+5,724.14
+-839.67
+16,330.50
+90.00
+360.00
+10,757.52
+5,619.14
+-599.67
+0.00
+4,898.46
+5,824.14
+-839.67
+16,430.50
+90.00
+360.00
+10,757.52
+5,719.14
+-599.67
+0.00
+4,979.36
+5,924.14
+-839.67
+16,530.50
+90.00
+360.00
+10,757.52
+5,819.14
+-599.67
+0.00
+5,060.26
+6,024.14
+-839.67
+16,630.50
+90.00
+360.00
+10,757.52
+5,919.14
+-599.67
+0.00
+5,141.16
+6,124.14
+-839.67
+16,730.50
+90.00
+360.00
+10,757.52
+6,019.14
+-599.67
+0.00
+5,222.06
+6,224.14
+-839.67
+16,830.50
+90.00
+360.00
+10,757.52
+6,119.14
+-599.67
+0.00
+5,302.97
+6,324.14
+-839.67
+16,930.50
+90.00
+360.00
+10,757.52
+6,219.14
+-599.67
+0.00
+5,383.87
+6,424.14
+-839.67
+17,030.50
+90.00
+360.00
+10,757.52
+6,319.14
+-599.67
+0.00
+5,464.77
+6,524.14
+-839.67
+17,130.50
+90.00
+360.00
+10,757.52
+6,419.14
+-599.67
+0.00
+5,545.67
+6,624.14
+-839.67
+17,230.50
+90.00
+360.00
+10,757.52
+6,519.14
+-599.67
+0.00
+5,626.57
+6,724.14
+-839.67
+17,330.50
+90.00
+360.00
+10,757.52
+6,619.14
+-599.67
+0.00
+5,707.47
+6,824.14
+-839.67
+17,430.50
+90.00
+360.00
+10,757.52
+6,719.14
+-599.67
+0.00
+5,788.38
+6,924.14
+-839.67
+17,530.50
+90.00
+360.00
+10,757.52
+6,819.14
+-599.67
+0.00
+5,869.28
+7,024.14
+-839.67
+17,630.50
+90.00
+360.00
+10,757.52
+6,919.14
+-599.67
+0.00
+5,950.18
+7,124.14
+-839.67
+17,730.50
+90.00
+360.00
+10,757.52
+7,019.14
+-599.67
+0.00
+6,031.08
+7,224.14
+-839.67
+17,830.50
+90.00
+360.00
+10,757.52
+7,119.14
+-599.67
+0.00
+6,111.98
+7,324.14
+-839.67
+17,930.50
+90.00
+360.00
+10,757.52
+7,219.14
+-599.67
+0.00
+6,192.88
+7,424.14
+-839.67
+18,030.50
+90.00
+360.00
+10,757.52
+7,319.14
+-599.67
+0.00
+6,273.79
+7,524.14
+-839.67
+18,130.50
+90.00
+360.00
+10,757.52
+7,419.14
+-599.67
+0.00
+6,354.69
+7,624.14
+-839.67
+18,230.50
+90.00
+360.00
+10,757.52
+7,519.14
+-599.67
+0.00
+6,435.59
+7,724.14
+-839.67
+18,330.50
+90.00
+360.00
+10,757.52
+7,619.14
+-599.67
+0.00
+6,516.49
+7,824.14
+-839.67
+18,430.50
+90.00
+360.00
+10,757.52
+7,719.14
+-599.67
+0.00
+6,597.39
+7,924.14
+-839.67
+18,530.50
+90.00
+360.00
+10,757.52
+7,819.14
+-599.67
+0.00
+6,678.29
+8,024.14
+-839.67
+18,630.50
+90.00
+360.00
+10,757.52
+7,919.14
+-599.67
+0.00
+6,759.20
+8,124.14
+-839.67
+18,730.50
+90.00
+360.00
+10,757.52
+8,019.14
+-599.67
+0.00
+6,840.10
+8,224.14
+-839.67
+18,830.50
+90.00
+360.00
+10,757.52
+8,119.14
+-599.67
+0.00
+6,921.00
+8,324.14
+-839.67
+18,930.50
+90.00
+360.00
+10,757.52
+8,219.14
+-599.67
+0.00
+7,001.90
+8,424.14
+-839.67
+19,030.50
+90.00
+360.00
+10,757.52
+8,319.14
+-599.67
+0.00
+7,082.80
+8,524.14
+-839.67
+19,130.50
+90.00
+360.00
+10,757.52
+8,419.14
+-599.67
+0.00
+7,163.70
+8,624.14
+-839.67
+19,230.50
+90.00
+360.00
+10,757.52
+8,519.14
+-599.67
+0.00
+7,244.61
+8,724.14
+-839.67
+19,330.50
+90.00
+360.00
+10,757.52
+8,619.14
+-599.67
+0.00
+7,325.51
+8,824.14
+-839.67
+19,430.50
+90.00
+360.00
+10,757.52
+8,719.14
+-599.67
+0.00
+7,406.41
+8,924.14
+-839.67
+19,530.50
+90.00
+360.00
+10,757.52
+8,819.14
+-599.67
+0.00
+7,487.31
+9,024.14
+-839.67
+19,630.50
+90.00
+360.00
+10,757.52
+8,919.14
+-599.67
+0.00
+7,568.21
+9,124.14
+-839.67
+19,730.50
+90.00
+360.00
+10,757.52
+9,019.14
+-599.67
+0.00
+7,649.11
+9,224.14
+-839.67
+19,830.50
+90.00
+360.00
+10,757.52
+9,119.14
+-599.67
+0.00
+7,730.02
+9,324.14
+-839.67
+19,930.50
+90.00
+360.00
+10,757.52
+9,219.14
+-599.67
+0.00
+7,810.92
+9,424.14
+-839.67
+20,030.50
+90.00
+360.00
+10,757.52
+9,319.14
+-599.67
+0.00
+7,891.82
+9,524.14
+-839.67
+20,130.50
+90.00
+360.00
+10,757.52
+9,419.14
+-599.67
+0.00
+7,972.72
+9,624.14
+-839.67
+20,230.50
+90.00
+360.00
+10,757.52
+9,519.14
+-599.67
+0.00
+8,053.62
+9,724.14
+-839.67
+20,330.50
+90.00
+360.00
+10,757.52
+9,619.14
+-599.67
+0.00
+8,134.52
+9,824.14
+-839.67
+20,430.50
+90.00
+360.00
+10,757.52
+9,719.14
+-599.67
+0.00
+8,215.43
+9,924.14
+-839.67
+20,530.50
+90.00
+360.00
+10,757.52
+9,819.14
+-599.67
+0.00
+8,296.33
+10,024.14
+-839.67
+20,630.50
+90.00
+360.00
+10,757.52
+9,919.14
+-599.67
+0.00
+8,377.23
+10,124.14
+-839.67
+20,730.50
+90.00
+360.00
+10,757.52
+10,019.14
+-599.67
+0.00
+8,458.13
+10,224.14
+-839.67
+20,743.00
+90.00
+360.00
+10,757.52
+10,031.64
+-599.67
+0.00
+8,468.24
+10,236.64
+-839.67 End Lateral
+9,712.50

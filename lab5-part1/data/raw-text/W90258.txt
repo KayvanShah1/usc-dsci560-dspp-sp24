@@ -1,0 +1,2473 @@
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION Recefvec1 'Well File No.
+600 EAST BOULEVARD DEPT 405 90258
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006) APR 3 0 2019
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+ND Oil &
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+I
+D Notice of Intent Approximate Start Date (cid:143) Drilling Prognosis (cid:143) Spill Report
+(cid:143) (cid:143)
+I Redrilling or Repair Shooting
+D Report of Work Done Date Work Completed (cid:143) Casing or Liner (cid:143) Acidizing
+(cid:143) (cid:143)
+Plug Well Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify (cid:143) Supplemental History (cid:143) Change Production Method
+for a Tax Exemption PursuaIn t to NDCC Section 57-51.1-03. (cid:143) (cid:143)
+Temporarily Abandon Reclamation
+Approximate Start Date
+0 Other As-Built Facilities
+Well Name and Number 24-HOUR PRODUCTION RATE
+Atlanta #1 SWD I Before After
+Footages IQtr-Qtr Section !Township !Range Oil Bbls Oil Bbls
+260 F N L 432 F W L NWNW 6 153 N 101 W Water Bbls Water Bbls
+Field 'Pool 'County Gas MCF Gas MCF
+Baker Dakota Williams
+Name of Contractor(s)
+Address 'Zip Code
+DETAILS OF WORK
+Please see the attached as-builts for the above-referenced well.
+Company Telephone Number
+Continental Resources, Inc. 405-234-9000 FOR STATE USE ONLY
+Address D Approved
+P.O. Box 268870
+City State Zip Code
+Oklahoma City OK 73126
+Printed Name By
+Terry L. Olson
+Date
+Title
+April 30, 2019
+Email Address
+terry.olson cir.comIndustrial Commission of North Dakota
+Oil and Gas Division
+Spill / Incident Report
+Date/Time Reported : Jun 24 2014 / 21:45
+State Agency person :
+Responsible Party : CONTINENTAL RESOURCES, INC.
+Well Operator : CONTINENTAL RESOURCES, INC.
+Date/Time of Incident : 6/24/2014 12:00:00 AM
+NDIC File Number : 90258
+Facility Number :
+Well or Facility Name : ATLANTA #1 SWD
+Type of Incident : Tank Overflow
+Field Name : BAKER
+County : WILLIAMS
+Section : 6
+Township : 153
+Range : 101
+Quarter-Quarter :
+Quarter :
+Distance to nearest residence :
+Distance to nearest water well :
+Release Oil :
+Release Brine :
+Release Other :
+Recovered Oil :
+Recovered Brine :
+Recovered Other :
+Has/Will the incident be reported to the NRC? : No
+Was release contained : Yes - On Constructed Well Site
+Description of other released substance :
+Immediate risk evaluation : None
+Followup Report Requested Y/N : YSUNDRY NOTICE, _,.ND REPORTS ON WELLS - FORM '---~-­
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION !Well File No.
+90258
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+I
+D Notice of Intent Approximate Start Date D Drilling Prognosis Spill Report
+D
+Redrilling or Repair Shooting
+0 Report of Work Done Date Work Completed D Casing or Liner D Acidizing
+April 9, 2013
+D Plug Well D Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify D Supplemental History D Change Production Method
+for a Tax Exemption PursuaIn t to NDCC Section 57-51.1-03. D Temporarily Abandon D Reclamation
+Approximate Start Date
+0 Other Begin Disposal
+Well Name and Number 24-HOUR PRODUCTION RATE
+Atlanta #1 SWD Before After
+Footages IQtr-Qtr I Section rownship I Range Oil Bbls Oil Bbls
+w
+260 F N L 432 F WI L NWNW 6 I1 53 N 101 Water Bbls Water Bbls
+Field Pool County Gas MCF Gas MCF
+Baker Dakota Williams
+Name of Contractor(s)
+I I
+Address State Zip Code
+DETAILS OF WORK
+Continental Resources, Inc., began saltwater disposal on 4/9/2013. MIT was run on 3/27/2013 w/ NDIC representative
+Dan Wells as witness. Press up to 1000 psi, held 15 min.
+Company Telephone Number
+Continental Resources, Inc. 405-234-9000 FOR STATE USE ONLY
+Address D
+~ Received Approved
+P .0. Box 268870
+City State Zip Code Date LL - z
+Oklahoma City OK 73126 7
+Printed Name By
+Ter L. Olson
+Date
+Compliance Specialist April 18, 2013
+UNDERGROUNDI NJECTION
+Email Address
+Terry.Olson cir.com!Well File No.
+90258
+SFN 2468 (04-2010)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Designate Type of Completion
+D D D D
+[] Oil Well EOR Well Recompletion Deepened Well Added Horizontal Leg Extended Horizontal Leg
+(] Gas Well Q SWD Well D Water Supply Well D Other:
+Well Name and Number Spacing Unit Description
+Atl mta #1 SWD Sec 6 T153N R101W
+Operator Telephone Number Field
+Continental Resources, Inc. 405-234-9000 Baker
+Address Pool
+P. 0. Box 268870 Bakken
+City State Zip Code Permit Type
+Ok ahoma City OK 73126 D Wildcat 0 Development D Extension
+LOCATION OF WELL
+At Surface Qtr-Qtr Section Township Range County
+w
+260 F N L 432 F W L NWNW 6 153 N 101 Williams
+Spu:I Date Date TD Reached Drilling Contractor and Rig Number KB Elevation (Ft) Graded Elevati (on , ,( eFt) -
+11/,25/2013 12/11/2013 Cyclone 2 l996' -2968'
+Typ1 i of Electric and Other Logs Run (See Instructions) 1''1(
+CB L/GR/MAC/mud
+CASING & TUBULARS RECORD (Report all strings set in well)
+•
+String Top Set Depth Set Hole Size Weight Anchor Set Packer Set Sacks Top of
+Well Bore Type Size (Inch) (MD Ft) (MD Ft) (Inch) (Lbs/Ft) (MD Ft) (MD Ft) Cement Cement
+f--
+Lateral1 Conductor 16 102 20 94 0
+f--
+Surface 13 3/8 522 12 1/4 48 400 0
+-f--
+Surface 9 518 1996 12 1/4 36 485 0
+-
+Production 7 5914 8 3/4 26 626 0
+-
+- Tubing 4 1/2 5390 11.6 5390
+-
+PERFORATION & OPEN HOLE INTERVALS
+Open Hole/Perforated Top of
+Well Bore TD Kick-off
+Completion Interval (MD.Ft) Casing Date Perfd Date Isolation Sacks
+Well Bore Drillers Depth Point
+Type Window or Drilled Isolated Method Cement
+(MD Ft) Top Bottom (MD Ft) (MD Ft)
+-
+Lateral1 5952 Perforations 5414 5760
+-
+-
+-
+-
+-
+-
+-
+-
+I
+PRODUCTION
+Cum~nt Producing Open Hole or Perforated lnterval(s), This Completion, Top and Bottom, (MD Ft) Name of Zone (If Different from Pool Name)
+Dakota Salt Water Disposal 5414' -5760'
+Date Well Completed (SEE INS'!Rl)CTl))NS) Producing Method Pumping-Size & Type of Pump Well Status (Producing or Shut-In)
+Yf,,113
+Date of Test Hours Tested Choke Size Oil (Bbls) Gas (MCF) Water (Bbls) Oil Gravity-AP! (Corr.) Disposition of Gas
+Production for Test
+164 0
+Flow·ng Tubing Pressure (PSI) Flowing Casing Pressure (PSI) Calculated Oil (Bbls) Gas (MCF) Water (Bbls) Gas-Oil Ratio
+24-Hour RatePage 2
+SFN 2468 (04-2010)
+GEOLOGICAL MARKERS PLUG BACK INFORMATION
+Formation MD (Ft) TVD (Ft) Well Bore Type of Plug Top (Ft) Bottom (Ft) Sacks Cement
+Greenhorn 4534
+Dakota Group 4886
+Basal Dakota Sand 5780
+CORES CUT
+Top (Ft) Bottom (Ft) Formation Top (Ft) Bottom (Ft) Formation
+Drill Stem Test
+Test Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) 'Shut-in 2 (PSIG)
+Drill Pipe Recovery
+Sample Chamber Recovery
+Test Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm lShut-in 1 (PSIG) I Shut-in 2 (PSIG)
+Drill Pipe Recovery
+Sample Chamber Recovery
+I
+Test Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) Shut-in 2 (PSIG)
+Drill Pipe Recovery
+Sample Chamber Recovery
+I
+Test Date 'Formation I Top (Ft) Bottom (Ft)' BH Temp (°F) I CL ppm 1H2S ppm I Shut-in 1 (PSIG) 'Shut-in 2 (PSIG)
+Drill Pipe Recovery
+Sample Chamber Recovery
+Test Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) 'Shut-in 2 (PSIG)
+Drill Pipe Recovery
+Sample Chamber Recovery•
+Paen 3
+SFN 2468 (04-2010}
+Well S ecific Stimulations
+Date Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+3111 013 Dakota 5720 5760 1 6000 Gallons
+~~~~~-'-~~~~-..~~~~~~.-~~.._~~-r-...L...~~~-'-~~~~~~~--.c---''--~~~~~.._~~~~~~--1
+Type Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Acid~~~~~~~~~~....1-~~-15~~--1.~~:..._o~~--1.~~~~~~2_61~0:..._~~~~--L~~~~~~-6_._o~~~~~--1
+Details
+lnte1val treated under a packer
+Date Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+3/1/2013 Dakota 5590 5606 1 2500 Gallons
+Typ11T reatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Acic~~~~~~~~~~-'-~~-15~~---'~~~o~~---'~~~~~~2_98~0:..._~~~~---'~~~~~~-6-._4~~~~~---t
+Det< ils
+lnte val isolated with a packer and bridge plug
+Date, Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+3/2/2013 Dakota 5414 5438 1 4000 Gallons
+Typn Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Acicl 15 0 3000 7.0
+Deti ils
+lnte al isolated with a packer and bridge plug
+Dato Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+Typn Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Det<iils
+Datn Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+Typ ~ Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Details
+ADDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS
+I hereby swear or affirm that the information Email Address Date
+prOI ided is true, complete and correct as 4/15/2013
+Terry.Olson@clr.com
+detmmined from all available records.
+Sig11ature Printed Name Title
+Terry L. OlsonWell Integrity Report- Form 19 Summary
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEY ARD DEPT 405
+BISMARCK, ND 58505-0840
+Test Date: 13/27/2013 1:36:53 PM Contractor Performing Pressure Test: fBasic Energy Services
+Operator: ~CONTINENTAL RESOURCES, INC. Telephone: 14052349000
+Address: IPO BOX 268870 City: !oKLAHOMA CITY State: joK Zip Code: 173126
+Well Name: IATLANTA #1 SWD r Field: IBAKER
+Location: Qtr-Qtr: INWNW Section: Township: 1153 Range: 1101 Cnty: !wiLLIAMS
+WELL TEST DATA
+Formation: DAKOTA Perforations: 5590-5606 Feet
+I
+Tool Type: PKR Depth: 5398 Feet Packer Model: Baker FA-47 pennanent
+Tubing Size: 4.5 Inches Tubing Type: J-55 11.6# IPC
+Well Type: Disposal Well Reason for Test: IUIC MIT Test Type: [Initial MIT
+BEFORE TEST START of TEST ENDofTEST
+Tubing Pressure: R PSJG lshut In ~PSJG 'Shut In ~PSJG lshutln
+Annulus or Casing Pressure: PS!G PS!G PS!G
+Annulus or Casing Fluid : ITreated Salt Water Test Fluid: ITreated Salt Water
+Amount of Fluid Needed to Fill Annulus or Casing: jo.2s Bbls
+Ji5' I
+I
+Test Length: Minutes Was Annulus or Casing Bled to Zero After Test?: Yes . If No -Pressure Left:
+INSPECTION COMMENTS
+Test Result: IAcceptable Report of Work Done Required:
+No pressure loss. Well on slight suck
+SUBMIT FORM 6 COMPLETION REPORT
+SUBMIT FORM 4 NOTING DATE OF FIRST INJECTION. (SJF)
+This Report is true and complete to the best of my knowledge.
+Company Representative Witnessing Test: lchris Sperling Title: ~Production Foreman
+Commission Field Inspector Witnessing Test: r-ID""a""n"i"e""I'""W-el-ls_ ________
+!5?7"
+NDIC Initials£;~
+[!w:t;tJ]
+!Well File No.
+\":'_~ ..- z.r;J 90258
+~JY BISMARCK, ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+0 Notice of Intent Approximate Start Date D Drilling Prognosis D Spill Report
+December 14, 2012
+D D
+I Redrilling or Repair Shooting
+D Report of Work Done Date Work Completed D Casing or Liner D Acidizing
+D Plug Well D Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify D Supplemental History D Change Production Method
+for a Tax Exemption PursuaIn t to NDCC Section 57-51.1-03.
+D Temporarily Abandon 0 Reclamation
+Approximate Start Date
+D
+Other
+Well Name and Number 24-HOUR PRODUCTION RATE
+Atlanta #1 SWD Before After
+Footages Qtr-Qtr Section Township Range Oil Bbls Oil Bbls
+260 F N L 432 F W L NWNW 6 153 N 101 W Water Bbls Water Bbls
+Field Pool County Gas MCF Gas MCF
+Baker Bakken Williams
+Name of Contractor(s)
+Address City State Zip Code
+DETAILS OF WORK
+Surface Owner: Continental Resources, Inc., P.O. Box 268870, Oklahoma City, OK 73126
+Saltwater Disposals: Zimmerman Disposal, Land Tech Rehak Disposal, Land Tech Williston Disposal
+Proposed Work: Haul fluids off to one of the disposals within the area
+Spread flyash and solidify, then backfill with dirt.
+Replace topsoil from stockpile and reseed reclaimed area.
+Establish grade for surface drainage away from reclaimed pit area.
+Company Telephone Number
+Continental Resources, Inc. 405-234-9000 FOR STATE USE ONLY
+Address
+P.O. Box 268870
+State Zip Code
+OK 73126
+Printed Name
+son
+Date
+December 17, 2012
+cir.comContinental Resources Inc.
+Williams County, ND
+Atlanta
+Atlanta 1 SWD
+OH
+Design: OH
+Standard Survey Report
+14 December, 2012Scientific Drilling International, Inc.
+Survey Report
+Company: Continental Resources Inc. Local Co-ordinate Reference: Well Atlanta 1 SWD
+Project: Williams County, ND TVD Reference: GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+Site: Atlanta MD Reference: GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+Well: Atlanta 1 SWD North Reference: True
+Wellbore: OH Survey Calculation Method: Minimum Curvature
+Design: OH Database: Rockies Compass Server
+Project Williams County, ND
+Map System: US State Plane 1983 System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northern Zone
+Site Atlanta
+Site Position: Northing: 421,456.62 usft Latitude: 48° 6' 35.990 N
+From: Lat/Long Easting: 1,179,207.34 usft Longitude: 103° 43' 54.570 W
+Position Uncertainty: 0.00 ft Slot Radius: 13.200 in Grid Convergence: -2.40 °
+Well Atlanta 1 SWD, 260' FNL 432' FWL Sec 6 T153N R101W
+Well Position +N/-S 0.00ft Northing: 421,456.62 usft Latitude: 48° 6' 35.990 N
++E/-W 0.00ft Easting: 1,179,207.34 usft Longitude: 103° 43' 54.570 W
+Position Uncertainty 0.00ft Wellhead Elevation: ft Ground Level: 1,945.00 ft
+Wellbore OH
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+(°) (°) (nT)
+IGRF2010 12/07/12 8.59 73.07 56,599
+Design OH
+Audit Notes:
+Version: 1.0 Phase: ACTUAL Tie On Depth: 0.00
+Vertical Section: Depth From (TVD) +N/-S +E/-W Direction
+(ft) (ft) (ft) (°)
+0.00 0.00 0.00 280.98
+Survey Program Date 12/14/12
+From To
+(ft) (ft) Survey (Wellbore) Tool Name Description
+70.00 1,927.00Survey #1 - Surface (OH) MWD MWD - Standard
+2,050.00 5,891.00Survey #2 - SDI MWD Survey (OH) MWD SDI MWD - Standard ver 1.0.1
+Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate Rate Rate
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft) (°/100ft) (°/100ft)
+1,927.00 0.30 2.60 1,926.96 1.69 -8.73 8.89 0.81 -0.21 135.32
+Last Newsco Survey
+2,050.00 0.59 280.23 2,049.96 2.13 -9.33 9.57 0.51 0.24 -66.97
+First SDI MWD Survey
+2,144.00 0.57 350.92 2,143.96 2.68 -9.88 10.21 0.71 -0.02 75.20
+2,237.00 0.60 4.13 2,236.95 3.62 -9.92 10.43 0.15 0.03 14.20
+2,331.00 0.28 17.19 2,330.95 4.33 -9.82 10.46 0.35 -0.34 13.89
+2,425.00 0.51 118.26 2,424.95 4.35 -9.38 10.04 0.67 0.24 107.52
+2,518.00 0.92 130.67 2,517.94 3.67 -8.45 8.99 0.47 0.44 13.34
+12/14/12 10:34:40AM Page 2 COMPASS 5000.1 Build 40Scientific Drilling International, Inc.
+Survey Report
+Company: Continental Resources Inc. Local Co-ordinate Reference: Well Atlanta 1 SWD
+Project: Williams County, ND TVD Reference: GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+Site: Atlanta MD Reference: GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+Well: Atlanta 1 SWD North Reference: True
+Wellbore: OH Survey Calculation Method: Minimum Curvature
+Design: OH Database: Rockies Compass Server
+Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate Rate Rate
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft) (°/100ft) (°/100ft)
+2,612.00 1.02 151.07 2,611.93 2.44 -7.47 7.80 0.38 0.11 21.70
+2,705.00 0.93 161.52 2,704.91 1.00 -6.83 6.90 0.21 -0.10 11.24
+2,799.00 1.17 167.79 2,798.90 -0.66 -6.39 6.15 0.28 0.26 6.67
+2,893.00 1.14 169.99 2,892.88 -2.52 -6.02 5.43 0.06 -0.03 2.34
+2,986.00 1.24 148.31 2,985.86 -4.29 -5.33 4.42 0.49 0.11 -23.31
+3,080.00 1.36 143.53 3,079.83 -6.05 -4.14 2.91 0.17 0.13 -5.09
+3,173.00 1.13 150.90 3,172.81 -7.74 -3.04 1.51 0.30 -0.25 7.92
+3,267.00 1.29 146.22 3,266.79 -9.43 -2.00 0.16 0.20 0.17 -4.98
+3,360.00 1.20 132.82 3,359.77 -10.96 -0.70 -1.40 0.33 -0.10 -14.41
+3,453.00 1.22 129.19 3,452.75 -12.25 0.78 -3.10 0.09 0.02 -3.90
+3,547.00 1.12 144.25 3,546.73 -13.62 2.09 -4.65 0.34 -0.11 16.02
+3,640.00 0.99 150.48 3,639.71 -15.06 3.02 -5.83 0.19 -0.14 6.70
+3,733.00 1.11 143.94 3,732.70 -16.49 3.95 -7.02 0.18 0.13 -7.03
+3,827.00 0.71 148.34 3,826.69 -17.72 4.79 -8.08 0.43 -0.43 4.68
+3,921.00 0.90 145.16 3,920.68 -18.82 5.52 -9.00 0.21 0.20 -3.38
+4,014.00 0.73 153.66 4,013.67 -19.95 6.20 -9.88 0.22 -0.18 9.14
+4,107.00 0.26 352.14 4,106.67 -20.27 6.43 -10.17 1.05 -0.51 -173.68
+4,201.00 0.09 359.45 4,200.66 -19.99 6.40 -10.09 0.18 -0.18 7.78
+4,294.00 0.24 271.04 4,293.66 -19.91 6.21 -9.88 0.27 0.16 -95.06
+4,387.00 0.21 241.94 4,386.66 -19.99 5.86 -9.56 0.13 -0.03 -31.29
+4,481.00 0.35 174.56 4,480.66 -20.36 5.74 -9.51 0.35 0.15 -71.68
+4,574.00 0.48 174.63 4,573.66 -21.03 5.80 -9.70 0.14 0.14 0.08
+4,668.00 0.71 353.06 4,667.66 -20.84 5.76 -9.63 1.27 0.24 189.82
+4,761.00 0.24 118.36 4,760.66 -20.36 5.87 -9.64 0.94 -0.51 134.73
+4,855.00 0.27 142.94 4,854.66 -20.63 6.17 -9.99 0.12 0.03 26.15
+4,948.00 0.20 16.27 4,947.65 -20.65 6.35 -10.17 0.45 -0.08 -136.20
+5,042.00 0.34 38.71 5,041.65 -20.27 6.57 -10.31 0.18 0.15 23.87
+5,135.00 0.50 114.02 5,134.65 -20.22 7.11 -10.84 0.57 0.17 80.98
+5,229.00 0.74 141.96 5,228.65 -20.87 7.86 -11.70 0.40 0.26 29.72
+5,322.00 0.20 353.53 5,321.64 -21.18 8.22 -12.10 0.99 -0.58 -159.60
+5,416.00 0.32 31.46 5,415.64 -20.79 8.33 -12.14 0.22 0.13 40.35
+5,509.00 0.41 328.60 5,508.64 -20.29 8.30 -12.01 0.42 0.10 -67.59
+5,603.00 0.43 324.50 5,602.64 -19.71 7.92 -11.53 0.04 0.02 -4.36
+5,695.00 0.32 316.39 5,694.64 -19.25 7.54 -11.07 0.13 -0.12 -8.82
+5,789.00 0.62 240.25 5,788.63 -19.31 6.92 -10.47 0.67 0.32 -81.00
+5,882.00 0.14 258.23 5,881.63 -19.58 6.37 -9.98 0.53 -0.52 19.33
+5,891.00 0.23 275.39 5,890.63 -19.58 6.34 -9.95 1.16 1.00 190.67
+Last SDI MWD Survey
+12/14/12 10:34:40AM Page 3 COMPASS 5000.1 Build 40Scientific Drilling International, Inc.
+Survey Report
+Company: Continental Resources Inc. Local Co-ordinate Reference: Well Atlanta 1 SWD
+Project: Williams County, ND TVD Reference: GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+Site: Atlanta MD Reference: GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+Well: Atlanta 1 SWD North Reference: True
+Wellbore: OH Survey Calculation Method: Minimum Curvature
+Design: OH Database: Rockies Compass Server
+Design Annotations
+Measured Vertical Local Coordinates
+Depth Depth +N/-S +E/-W
+(ft) (ft) (ft) (ft) Comment
+70.00 70.00 0.12 0.02 First Newsco Survey
+1,927.00 1,926.96 1.69 -8.73 Last Newsco Survey
+2,050.00 2,049.96 2.13 -9.33 First SDI MWD Survey
+5,891.00 5,890.63 -19.58 6.34 Last SDI MWD Survey
+Checked By: Approved By: Date:
+12/14/12 10:34:40AM Page 4 COMPASS 5000.1 Build 40November 21, 2012
+Terry L. Olson
+Regulatory Compliance Specialist
+CONTINENTAL RESOURCES, INC.
+P.O. Box 268870
+Oklahoma City, OK 73126
+RE: VERTICAL WELL
+ATLANTA #1 SWD
+NWNW Section 6-153N-101W
+Williams County
+Well File # 90258
+Dear Terry :
+Pursuant to Commission Order No. 21271, approval to drill the above captioned well is hereby given.
+PERMIT STIPULATIONS: This well is located on a Well Head Protection Area: Onsite inspection required
+(contact NDIC Field Inspector for site specific stipulations). To include but not limited to: Closed Mud System,
+no drilling pit, and impermeable liner is required on the entire location and a string of casing must be placed in
+the rat and mouse hole and cemented to ground level. CONTINENTAL RESOURCES must contact NDIC
+Field Inspector John Axtman at 701-770-2564 prior to location construction.
+Drilling pit
+NDAC 43-02-03-19.4 states that “a pit may be utilized to bury drill cuttings and solids generated during well
+drilling and completion operations, providing the pit can be constructed, used and reclaimed in a manner that will
+prevent pollution of the land surface and freshwaters. Reserve and circulation of mud system through earthen pits
+are prohibited. All pits shall be inspected by an authorized representative of the director prior to lining and use.
+Drill cuttings and solids must be stabilized in a manner approved by the director prior to placement in a cuttings
+pit.”
+Permit Fee & Notification
+Payment was received in the amount of $100 via credit card. It is requested that notification be
+given immediately upon the spudding of the well. This information should be relayed to the Oil & Gas
+Division, Bismarck, via telephone. The following information must be included: Well name, legal
+location, permit number, drilling contractor, company representative, date and time of spudding. Office
+hours are 8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 5:00 p.m. Central Time. Our telephone number is
+(701) 328-8020, leave a message if after hours or on the weekend.Terry L. Olson
+November 21, 2012
+Page 2
+Confidential status
+Your request for confidential status of all information furnished to the Director, or his
+representatives, is hereby granted. Such information, except production runs, shall remain confidential
+for six months commencing on the date the well is spud.
+Confidential status notwithstanding, the Director and his representatives shall have access to all
+well records wherever located. Your company personnel, or any person performing work for your
+company shall permit the Director and his representatives to come upon any lease, property, well, or
+drilling rig operated or controlled by them, complying with all safety rules, and to inspect the records
+and operation of such wells and to have access at all times to any and all records of wells. The
+Commission's field personnel periodically inspect producing and drilling wells. Any information
+regarding such wells shall be made available to them at any time upon request. The information so
+obtained by the field personnel shall be maintained in strict confidence and shall be available only to the
+Commission and its staff.
+Surface casing cement
+Tail cement utilized on surface casing must have a minimum compressive strength of 500 psi
+within 12 hours, and tail cement utilized on production casing must have a minimum compressive
+strength of 500 psi before drilling the plug or initiating tests.
+Logs
+NDAC Section 43-02-03-31 requires the running of (1) a suite of open hole logs from which formation tops and
+porosity zones can be determined, (2) a Gamma Ray Log run from total depth to ground level elevation of the well bore, and
+(3) a log from which the presence and quality of cement can be determined (Standard CBL or Ultrasonic cement evaluation
+log) in every well in which production or intermediate casing has been set, this log must be run prior to completing the well.
+All logs run must be submitted free of charge, as one digital TIFF (tagged image file format) copy and one digital LAS (log
+ASCII) formatted copy. Digital logs may be submitted on a standard CD, DVD, or attached to an email sent to
+digitallogs@nd.gov Thank you for your cooperation.
+Sincerely,
+Stephen Fried
+UIC SupervisorAPPLICATION FOR PERMIT TO DRILL - FORM 1
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+SFN 4615 (03-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Type of Work Type of Well Approximate Date Work Will Start Confidential Status
+NewLocation SaltWaterDisposal 1 / 15 / 2013 Yes
+Operator Telephone Number
+CONTINENTALRESOURCES,INC. (405)234-9000
+Address City State Zip Code
+P.O.Box268870 OklahomaCity OK 73126
+Name of Surface Owner or Tenant
+ContinentalResources,Inc.
+Address City State Zip Code
+P.O.Box268870 OklahomaCity OK 73126
+✔ Noticehasbeenprovidedtotheownerofany ✔ Thiswellisnotlocatedwithinfivehundred
+WELL INFORMATION permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
+Well Name Well Number
+ATLANTA #1SWD
+At Surface Qtr-Qtr Section Township Range County
+260 F N L 432 F W L NWNW 6 153 N 101 W Williams
+If Directional, Top of Pay Qtr-Qtr Section Township Range County
+F L F L N W
+Proposed Bottom Hole Location Qtr-Qtr Section Township Range County
+F L F L N W
+Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
+48° 06' 35.99" -103° 43' 54.57" NAD83 Sec6T153NR101W
+Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
+1968 Feet Above S.L. Feet
+Objective Horizons Pierre Shale Top
+Dakota 1869
+Proposed Size Weight Depth Cement Volume NOTE: Surface hole must be drilled with fresh water
+Surface Casing 9 - 5/8 " 36Lb./Ft. 1970Feet 743 Sacks and surface casing must be cemented back to surface.
+Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
+Longstring Casing 7 - " 26Lb./Ft. 61000Feet MD 61000Feet TVD 385Sacks 1970 Feet 4927 Feet
+BBaassee oLaf sLtaCsth Saralelts (SIf aAltp(pIfliAcapbplliec)able) Estimated Total Depth (feet) Drilling Mud Type (Vertical Hole - Below Surface Casing)
+Feet 6100 Feet MD 6100 Feet TVD Invert
+Proposed Logs
+CBL/GRfromdeepestdepthobtainabletogroundsurface
+Comments
+Proposed FW casing: 13 3/8" 48#, 0-500', 189 sks cmt.
+Date
+I hereby swear or affirm that the information provided is true, complete and correct as determined from all available records.
+9 / 7 / 2012
+Signature Printed Name Title
+ePermit
+TerryL.Olson RegulatoryComplianceSpecialist
+Email Address(es)
+FOR STATE USE ONLY FOR STATE USE ONLY
+Permit and File Number API Number Date Approved
+90258 3333-- 105 - 90258 11 / 21 / 2012
+Field By
+BAKER StephenFried
+Pool Permit Type Title
+DAKOTA SALTWATERDISPOSAL UICSupervisor
+REQUIREDATTACHMENTS:Certifiedsurveyorsplat,estimatedgeologicaltops,proposedmud/cementingplans,$100fee.SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4 
+INDUSTRIAL COMMISSION OF NORTH DAKOTA 
+OIL AND GAS DIVISION 
+600 EAST BOULEVARD DEPT 405 
+BISMARCK, ND 58505-0840 
+SFN 5749 (09-2006) 
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. 
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. 
+D Notice of Intent 
+I 
+Approximate Start Date 
+D Report of Work Done I 
+Date Work Completed 
+D Notice of Intent to Begin a Workover Project that may Qualify 
+for a Tax Exemption Pursuant to NDCC Section 57-51 .1-03. 
+Recefvec1 
+APR 3 0 2019 
+ND Oil & 
+• 
+Drilling Prognosis 
+• 
+Redrilling or Repair 
+• 
+Casing or Liner 
+• 
+Plug Well 
+• 
+Supplemental History 
+• 
+Temporarily Abandon 
+• 
+• 
+• 
+• 
+• 
+• 
+'Well File No. 
+90258 
+Spill Report 
+Shooting 
+Acidizing 
+Fracture Treatment 
+Change Production Method 
+Reclamation 
+I 
+Approximate Start Date 
+0 
+Other 
+As-Built Facilities 
+Well Name and Number 
+Atlanta #1 SWD 
+Footages 
+IQtr-Qtr I 
+Section 
+!Township 
+!Range 
+260 F N L 
+432 F W L 
+NWNW 
+6 
+153 N 
+101 W 
+Field 
+'Pool 
+'County 
+Baker 
+Dakota 
+Williams 
+Name of Contractor(s) 
+Address 
+DETAILS OF WORK 
+Please see the attached as-builts for the above-referenced well. 
+Company 
+Continental Resources, Inc. 
+Address 
+P.O. Box 268870 
+City 
+Oklahoma City 
+Email Address 
+terry.olson cir.com 
+State 
+OK 
+Printed Name 
+Terry L. Olson 
+Date 
+April 30, 2019 
+Telephone Number 
+405-234-9000 
+Zip Code 
+73126 
+24-HOUR PRODUCTION RATE 
+Before 
+After 
+Oil 
+Bbls Oil 
+Water 
+Bbls Water 
+Gas 
+MCF Gas 
+'Zip Code 
+FOR STATE USE ONLY 
+D Approved 
+By 
+Title 
+Bbls 
+Bbls 
+MCF 
+Industrial Commission of North Dakota
+Oil and Gas Division
+Spill / Incident Report
+Date/Time Reported : Jun 24 2014 / 21:45
+State Agency person :  
+Responsible Party : CONTINENTAL RESOURCES, INC.
+Well Operator : CONTINENTAL RESOURCES, INC.
+Date/Time of Incident : 6/24/2014 12:00:00 AM
+NDIC File Number : 90258
+Facility Number : 
+Well or Facility Name : ATLANTA  #1 SWD
+Type of Incident : Tank Overflow
+Field Name : BAKER
+County : WILLIAMS
+Section : 6
+Township : 153
+Range : 101
+Quarter-Quarter : 
+Quarter : 
+Distance to nearest residence :  
+Distance to nearest water well :  
+Release Oil :  
+Release Brine :  
+Release Other :  
+Recovered Oil :  
+Recovered Brine :  
+Recovered Other :  
+Has/Will the incident be reported to the NRC? : No
+Was release contained : Yes - On Constructed Well Site
+Description of other released substance : 
+Immediate risk evaluation : None
+Followup Report Requested Y/N : Y
+SUNDRY NOTICE, _,.ND REPORTS ON WELLS - FORM '- --~-­
+INDUSTRIAL COMMISSION OF NORTH DAKOTA 
+OIL AND GAS DIVISION 
+600 EAST BOULEVARD DEPT 405 
+BISMARCK, ND 58505-0840 
+SFN 5749 (09-2006) 
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. 
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. 
+D Notice of Intent 
+0 Report of Work Done 
+I 
+Approximate Start Date 
+Date Work Completed 
+April 9, 2013 
+D Notice of Intent to Begin a Workover Project that may Qualify 
+for a Tax Exemption Pursuant to NDCC Section 57-51 .1-03. 
+I 
+Approximate Start Date 
+D Drilling Prognosis 
+D Redrilling or Repair 
+D Casing or Liner 
+D Plug Well 
+D Supplemental History 
+D Temporarily Abandon 
+0 
+Other 
+Begin Disposal 
+D 
+D 
+D 
+D 
+!Well File No. 
+90258 
+Spill Report 
+Shooting 
+Acidizing 
+Fracture Treatment 
+Change Production Method 
+Reclamation 
+Well Name and Number 
+24-HOUR PRODUCTION RATE 
+Atlanta #1 SWD 
+Before 
+After 
+Footages 
+IQtr-Qtr 
+I Section 
+rownship 
+I Range 
+260 F N L 
+432 F W L 
+NWNW 
+6 
+153 N 
+101 w 
+Oil 
+Bbls Oil 
+Water 
+Bbls Water 
+Field 
+I 
+Pool 
+I 
+County 
+Baker 
+Dakota 
+Williams 
+Gas 
+MCF Gas 
+Name of Contractor(s) 
+Address 
+I 
+State 
+I 
+Zip Code 
+DETAILS OF WORK 
+Bbls 
+Bbls 
+MCF 
+Continental Resources, Inc., began saltwater disposal on 4/9/2013. MIT was run on 3/27/2013 w/ NDIC representative 
+Dan Wells as witness. Press up to 1000 psi, held 15 min. 
+Company 
+Continental Resources, Inc. 
+Address 
+P .0. Box 268870 
+City 
+Oklahoma City 
+Compliance Specialist 
+Email Address 
+Terry.Olson cir.com 
+Printed Name 
+State 
+OK 
+Ter 
+L. Olson 
+Date 
+April 18, 2013 
+Telephone Number 
+405-234-9000 
+Zip Code 
+73126 
+FOR STATE USE ONLY 
+~ Received 
+D Approved 
+Date LL 
+7 -z 
+By 
+UNDERGROUND INJECTION 
+SFN 2468 (04-2010) 
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. 
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. 
+Designate Type of Completion 
+!Well File No. 
+90258 
+[] Oil Well 
+D EOR Well 
+D Recompletion 
+D Deepened Well 
+D Other: 
+Added Horizontal Leg 
+D Extended Horizontal Leg 
+(] Gas Well 
+Q 
+SWD Well 
+Wel l Name and Number 
+Atl mta #1 SWD 
+Operator 
+Continental Resources, Inc. 
+Add ress 
+P .0. Box 268870 
+City 
+D Water Supply Well 
+Telephone Number 
+405-234-9000 
+Spacing Unit Description 
+Sec 6 T153N R101W 
+Field 
+Baker 
+Pool 
+Bakken 
+Zip Code 
+Permit Type 
+Ok ahoma City 
+State 
+OK 
+73126 
+D Wildcat 
+0 Development 
+D Extension 
+LOCATION OF WELL 
+At Surface 
+Qtr-Qtr 
+Section 
+260 F N L 
+432 F 
+W 
+L 
+NWNW 
+6 
+Township 
+153 N 
+Spu:I Date 
+11/,25/2013 
+Date TD Reached 
+12/11/2013 
+Typ1 i of Electric and Other Logs Run (See Instructions) 
+CB L/GR/MAC/mud 
+Drilling Contractor and Rig Number 
+Cyclone 2 
+Range 
+101 w 
+KB Elevation (Ft) 
+l996' 
+1''1( 
+• 
+CASING & TUBULARS RECORD (Report all strings set in well) 
+String 
+Top Set 
+Depth Set 
+Hole Size 
+Weight 
+Anchor Set 
+Well Bore 
+Type 
+Size (Inch) 
+(MD Ft) 
+(MD Ft) 
+(Inch) 
+(Lbs/Ft) 
+(MD Ft) 
+f--
+Lateral1 
+Conductor 
+16 
+102 
+20 
+94 
+f--
+Surface 
+13 3/8 
+522 
+12 1/4 
+48 
+f--
+Surface 
+9 518 
+1996 
+12 1/4 
+36 
+-
+Production 
+7 
+5914 
+8 3/4 
+26 
+-
+Tubing 
+4 1/2 
+5390 
+11.6 
+---
+PERFORATION & OPEN HOLE INTERVALS 
+Well Bore TD 
+Open Hole/Perforated 
+Kick-off 
+Top of 
+Well Bore 
+Drillers Depth 
+Completion 
+Interval (MD.Ft) 
+Point 
+Casing 
+Date Perfd 
+Type 
+Window 
+or Drilled 
+(MD Ft) 
+Top 
+Bottom 
+(MD Ft) 
+(MD Ft) 
+-Lateral1 
+5952 
+Perforations 
+5414 
+5760 
+-
+-
+-
+-
+-
+-
+-
+-
+I 
+PRODUCTION 
+County 
+Williams 
+Graded Elevation (Ft) 
+-2968' 
+(,,e-
+Packer Set 
+Sacks 
+(MD Ft) 
+Cement 
+400 
+485 
+626 
+5390 
+Date 
+Isolation 
+Isolated 
+Method 
+Top of 
+Cement 
+0 
+0 
+0 
+0 
+Sacks 
+Cement 
+Cum~nt Producing Open Hole or Perforated lnterval(s), This Completion, Top and Bottom, (MD Ft) 
+Name of Zone (If Different from Pool Name) 
+Dakota Salt Water Disposal 5414' - 5760' 
+Date Well Completed (SEE INS'!Rl)CTl))NS) 
+Producing Method 
+Yf,,113 
+Date of Test 
+Hours Tested Choke Size 
+164 
+Production for Test 
+Flow·ng Tubing Pressure (PSI) 
+Flowing Casing Pressure (PSI) 
+Pumping-Size & Type of Pump 
+Well Status (Producing or Shut-In) 
+Oil (Bbls) 
+Gas (MCF) Water (Bbls) 
+Oil Gravity-AP! (Corr.) 
+Disposition of Gas 
+0 
+Calculated 
+Oil (Bbls) 
+Gas (MCF) 
+Water (Bbls) 
+Gas-Oil Ratio 
+24-Hour Rate 
+Page 2 
+SFN 2468 (04-2010) 
+GEOLOGICAL MARKERS 
+PLUG BACK INFORMATION 
+Formation 
+MD (Ft) 
+TVD (Ft) 
+Well Bore 
+Type of Plug 
+Top (Ft) 
+Bottom (Ft) 
+Sacks Cement 
+Greenhorn 
+4534 
+Dakota Group 
+4886 
+Basal Dakota Sand 
+5780 
+CORES CUT 
+Top (Ft) 
+Bottom (Ft) 
+Formation 
+Top (Ft) 
+Bottom (Ft) 
+Formation 
+Drill Stem Test 
+Test Date 
+I Formation 
+I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm 
+IH2S ppm 
+I Shut-in 1 (PSIG) 'Shut-in 2 (PSIG) 
+Drill Pipe Recovery 
+Sample Chamber Recovery 
+Test Date 
+I Formation 
+I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm 
+IH2S ppm 
+lShut-in 1 (PSIG) I Shut-in 2 (PSIG) 
+Drill Pipe Recovery 
+Sample Chamber Recovery 
+Test Date 
+I Formation 
+I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm 
+IH2S ppm 
+I Shut-in 1 (PSIG) I 
+Shut-in 2 (PSIG) 
+Drill Pipe Recovery 
+Sample Chamber Recovery 
+Test Date 
+'Formation 
+I Top (Ft) I 
+Bottom (Ft)' BH Temp (°F) I CL ppm 
+1H2S ppm 
+I Shut-in 1 (PSIG) 'Shut-in 2 (PSIG) 
+Drill Pipe Recovery 
+Sample Chamber Recovery 
+Test Date 
+I Formation 
+I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm 
+IH2S ppm 
+I Shut-in 1 (PSIG) 'Shut-in 2 (PSIG) 
+Drill Pipe Recovery 
+Sample Chamber Recovery 
+Paen 3 
+S FN 2468 (0 4 -2 010} 
+• 
+Well S ecific Stimulations 
+Date Stimulated 
+Stimulated Formation 
+Top (Ft) 
+Bottom (Ft) Stimulation Stages 
+Volume 
+Volume Units 
+3111 013 
+Dakota 
+5720 
+5760 
+1 
+6000 
+Gallons 
+~~~~~-'-~~~~-..~~~~~~.-~~.._~~-r-...L...~~~-'-~~~~~~~--.c---''--~~~~~.._~~~~~~--1 
+Type Treatment 
+Acid % 
+Lbs Proppant 
+Maximum Treatment Pressure (PSI) 
+Maximum Treatment Rate (BBLS/Min) 
+Acid~~~~~~~~~~....1-~~-15~~--1.~~:..._o~~--1.~~~~~~2_61~0:..._~~~~--L~~~~~~-6_._o~~~~~--1 
+Details 
+lnte1val treated under a packer 
+Date Stimulated 
+Stimulated Formation 
+Top (Ft) 
+Bottom (Ft) Stimulation Stages 
+Volume 
+Volume Units 
+3/1/2013 Dakota 
+5590 
+5606 1 
+2500 
+Gallons 
+Typ11 Treatment 
+Acid % 
+Lbs Proppant 
+Maximum Treatment Pressure (PSI) 
+Maximum Treatment Rate (BBLS/Min) 
+Acic~~~~~~~~~~-'-~~-15~~---'~~~o~~---'~~~~~~2_98~0:..._~~~~---'~~~~~~-6-._4~~~~~---t 
+Det< ils 
+lnte val isolated with a packer and bridge plug 
+Date, Stimulated 
+Stimulated Formation 
+3/2/2013 Dakota 
+Typn Treatment 
+Acicl 
+Deti ils 
+Acid % 
+15 
+lnte al isolated with a packer and bridge plug 
+Dato Stimulated 
+Stimulated Formation 
+Typn Treatment 
+Acid % 
+Det<iils 
+Datn Stimulated 
+Stimulated Formation 
+Typ ~ Treatment 
+Acid % 
+Details 
+Top (Ft) 
+Bottom (Ft) Stimulation Stages 
+Lbs Proppant 
+0 
+5414 
+5438 1 
+Maximum Treatment Pressure (PSI) 
+3000 
+Top (Ft) 
+Bottom (Ft) Stimulation Stages 
+Volume 
+Volume Units 
+4000 
+Gallons 
+Maximum Treatment Rate (BBLS/Min) 
+7.0 
+Volume 
+Volume Units 
+Lbs Proppant 
+Maximum Treatment Pressure (PSI) 
+Maximum Treatment Rate (BBLS/Min) 
+Top (Ft) 
+Bottom (Ft) Stimulation Stages 
+Volume 
+Volume Units 
+Lbs Proppant 
+Maximum Treatment Pressure (PSI) 
+Maximum Treatment Rate (BBLS/Min) 
+ADDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS 
+I hereby swear or affirm that the information 
+prOI ided is true, complete and correct as 
+detmmined from all available records. 
+Sig11ature 
+Email Address 
+Terry.Olson@clr.com 
+Printed Name 
+Terry L. Olson 
+Date 
+4/15/2013 
+Title 
+Well Integrity Report- Form 19 Summary 
+INDUSTRIAL COMMISSION OF NORTH DAKOTA 
+OIL AND GAS DIVISION 
+600 EAST BOULEY ARD DEPT 405 
+BISMARCK, ND 58505-0840 
+Test Date: 
+13/27/2013 1:36:53 PM 
+Contractor Performing Pressure Test: fBasic Energy Services 
+Operator: 
+~ CONTINENTAL RESOURCES, INC. 
+Telephone: 
+14052349000 
+Address: 
+IPO BOX 268870 
+City: !oKLAHOMA CITY 
+State: 
+joK 
+Zip Code: 173126 
+Well Name: 
+IATLANTA #1 SWD 
+Field: 
+IBAKER 
+Location: 
+Qtr-Qtr: 
+INWNW 
+Section: r 
+Township: 1153 
+Range: 1101 
+Cnty: !wiLLIAMS 
+WELL TEST DATA 
+Formation: 
+DAKOTA 
+Perforations: 
+5590-5606 
+Feet 
+Tool Type: 
+PKR 
+Depth: I 5398 Feet 
+Packer Model: 
+Baker FA-47 pennanent 
+Tubing Size: 
+4.5 
+Inches 
+Tubing Type: 
+J-55 11 .6# IPC 
+Well Type: 
+Disposal Well 
+Reason for Test: 
+IUIC MIT 
+Test Type: [Initial MIT 
+BEFORE TEST 
+START of TEST 
+ENDofTEST 
+Tubing Pressure: 
+R
+PSJG lshut In 
+~PSJG ' Shut In 
+~PSJG lshutln 
+Annulus or Casing Pressure: 
+PS!G 
+PS!G 
+PS!G 
+Annulus or Casing Fluid : 
+ITreated Salt Water 
+Test Fluid: 
+ITreated Salt Water 
+Amount of Fluid Needed to Fill Annulus or Casing: 
+jo.2s 
+Bbls 
+Test Length: Ji5' Minutes Was Annulus or Casing Bled to Zero After Test?: 
+I 
+Yes . If No - Pressure Left: I 
+INSPECTION COMMENTS 
+Test Result: 
+IAcceptable 
+Report of Work Done Required: 
+No pressure loss. Well on slight suck 
+SUBMIT FORM 6 COMPLETION REPORT 
+SUBMIT FORM 4 NOTING DATE OF FIRST INJECTION. (SJF) 
+This Report is true and complete to the best of my knowledge. 
+Company Representative Witnessing Test: 
+lchris Sperling 
+Title: 
+~ Production Foreman 
+Commission Field Inspector Witnessing Test: 
+r-ID""a""n""ie""'I""W- el-ls ________ _ 
+NDIC Initials !5?7" 
+£;~ 
+[!w:t;tJ] 
+\":'_~ .. -z.r;J 
+~JY BISMARCK, ND 58505-0840 
+SFN 5749 (09-2006) 
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. 
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. 
+0 Notice of Intent 
+D Report of Work Done 
+Approximate Start Date 
+December 14, 2012 
+I 
+Date Work Completed 
+D Notice of Intent to Begin a Workover Project that may Qualify 
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03. 
+Well Name and Number 
+Atlanta #1 SWD 
+I 
+Approximate Start Date 
+D Drilling Prognosis 
+D Redrilling or Repair 
+D Casing or Liner 
+D Plug Well 
+D Supplemental History 
+D Temporarily Abandon 
+D Other 
+Footages 
+Qtr-Qtr 
+Section 
+Township 
+Range 
+260 F N L 
+Field 
+Baker 
+Name of Contractor(s) 
+Address 
+432 F W L 
+NWNW 
+6 
+153 N 
+101 W 
+Pool 
+Bakken 
+County 
+Williams 
+City 
+DETAILS OF WORK 
+Oil 
+Water 
+Gas 
+D 
+D 
+D 
+D 
+D 
+0 
+!Well File No. 
+90258 
+Spill Report 
+Shooting 
+Acidizing 
+Fracture Treatment 
+Change Production Method 
+Reclamation 
+24-HOUR PRODUCTION RATE 
+Before 
+After 
+Bbls Oil 
+Bbls Water 
+MCF Gas 
+State 
+Zip Code 
+Surface Owner: 
+Continental Resources, Inc., P.O. Box 268870, Oklahoma City, OK 73126 
+Saltwater Disposals: 
+Zimmerman Disposal, Land Tech Rehak Disposal, Land Tech Williston Disposal 
+Proposed Work: Haul fluids off to one of the disposals within the area 
+Spread flyash and solidify, then backfill with dirt. 
+Replace topsoil from stockpile and reseed reclaimed area. 
+Establish grade for surface drainage away from reclaimed pit area. 
+Company 
+Continental Resources, Inc. 
+Address 
+P.O. Box 268870 
+cir.com 
+Printed Name 
+Date 
+State 
+OK 
+son 
+December 17, 2012 
+Telephone Number 
+405-234-9000 
+Zip Code 
+73126 
+FOR STATE USE ONLY 
+Bbls 
+Bbls 
+MCF 
+Standard Survey Report
+14 December, 2012
+Design: OH
+Continental Resources Inc.
+Williams County, ND
+Atlanta
+Atlanta 1 SWD
+OH
+Scientific Drilling International, Inc.
+Survey Report
+Well Atlanta 1 SWD
+Local Co-ordinate Reference:
+Continental Resources Inc.
+Company:
+GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+TVD Reference:
+Williams County, ND
+Project:
+GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+MD Reference:
+Atlanta
+Site:
+Atlanta 1 SWD
+Well:
+True
+North Reference:
+Minimum Curvature
+Survey Calculation Method:
+OH
+Wellbore:
+Design:
+OH
+Database:
+Rockies Compass Server
+Map System:
+Geo Datum:
+Project
+Map Zone:
+System Datum:
+US State Plane 1983
+North American Datum 1983
+Williams County, ND
+North Dakota Northern Zone
+Mean Sea Level
+Site Position:
+From:
+Site
+Latitude:
+Longitude:
+Position Uncertainty:
+Northing:
+Easting:
+Grid Convergence:
+Atlanta
+Lat/Long
+Slot Radius:
+0.00 ft
+usft
+usft
+in
+°
+421,456.62
+1,179,207.34
+13.200
+48° 6' 35.990 N
+103° 43' 54.570 W
+-2.40
+Well
+Well Position
+Longitude:
+Latitude:
+Easting:
+Northing:
++E/-W
++N/-S
+Position Uncertainty
+Ground Level:
+Atlanta 1 SWD, 260' FNL  432' FWL  Sec 6  T153N  R101W
+Wellhead Elevation:
+0.00
+0.00
+0.00
+421,456.62
+1,179,207.34
+48° 6' 35.990 N
+103° 43' 54.570 W
+1,945.00
+ft
+ft
+ft
+usft
+usft
+ft
+ft
+Wellbore
+Declination
+(°)
+Field Strength
+(nT)
+Sample Date
+Dip Angle
+(°)
+OH
+Model Name
+Magnetics
+IGRF2010
+12/07/12
+8.59
+73.07
+56,599
+Phase:
+Version:
+Audit Notes:
+Design
+OH
+1.0
+ACTUAL
+Vertical Section:
+Depth From (TVD)
+(ft)
++N/-S
+(ft)
+Direction
+(°)
++E/-W
+(ft)
+Tie On Depth:
+0.00
+0.00
+0.00
+0.00
+280.98
+From
+(ft)
+Survey Program
+Description
+Tool Name
+Survey (Wellbore)
+To
+(ft)
+Date
+12/14/12
+MWD
+MWD - Standard
+Survey #1 - Surface (OH)
+70.00
+1,927.00
+MWD SDI
+MWD - Standard ver 1.0.1
+Survey #2 - SDI MWD Survey (OH)
+2,050.00
+5,891.00
+Measured
+Depth
+(ft)
+Inclination
+(°)
+Azimuth
+(°)
++E/-W
+(ft)
+Vertical
+Section
+(ft)
+Dogleg
+Rate
+(°/100ft)
++N/-S
+(ft)
+Build
+Rate
+(°/100ft)
+Turn
+Rate
+(°/100ft)
+Survey
+Vertical 
+Depth
+(ft)
+1,927.00
+0.30
+2.60
+1,926.96
+1.69
+-8.73
+8.89
+0.81
+-0.21
+135.32
+Last Newsco Survey
+2,050.00
+0.59
+280.23
+2,049.96
+2.13
+-9.33
+9.57
+0.51
+0.24
+-66.97
+First SDI MWD Survey
+2,144.00
+0.57
+350.92
+2,143.96
+2.68
+-9.88
+10.21
+0.71
+-0.02
+75.20
+2,237.00
+0.60
+4.13
+2,236.95
+3.62
+-9.92
+10.43
+0.15
+0.03
+14.20
+2,331.00
+0.28
+17.19
+2,330.95
+4.33
+-9.82
+10.46
+0.35
+-0.34
+13.89
+2,425.00
+0.51
+118.26
+2,424.95
+4.35
+-9.38
+10.04
+0.67
+0.24
+107.52
+2,518.00
+0.92
+130.67
+2,517.94
+3.67
+-8.45
+8.99
+0.47
+0.44
+13.34
+12/14/12 10:34:40AM
+COMPASS 5000.1 Build 40 
+Page 2
+Scientific Drilling International, Inc.
+Survey Report
+Well Atlanta 1 SWD
+Local Co-ordinate Reference:
+Continental Resources Inc.
+Company:
+GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+TVD Reference:
+Williams County, ND
+Project:
+GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+MD Reference:
+Atlanta
+Site:
+Atlanta 1 SWD
+Well:
+True
+North Reference:
+Minimum Curvature
+Survey Calculation Method:
+OH
+Wellbore:
+Design:
+OH
+Database:
+Rockies Compass Server
+Measured
+Depth
+(ft)
+Inclination
+(°)
+Azimuth
+(°)
++E/-W
+(ft)
+Vertical
+Section
+(ft)
+Dogleg
+Rate
+(°/100ft)
++N/-S
+(ft)
+Build
+Rate
+(°/100ft)
+Turn
+Rate
+(°/100ft)
+Survey
+Vertical 
+Depth
+(ft)
+2,612.00
+1.02
+151.07
+2,611.93
+2.44
+-7.47
+7.80
+0.38
+0.11
+21.70
+2,705.00
+0.93
+161.52
+2,704.91
+1.00
+-6.83
+6.90
+0.21
+-0.10
+11.24
+2,799.00
+1.17
+167.79
+2,798.90
+-0.66
+-6.39
+6.15
+0.28
+0.26
+6.67
+2,893.00
+1.14
+169.99
+2,892.88
+-2.52
+-6.02
+5.43
+0.06
+-0.03
+2.34
+2,986.00
+1.24
+148.31
+2,985.86
+-4.29
+-5.33
+4.42
+0.49
+0.11
+-23.31
+3,080.00
+1.36
+143.53
+3,079.83
+-6.05
+-4.14
+2.91
+0.17
+0.13
+-5.09
+3,173.00
+1.13
+150.90
+3,172.81
+-7.74
+-3.04
+1.51
+0.30
+-0.25
+7.92
+3,267.00
+1.29
+146.22
+3,266.79
+-9.43
+-2.00
+0.16
+0.20
+0.17
+-4.98
+3,360.00
+1.20
+132.82
+3,359.77
+-10.96
+-0.70
+-1.40
+0.33
+-0.10
+-14.41
+3,453.00
+1.22
+129.19
+3,452.75
+-12.25
+0.78
+-3.10
+0.09
+0.02
+-3.90
+3,547.00
+1.12
+144.25
+3,546.73
+-13.62
+2.09
+-4.65
+0.34
+-0.11
+16.02
+3,640.00
+0.99
+150.48
+3,639.71
+-15.06
+3.02
+-5.83
+0.19
+-0.14
+6.70
+3,733.00
+1.11
+143.94
+3,732.70
+-16.49
+3.95
+-7.02
+0.18
+0.13
+-7.03
+3,827.00
+0.71
+148.34
+3,826.69
+-17.72
+4.79
+-8.08
+0.43
+-0.43
+4.68
+3,921.00
+0.90
+145.16
+3,920.68
+-18.82
+5.52
+-9.00
+0.21
+0.20
+-3.38
+4,014.00
+0.73
+153.66
+4,013.67
+-19.95
+6.20
+-9.88
+0.22
+-0.18
+9.14
+4,107.00
+0.26
+352.14
+4,106.67
+-20.27
+6.43
+-10.17
+1.05
+-0.51
+-173.68
+4,201.00
+0.09
+359.45
+4,200.66
+-19.99
+6.40
+-10.09
+0.18
+-0.18
+7.78
+4,294.00
+0.24
+271.04
+4,293.66
+-19.91
+6.21
+-9.88
+0.27
+0.16
+-95.06
+4,387.00
+0.21
+241.94
+4,386.66
+-19.99
+5.86
+-9.56
+0.13
+-0.03
+-31.29
+4,481.00
+0.35
+174.56
+4,480.66
+-20.36
+5.74
+-9.51
+0.35
+0.15
+-71.68
+4,574.00
+0.48
+174.63
+4,573.66
+-21.03
+5.80
+-9.70
+0.14
+0.14
+0.08
+4,668.00
+0.71
+353.06
+4,667.66
+-20.84
+5.76
+-9.63
+1.27
+0.24
+189.82
+4,761.00
+0.24
+118.36
+4,760.66
+-20.36
+5.87
+-9.64
+0.94
+-0.51
+134.73
+4,855.00
+0.27
+142.94
+4,854.66
+-20.63
+6.17
+-9.99
+0.12
+0.03
+26.15
+4,948.00
+0.20
+16.27
+4,947.65
+-20.65
+6.35
+-10.17
+0.45
+-0.08
+-136.20
+5,042.00
+0.34
+38.71
+5,041.65
+-20.27
+6.57
+-10.31
+0.18
+0.15
+23.87
+5,135.00
+0.50
+114.02
+5,134.65
+-20.22
+7.11
+-10.84
+0.57
+0.17
+80.98
+5,229.00
+0.74
+141.96
+5,228.65
+-20.87
+7.86
+-11.70
+0.40
+0.26
+29.72
+5,322.00
+0.20
+353.53
+5,321.64
+-21.18
+8.22
+-12.10
+0.99
+-0.58
+-159.60
+5,416.00
+0.32
+31.46
+5,415.64
+-20.79
+8.33
+-12.14
+0.22
+0.13
+40.35
+5,509.00
+0.41
+328.60
+5,508.64
+-20.29
+8.30
+-12.01
+0.42
+0.10
+-67.59
+5,603.00
+0.43
+324.50
+5,602.64
+-19.71
+7.92
+-11.53
+0.04
+0.02
+-4.36
+5,695.00
+0.32
+316.39
+5,694.64
+-19.25
+7.54
+-11.07
+0.13
+-0.12
+-8.82
+5,789.00
+0.62
+240.25
+5,788.63
+-19.31
+6.92
+-10.47
+0.67
+0.32
+-81.00
+5,882.00
+0.14
+258.23
+5,881.63
+-19.58
+6.37
+-9.98
+0.53
+-0.52
+19.33
+5,891.00
+0.23
+275.39
+5,890.63
+-19.58
+6.34
+-9.95
+1.16
+1.00
+190.67
+Last SDI MWD Survey
+12/14/12 10:34:40AM
+COMPASS 5000.1 Build 40 
+Page 3
+Scientific Drilling International, Inc.
+Survey Report
+Well Atlanta 1 SWD
+Local Co-ordinate Reference:
+Continental Resources Inc.
+Company:
+GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+TVD Reference:
+Williams County, ND
+Project:
+GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+MD Reference:
+Atlanta
+Site:
+Atlanta 1 SWD
+Well:
+True
+North Reference:
+Minimum Curvature
+Survey Calculation Method:
+OH
+Wellbore:
+Design:
+OH
+Database:
+Rockies Compass Server
+Measured
+Depth
+(ft)
+Vertical
+Depth
+(ft)
++E/-W
+(ft)
++N/-S
+(ft)
+Local Coordinates
+Comment
+Design Annotations
+First Newsco Survey
+0.02
+0.12
+70.00
+70.00
+Last Newsco Survey
+-8.73
+1.69
+1,927.00
+1,926.96
+First SDI MWD Survey
+-9.33
+2.13
+2,050.00
+2,049.96
+Last SDI MWD Survey
+6.34
+-19.58
+5,891.00
+5,890.63
+Approved By:
+Checked By:
+Date:
+12/14/12 10:34:40AM
+COMPASS 5000.1 Build 40 
+Page 4
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+November 21, 2012 
+Terry L. Olson 
+Regulatory Compliance Specialist 
+CONTINENTAL RESOURCES, INC. 
+P.O. Box 268870 
+Oklahoma City, OK 73126 
+  
+  
+ 
+ 
+ 
+ 
+RE:      VERTICAL  WELL 
+  
+ 
+ 
+ 
+ 
+ 
+ATLANTA  #1 SWD 
+  
+ 
+ 
+ 
+ 
+ 
+NWNW Section 6-153N-101W 
+  
+ 
+ 
+ 
+ 
+ 
+Williams County 
+  
+ 
+ 
+ 
+ 
+ 
+Well File # 90258 
+ 
+Dear Terry : 
+ 
+Pursuant to Commission Order No. 21271, approval to drill the above captioned well is hereby given.     
+ 
+PERMIT STIPULATIONS: This well is located on a Well Head Protection Area:  Onsite inspection required 
+(contact NDIC Field Inspector for site specific stipulations).  To include but not limited to: Closed Mud System, 
+no drilling pit, and impermeable liner is required on the entire location and a string of casing must be placed in 
+the rat and mouse hole and cemented to ground level.  CONTINENTAL RESOURCES must contact NDIC 
+Field Inspector John Axtman at 701-770-2564 prior to location construction. 
+ 
+Drilling pit 
+NDAC 43-02-03-19.4 states that “a pit may be utilized to bury drill cuttings and solids generated during well 
+drilling and completion operations, providing the pit can be constructed, used and reclaimed in a manner that will 
+prevent pollution of the land surface and freshwaters. Reserve and circulation of mud system through earthen pits 
+are prohibited. All pits shall be inspected by an authorized representative of the director prior to lining and use.  
+Drill cuttings and solids must be stabilized in a manner approved by the director prior to placement in a cuttings 
+pit.” 
+ 
+Permit Fee & Notification 
+ 
+Payment was received in the amount of $100 via credit card.  It is requested that notification be 
+given immediately upon the spudding of the well.  This information should be relayed to the Oil & Gas 
+Division, Bismarck, via telephone.  The following information must be included:  Well name, legal 
+location, permit number, drilling contractor, company representative, date and time of spudding.  Office 
+hours are 8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 5:00 p.m. Central Time. Our telephone number is 
+(701) 328-8020, leave a message if after hours or on the weekend.  
+ 
+ 
+ 
+ 
+ 
+ 
+Terry L. Olson 
+November 21, 2012 
+Page 2 
+ 
+ 
+Confidential status 
+ 
+Your request for confidential status of all information furnished to the Director, or his 
+representatives, is hereby granted.  Such information, except production runs, shall remain confidential 
+for six months commencing on the date the well is spud. 
+ 
+Confidential status notwithstanding, the Director and his representatives shall have access to all 
+well records wherever located. Your company personnel, or any person performing work for your 
+company shall permit the Director and his representatives to come upon any lease, property, well, or 
+drilling rig operated or controlled by them, complying with all safety rules, and to inspect the records 
+and operation of such wells and to have access at all times to any and all records of wells. The 
+Commission's field personnel periodically inspect producing and drilling wells.  Any information 
+regarding such wells shall be made available to them at any time upon request.  The information so 
+obtained by the field personnel shall be maintained in strict confidence and shall be available only to the 
+Commission and its staff. 
+ 
+Surface casing cement 
+ 
+Tail cement utilized on surface casing must have a minimum compressive strength of 500 psi 
+within 12 hours, and tail cement utilized on production casing must have a minimum compressive 
+strength of 500 psi before drilling the plug or initiating tests.   
+ 
+Logs 
+ 
+NDAC Section 43-02-03-31 requires the running of (1) a suite of open hole logs from which formation tops and 
+porosity zones can be determined, (2) a Gamma Ray Log run from total depth to ground level elevation of the well bore, and 
+(3) a log from which the presence and quality of cement can be determined (Standard CBL or Ultrasonic cement evaluation 
+log) in every well in which production or intermediate casing has been set, this log must be run prior to completing the well.  
+All logs run must be submitted free of charge, as one digital TIFF (tagged image file format) copy and one digital LAS (log 
+ASCII) formatted copy. Digital logs may be submitted on a standard CD, DVD, or attached to an email sent to 
+digitallogs@nd.gov   Thank you for your cooperation.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Sincerely,  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Stephen Fried  
+  
+ 
+ 
+ 
+ 
+ 
+UIC Supervisor 
+Feet
+Feet
+Feet MD
+Feet TVD
+Base of Last Salt (If Applicable)
+Sacks
+Feet
+Proposed Logs
+Estimated Total Depth (feet)
+Drilling Mud Type (Vertical Hole - Below Surface Casing)
+Feet MD
+0 Feet TVD
+"
+Lb./Ft.
+0
+Longstring Casing
+-
+Sacks
+and surface casing must be cemented back to surface.
+Proposed
+Size
+Weight(s)
+Longstring Total Depth
+Cement Volume
+Cement Top
+Top Dakota Sand
+NOTE: Surface hole must be drilled with fresh water
+Surface Casing
+-
+"
+Lb./Ft.
+Feet
+Size
+Weight
+Depth
+Cement Volume
+Feet
+Objective Horizons
+Pierre Shale Top
+Feet Above S.L.
+(Subject to NDIC Approval)
+°
+'
+"
+°
+Latitude of Well Head
+Longitude of Well Head
+NAD Reference
+Description of
+Approximate Date Work Will Start
+Confidential Status
+Type of Work
+Type of Well
+APPLICATION FOR PERMIT TO DRILL - FORM 1
+I hereby swear or affirm that the information provided is true, complete and correct as determined from all available records.
+Title
+Signature
+Printed Name
+Date
+Comments
+Ground Elevation
+Acres in Spacing/Drilling Unit
+'
+"
+Email Address(es)
+Proposed
+Title
+FOR STATE USE ONLY
+FOR STATE USE ONLY
+Pool
+Permit Type
+Field
+Date Approved
+By
+Permit and File Number
+API Number
+33-
+Zip Code
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD   DEPT 405
+BISMARCK, ND  58505-0840
+SFN 4615 (03-2006)
+Spacing/Drilling Unit Setback Requirement 
+Industrial Commission Order
+Address
+Range
+County
+Telephone Number
+City
+At Surface
+State
+Zip Code
+Name of Surface Owner or Tenant
+Address
+City
+State
+Well Number
+Qtr-Qtr
+Section
+Township
+F
+L
+F
+L
+WELL INFORMATION
+Well Name 
+L
+If Directional, Top of Pay
+Qtr-Qtr
+Section
+Township
+Range
+County
+Proposed Bottom Hole Location
+Qtr-Qtr
+Section
+Township
+Range
+County
+N
+W
+F
+L
+F
+L
+Operator
+N
+W
+N
+W
+L
+F
+F
+New Location
+Salt Water Disposal
+1 / 15 / 2013
+Yes
+CONTINENTAL RESOURCES, INC.
+(405) 234-9000
+P.O. Box 268870
+Oklahoma City
+OK
+73126
+Continental Resources, Inc.
+P.O. Box 268870
+Oklahoma City
+OK
+73126
+✔
+Notice has been provided to the owner of any
+permanently occupied dwelling within 1,320 feet.
+✔
+This well is not located within five hundred
+feet of an occupied dwelling.
+ATLANTA
+#1 SWD
+260
+N
+432
+W
+NWNW
+6
+153
+101
+Williams
+48
+06
+35.99
+-103
+43
+54.57
+NAD83
+Sec 6 T153N R101W
+1968
+Dakota
+1869
+9
+5/8
+36
+1970
+743
+7
+26
+6100
+6100
+385
+1970
+4927
+Base Last Charles Salt (If Applicable)
+6100
+6100
+Invert
+CBL/GR from deepest depth obtainable to ground surface
+Proposed FW casing: 13 3/8" 48#, 0-500', 189 sks cmt.
+9 /
+7
+/ 2012
+ePermit
+Terry L. Olson
+Regulatory Compliance Specialist
+90258
+33 - 105 - 90258
+11 / 21 / 2012
+BAKER
+Stephen Fried
+DAKOTA
+SALT WATER DISPOSAL
+UIC Supervisor
+REQUIRED ATTACHMENTS: Certified surveyors plat, estimated geological tops, proposed mud/cementing plans, $100 fee.
