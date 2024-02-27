@@ -6,8 +6,9 @@ pandas
 pdfplumber
 pydantic
 pydantic-settings
-pydrive
+pydrive2
 pymysql
+PyMuPDF
 rich
 requests
 selenium

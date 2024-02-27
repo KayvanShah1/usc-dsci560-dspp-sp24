@@ -14,7 +14,7 @@ class Path:
 
     env_file = os.path.join(package_dir, ".env")
     data_dir = os.path.join(root_dir, "data")
-    data_text_dir = os.path.join(data_dir, "text")
+    data_text_dir = os.path.join(data_dir, "raw-text")
 
     gcp_service_account_key = os.path.join(package_dir, "test-5681a-202ae82505a3.json")
 
@@ -35,6 +35,8 @@ class Settings(BaseSettings):
     USER_AGENT: str = Field(default="Oil Wells Data Scraper Bot")
 
     DRILLING_EDGE_BASE_URL: str = Field(default="https://www.drillingedge.com/")
+
+    GDRIVE_DATA_FOLDER_ID: str = Field(default="12g-bhOylyaMoLF5djocnAeZHBx-gsxgY")
 
 
 def get_logger(name):
@@ -63,5 +65,3 @@ def get_settings():
 
 
 config = get_settings()
-
-print(config)
