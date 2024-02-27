@@ -34,7 +34,8 @@ class Settings(BaseSettings):
 
     USER_AGENT: str = Field(default="Oil Wells Data Scraper Bot")
 
-    DRILLING_EDGE_BASE_URL: str = Field(default="https://www.drillingedge.com/")
+    DRILLING_EDGE_BASE_URL: str = "https://www.drillingedge.com"
+    DRILLING_EDGE_BASE_SEARCH_URL: str = f"{DRILLING_EDGE_BASE_URL}/search"
 
     GDRIVE_DATA_FOLDER_ID: str = Field(default="12g-bhOylyaMoLF5djocnAeZHBx-gsxgY")
 

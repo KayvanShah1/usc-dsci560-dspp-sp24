@@ -70,5 +70,9 @@ def process_pdfs():
     file_list = drive.ListFile({"q": f"'{folder_id}' in parents and trashed=false"}).GetList()
     file_list = [{"id": file_dict["id"], "title": file_dict["title"]} for file_dict in file_list]
 
-    for fileitem in tqdm(file_list[::-1]):
+    for fileitem in tqdm(file_list):
         process_pdf(fileitem, drive)
+
+
+if __name__ == "__main__":
+    process_pdfs()
