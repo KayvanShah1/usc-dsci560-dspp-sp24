@@ -23,7 +23,7 @@ def ingest_raw_data():
     bulk_ingest_raw(docs, db)
 
 
-def fetch_clean_data():
+def fetch_and_ingest_clean_data():
     clean_documents = []
 
     unique_ids = get_all_ids(db)
@@ -31,13 +31,11 @@ def fetch_clean_data():
         if not document_exists(api_id, db):
             well_details = get_well_details(api_no=api_id)
             well_details = schema.CleanWellData(**well_details)
-            clean_documents.append(well_details)
+            if well_details.well_name is not None:
+                clean_documents.append(well_details)
     bulk_ingest_clean(clean_documents, db)
 
 
-# ingest_raw_data()
-# fetch_clean_data()
-
-from pprint import pprint
-
-pprint(get_well_details(api_no="33-005-30347"))
+if __name__ == "__main__":
+    ingest_raw_data()
+    fetch_and_ingest_clean_data()
