@@ -1,9 +1,6 @@
-import json
-from typing import List
-import itertools
-import model
-import schema
-from settings import get_logger
+import app.model as model
+import app.schema as schema
+from app.settings import get_logger
 from sqlalchemy.orm import Session
 
 logger = get_logger(__file__)
@@ -17,4 +14,5 @@ def get_all_clean(db: Session):
         db (Session): SQLAlchemy database session.
     """
     posts = db.query(model.CleanWellDataModel).all()
-    return list(posts)
+    posts = schema.WellsData(data=[schema.CleanWellData(**post.__dict__) for post in posts])
+    return posts

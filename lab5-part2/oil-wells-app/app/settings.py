@@ -27,9 +27,9 @@ class Settings(BaseSettings):
     MYSQL_PORT: str = Field()
     MYSQL_DB_NAME: str = Field()
 
-    USER_AGENT: str = Field(default="Oil Wells Data Scraper Bot")
+    USER_AGENT: str = Field(default="Oil Wells Viz. Bot")
 
-    PROJECT_NAME: str = Field(default="Oil Wells Visualization Project")
+    PROJECT_NAME: str = Field(default="Oil Wells Analysis and Visualization Project")
 
     BACKEND_CORS_ORIGINS: list = Field(default=["*"])
     STATIC_ROOT: str = Field(default=Path.static_dir)
