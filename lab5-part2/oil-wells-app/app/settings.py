@@ -9,10 +9,12 @@ from rich.logging import RichHandler
 
 class Path:
     curr_file_dir = os.path.dirname(os.path.abspath(__file__))
-    package_dir = os.path.dirname(curr_file_dir)
-    root_dir = os.path.dirname(package_dir)
+    app_dir = os.path.dirname(curr_file_dir)
+    root_dir = os.path.dirname(app_dir)
 
-    env_file = os.path.join(package_dir, ".env")
+    env_file = os.path.join(app_dir, ".env")
+    templates_dir = os.path.join(app_dir, "templates")
+    static_dir = os.path.join(app_dir, "assets")
 
 
 class Settings(BaseSettings):
@@ -26,6 +28,11 @@ class Settings(BaseSettings):
     MYSQL_DB_NAME: str = Field()
 
     USER_AGENT: str = Field(default="Oil Wells Data Scraper Bot")
+
+    PROJECT_NAME: str = Field(default="Oil Wells Visualization Project")
+
+    BACKEND_CORS_ORIGINS: list = Field(default=["*"])
+    STATIC_ROOT: str = Field(default=Path.static_dir)
 
 
 def get_logger(name):

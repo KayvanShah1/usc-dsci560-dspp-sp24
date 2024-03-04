@@ -1,6 +1,7 @@
 beautifulsoup4
 fastapi[all]
 folium
+jinja2
 lxml
 numpy
 pandas

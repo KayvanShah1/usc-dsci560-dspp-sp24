@@ -1,0 +1,22 @@
+<html lang="en">
+	{% include '/includes/header.html' %}
+
+	<body class="text-white bg-dark">
+		{% include '/includes/navbar.html' %}
+		<div class="container mt-5 pt-4">
+			<h3 class="fs-4 mb-4 mt-2">Oil Wells Map</h2>
+			<div class="rounded" style="border-radius: 1rem !important; overflow: hidden;">
+                {{ map_html | safe }}
+            </div>
+		</div>
+
+		<!-- Option 1: Bootstrap Bundle with Popper -->
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+			integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+			crossorigin="anonymous"
+		></script>
+
+		{% include '/includes/footer.html' %}
+	</body>
+</html>
