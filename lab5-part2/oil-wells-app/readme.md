@@ -1,17 +1,17 @@
-## Lab 5 Part 1 - Oil Wells Data Extraction
+## Lab 5 Part 2 - Oil Wells Analysis and Visualization
 
 ### Important Files and Folders
-
-1. **`.env`**: File with environment variables.
-2. **`requirements.txt`**: File with dependencies to be installed for the project.
-3. **`docs/`**: Documentation including meeting minutes and README in PDF format.
-4. **`notebooks/`**: Experimental usage and testing of concepts.
+1. **`oil-wells-app/.env`**: File with environment variables.
+2. **`oil-wells-app/requirements.txt`**: File with dependencies to be installed for the project.
+3. **`oil-wells-app/`**: Directory containing the source code for the web app.
+4. **`docs/`**: Documentation including meeting minutes and README in PDF format.
+5. **`notebooks/`**: Experimental usage and testing of concepts.
 
 ### Setup
 
-1. Navigate to the `oil-wells-data-scraper` directory:
+1. Navigate to the `oil-wells-app` directory:
    ```bash
-   cd oil-wells-data-scraper
+   cd oil-wells-app
    ```
 
 2. Create and activate a virtual environment:
@@ -25,39 +25,30 @@
    pip install -r requirements.txt
    ```
 
-### Running the Script
+### Running the Web Application
 
 1. Ensure that:
    - All the important files and folders listed above are present at the correct location.
    - The virtual environment is created and activated.
 
 2. To run the script:
-   - Move into the `/src` directory:
+   - Ensure you are in the `/oil-wells-app` directory:
      ```bash
-     cd src
+     cd oil-wells-app
      ```
-   - Execute the `<file_name>.py` script:
+   - Start the web app:
      ```bash
-     python <file_name>.py
+     uvicorn app.main:app 
      ```
-
-### Execution Flow
-
-1. **PDF Extraction and Conversion**:
-   - Run `pdf2txt.py` to download PDF files from Google Drive, convert them into small-sized text files, and store them locally for further processing.
-
-2. **Data Processing and Database Ingestion**:
-   - Run `ingest.py` to process raw text files, extract relevant information, back it up in the database, filter out usable columns, extract additional data from URLs present in raw data, validate the data, and push it into the database.
 
 ### About Scripts
 
 | File Name    | Purpose                                                                                                   |
 |--------------|-----------------------------------------------------------------------------------------------------------|
-| `crud.py`    | Inserts scraped post information in bulk into the database, discarding posts that already exist.         |
-| `database.py`| Establishes a connection between Python and the SQL server.                                               |
-| `ingest.py`  | Ingests raw and clean data into the database.                                                             |
-| `extract.py` | Cleans and preprocesses text from scraped Reddit posts and linked websites, and extracts top keywords.    |
-| `pdf2txt.py` | Abstraction to download PDF documents from Drive, convert them to text files, and store them locally.     |
-| `model.py`   | Defines schema for data storage in the MySQL server. Creates tables if they don't exist.                   |
-| `schema.py`  | Creates Pydantic models to validate data format before storing it in the database.                         |
-| `settings.py`| Sets up access to certificates and environment credentials required for connecting to the MySQL database.  |
+| `crud.py`    | This file contains function definitions responsible for querying and processing oil wells data.           |
+| `database.py`| In this file, a connection is established between Python and the SQL server. It contains code to handle database connections, execute SQL queries, and manage transactions.  |
+| `main.py`    | Entry point for the FastAPI web application, handling basic routing and middleware configurations. It serves the home page with the oil wells analysis and visualization, and redirects any incorrect routes to the home page for a seamless user experience. |
+| `mapgen.py`  | This module creates a Folium map by processing well data and converting it into GeoJSON format. It performs format conversion on the well data to generate a GeoJSON representation suitable for mapping. The module then plots markers on the map, along with tooltips and popups to provide additional information about each well. Finally, it returns an HTML representation of the map embedded in the generated webpage. |
+| `model.py`   | In this file, the schema for data storage in the MySQL server is defined. It includes the structure of database tables and models, and it creates these tables if they do not already exist in the database. |
+| `schema.py`  |  This file defines Pydantic models, which are used for data validation and format conversion. Pydantic models ensure that the data sent to and received from the API endpoints conforms to a specified schema. |
+| `settings.py`| Here, environment credentials required for connecting to the MySQL database is set up. It handles configuration settings and environment variables used throughout the application. |
