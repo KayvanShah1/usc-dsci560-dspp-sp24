@@ -2,7 +2,7 @@ from app.settings import Path, config
 from app.mapgen import generate_map_html
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import HTMLResponse
+from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
@@ -33,3 +33,9 @@ app.mount("/static", StaticFiles(directory=config.STATIC_ROOT), name="static")
 async def root(request: Request):
     map_html = generate_map_html()
     return templates.TemplateResponse("index.html", {"request": request, "map_html": map_html})
+
+
+# Catch-all route to redirect any incorrect routes to the home page
+@app.get("/{path:path}")
+async def catch_all(request: Request, path: str):
+    return RedirectResponse(url="/", status_code=303)
