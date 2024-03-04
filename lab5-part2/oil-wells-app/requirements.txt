@@ -1,0 +1,13 @@
+beautifulsoup4
+fastapi[all]
+folium
+lxml
+numpy
+pandas
+pydantic
+pydantic-settings
+pymysql
+rich
+requests
+SQLAlchemy
+tqdm
