@@ -81,6 +81,12 @@ class WellsData(BaseModel):
                     },
                 },
             }
+
+            # Replace None values with "N/A" in stimulation_details
+            for key, value in feature["properties"]["stimulation_details"].items():
+                if value is None:
+                    feature["properties"]["stimulation_details"][key] = "N/A"
+
             features.append(feature)
 
         return {"type": "FeatureCollection", "features": features}
