@@ -15,7 +15,7 @@ def generate_map_html():
     w_geojson = wells.convert_to_geojson()
 
     # Create a Folium map centered at a specific location
-    m = folium.Map(location=center, zoom_start=12)
+    m = folium.Map(location=center, zoom_start=10)
 
     marker_cluster = MarkerCluster(name="marker_cluster", control=False).add_to(m)
 
