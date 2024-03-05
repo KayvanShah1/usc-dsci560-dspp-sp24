@@ -30,16 +30,43 @@
 1. Ensure that:
    - All the important files and folders listed above are present at the correct location.
    - The virtual environment is created and activated.
+   - `Apache2.4` is installed on your system and the service is running.
 
 2. To run the script:
-   - Ensure you are in the `/oil-wells-app` directory:
+   - __Navigate to the Project Directory__: 
+   First, ensure you are in the /oil-wells-app directory. You can change to this directory using the following command:
      ```bash
      cd oil-wells-app
      ```
-   - Start the web app:
+   - __Setting up Reverse Proxy Settings for Apache Server__: 
+   To configure the Apache Server to act as a reverse proxy for the FastAPI application, add the following snippet to the httpd.conf file:
+      ```xml
+      <VirtualHost *:80>
+         ServerName localhost:8000
+
+         # Preserve the original host header when proxying requests
+         ProxyPreserveHost On
+
+         # Proxy all requests to the FastAPI application running on port 8000
+         ProxyPass / http://127.0.0.1:8000/
+         ProxyPassReverse / http://127.0.0.1:8000/
+      </VirtualHost>
+      ```
+      Location of `httpd.conf` file:
+      - On Linux: The `httpd.conf` file is typically located in the `/etc/apache2/` directory.
+      - On Windows: You can usually find it in the `conf` directory inside the Apache installation folder, such as `C:\Program Files\Apache Software Foundation\Apache2.4\conf`.
+      - On macOS: The file can be found in the `conf` directory inside the Apache installation folder, similar to the Windows location.
+
+   - __Start the web app__: 
+   Run the following command to start the FastAPI web application:
      ```bash
-     uvicorn app.main:app 
+     uvicorn app.main:app
      ```
+     This command launches the FastAPI application, making it available for requests on port 8000 by default. If you wish to use a different port, you can specify it using the --port option followed by the desired port number.
+
+3. Script Operation and Communication with Apache Server:
+   
+   The script starts a FastAPI application using uvicorn on port 8000. It sets up Apache to act as a reverse proxy, forwarding requests to the FastAPI app. This allows Apache to handle incoming HTTP requests and route them to the FastAPI application, which processes the requests and generates responses. Apache then sends these responses back to the client.   
 
 ### About Python Files
 
