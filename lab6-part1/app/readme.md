@@ -1,11 +1,19 @@
 # PDFs Chatbot using Langchain, GPT 3.5 and Llama 2
-This is a Python GUI application that demonstrates how to build a custom PDF chatbot using LangChain and GPT 3.5 / Llama 2. 
+This is a Python GUI application that demonstrates how to build a custom PDF chatbot using LangChain and GPT 3.5 / Llama 2.
+
+
+### Important Files and Folders
+1. **`app/.env`**: File with environment variables.
+2. **`app/requirements.txt`**: File with dependencies to be installed for the project.
+3. **`app/`**: Directory containing the source code for the streamlit app.
+4. **`docs/`**: Documentation including meeting minutes and README in PDF format.
+<!-- 5. **`notebooks/`**: Experimental usage and testing of concepts. -->
 
 
 ## How it works (GPT 3.5)
 1. The application gui is built using streamlit
 2. The application reads text from PDF files, splits it into chunks
-3. Uses OpenAI Embedding API to generate embedding vectors used to find the most relevant content to a user's question 
+3. Uses OpenAI Embedding API to generate embedding vectors used to find the most relevant content to a user's question
 4. Build a conversational retrieval chain using Langchain
 5. Use OpenAI GPT API to generate respond based on content in PDF
 
@@ -20,11 +28,10 @@ This is a Python GUI application that demonstrates how to build a custom PDF cha
     ```
     OPENAI_API_KEY= # Your OpenAI API key
     ```
-### Note 
+### Note
 > Make sure you are in the `/app` directory
 
 ## Code Structure
-
 The code is structured as follows:
 
 - `app.py`: The main application file that defines the Streamlit gui app and the user interface.
