@@ -5,3 +5,4 @@ python-dotenv
 faiss-cpu 
 openai 
 sentence_transformers
+tiktoken
