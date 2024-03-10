@@ -1,0 +1,97 @@
+<!-- saved from url=(0027)http://eesof.tm.agilent.com -->
+<!--Force IE6 into quirks mode with this comment tag-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- *********************************************************** -->
+<title>Quick Install-Linux</title>
+<!-- *********************************************************** -->
+<link rel="stylesheet" type="text/css" href="../eesof.css">
+<script language="JavaScript" src="../CallFeedBack.js"></script>
+
+<style>
+
+</style>
+</head>
+
+
+<body>
+
+<div id="content_svgenesys">
+ <div class="padding">
+ <!-- <div id="headerband"></div> -->
+
+<!--doc, body text goes here -->
+
+<!-- *********************************************************** -->
+<div class="pdf"><a href="http://edadocs.software.keysight.com/pdf?callback=generatePDF&pageid=785231318&spacekey=ads2024" target="_blank" rel="nofollow"><img src="../images/pdf.png" alt="Download PDF" border="0"></a>&nbsp;&nbsp;<a href="../support/Offline_Help_Search_Tips.html"><img src="../images/search.png" alt="Read Search Tips" border="0"></a> &nbsp;<a href="#feedback"><img src="../images/feedback.png" alt="Submit  Feedback" border="0"></a></div>
+<div class="breadCrumb">
+&nbsp;<a href="../support/Home.html">Home</a>&nbsp;&gt;&nbsp;<a href="../support/Getting_Started.html">Getting Started</a>&nbsp;&gt;&nbsp;<a href="../support/Installation_and_License_Setup.html">Installation and License Setup</a>&nbsp;&gt;&nbsp;<a href="Quick_Install_and_License_Setup.html">Quick Install and License Setup</a>&nbsp;
+</div>
+<div id="headerband"></div>
+<div class="conf-macro output-block" data-hasbody="true" data-macro-name="scroll-ignore" style=" background-color: #efefef" title="The content of this Scroll Ignore macro will not be part of the export for selected Scroll apps"><p><br></p></div><p></p><h1 id="QuickInstallLinux-QuickInstall-Linux">Quick Install - Linux</h1><p>ADS can be installed on a Linux or UNIX machine after downloading the installation file from the <a class="external-link" href="http://www.keysight.com/main/product.jspx?nid=-34360.0.00&amp;lc=eng&amp;cc=SG" rel="nofollow">Keysight EEsof EDA Website</a>, as illustrated.</p><p><span class="confluence-embedded-file-wrapper"><img data-base-url="https://edadocs.software.keysight.com" data-image-src="/download/attachments/785231318/InstallFlowChart.png" data-linked-resource-container-id="785231318" data-linked-resource-container-version="7" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="InstallFlowChart.png" data-linked-resource-id="785231320" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" src="../docimages/InstallFlowChart.png"></span></p><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-ObtLic"> </span></p><h2 id="QuickInstallLinux-ObtainADSLicenseFile">Obtain ADS License File</h2><p>ADS requires a license to run. You can either apply for an <a class="external-link" href="http://www.keysight.com/find/eesof-ads-evaluation" rel="nofollow">Evaluation</a> or a <a class="external-link" href="http://www.keysight.com/find/softwaremanager" rel="nofollow">Purchased</a> license. Once the license request is approved, a license file (with <code>.lic</code> extension) is sent as an email attachment. Save this file on your computer at <em>$HPEESOF_DIR/Licensing/&lt;license tools version&gt;/linux_x86_64/bin</em>, where, <code>$HPEESOF_DIR</code> is the installation path.</p><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-supplatform"> </span></p><h2 id="QuickInstallLinux-SupportedPlatforms">Supported Platforms</h2><p>For more details on Supported Platforms, refer to the <a class="external-link" href="http://edadocs.software.keysight.com/display/support/ADS Supported Platforms" rel="nofollow">Supported Platforms</a> section.</p><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-SysReqWnd"> </span></p><h2 id="QuickInstallLinux-SystemRequirements">System Requirements</h2><p>The following are Keysight recommended configurations:</p><div class="table-wrap"><table class="wrapped confluenceTable"><colgroup> <col style="width: 377.0px;"> <col style="width: 421.0px;"><col style="width: 414.0px;"> </colgroup><tbody><tr><th class="confluenceTh" colspan="1"><br></th><th class="confluenceTh" colspan="1">Recommended</th><th class="confluenceTh" colspan="1">Minimum</th></tr><tr><th class="confluenceTh"><p>RAM</p></th><td class="confluenceTd"><p>32 GB RAM or higher</p></td><td class="confluenceTd" colspan="1">8 GB RAM or higher</td></tr><tr><th class="confluenceTh"><p>Hard Disk Space</p></th><td class="confluenceTd"><p>256 GB free disk space for the general operating system,<span> ADS installation and design/simulation storage</span></p></td><td class="confluenceTd" colspan="1">10 GB free disk space for the ADS installation directory and 100 GB for design/simulation storage</td></tr><tr><th class="confluenceTh"><p>Processor</p></th><td class="confluenceTd"><p>64-bit, multi-core CPU</p></td><td class="confluenceTd" colspan="1">64-bit CPU</td></tr><tr><th class="confluenceTh"><p>Screen Resolution</p></th><td class="confluenceTd"><p>1080p (1920x1080) or 4k (3840x2160) display resolution with true color</p></td><td class="confluenceTd" colspan="1">1024x768 display resolution with true color</td></tr><tr><th class="confluenceTh"><p>Model Development dependency for model development</p></th><td class="confluenceTd"><p>gcc 12.1.0</p></td><td class="confluenceTd" colspan="1"><span>gcc 12.1.0</span></td></tr><tr><th class="confluenceTh" colspan="1">Licensing System Requirement</th><td class="confluenceTd" colspan="1">Linux Standard Base (LSB)</td><td class="confluenceTd" colspan="1"><span>Linux Standard Base (LSB)</span></td></tr></tbody></table></div><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-adsDldPg"> </span></p><h2 id="QuickInstallLinux-DownloadADSInstaller">Download ADS Installer</h2><p>Click <a class="external-link" href="http://www.keysight.com/find/eesof-ads-latest-downloads" rel="nofollow">http://www.keysight.com/find/eesof-ads-latest-downloads</a> to download. Create a new directory, for example, <code>ads_setup</code>, and save the downloaded ADS installation file in this directory.</p><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-windowsgeneralinstallation"> </span></p><h2 id="QuickInstallLinux-InstallADS">Install ADS</h2><p>To install ADS, follow these steps.</p><ol><li>Untar the installation file using the following command: <code>      <strong> <em>tar –xvf</em> </strong> ads201X_XXX_linux_x86_64.tar</code></li><li>Start the installation program using the following command:<br><strong> <em>./SETUP.SH</em> </strong></li></ol><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-ADSLicSetup"> </span></p><h2 id="QuickInstallLinux-ADSLicenseSetup">ADS License Setup</h2><p>Both node-locked and floating licenses require <span class="tooltip conf-macro output-block" data-hasbody="false" data-macro-name="sqlglossary">license server 	<span class="tooltiptext">License Server is the machine where you set up the EEsof license. The EEsof license file contains the host ID of the License Server.</span> </span> to get installed and started. For a node-locked license, license server and the client machine are the same machine (that is, your local machine). For a floating license, these can be separate machines.</p><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-nodelocked"> </span></p><h3 id="QuickInstallLinux-Node-lockedLicense">Node-locked License</h3><p>To setup a counted license, follow the 3-step process:</p><span class="conf-macro output-inline" data-hasbody="true" data-macro-name="lp_note">
+<style>
+table.note_table {
+    border:none !important;
+}
+.note_table td {
+    border:none !important;
+}
+
+.note_td_one img {
+    padding-top:3px;
+width:56px;
+height:auto;
+}
+
+.note_td_two img {
+vertical-align:top;
+}
+
+
+.note_table:last-child{
+vertical-align:top;
+}
+</style>
+
+ 
+<div class="table-wrap"><table class="note_table confluenceTable">
+<tbody><tr>
+<td class="note_td_one confluenceTd" style="width:56px; border:none !important;">
+<span class="confluence-embedded-file-wrapper"><img data-base-url="https://edadocs.software.keysight.com" data-image-src="/download/attachments/4402026/note.svg" data-linked-resource-container-id="4402026" data-linked-resource-container-version="4" data-linked-resource-content-type="image/svg+xml" data-linked-resource-default-alias="note.svg" data-linked-resource-id="733725370" data-linked-resource-type="attachment" data-linked-resource-version="2" data-unresolved-comment-count="0" src="../docimages/note.svg"></span></td>
+<td class="note_td_two confluenceTd" style="vertical-align:top !important; border:none !important;">In case of a USB dongle, attach the dongle to the USB port and install the dongle drivers before you start License Server Managers (<strong> <em>lmgrd</em> </strong> and <strong> <em>agileesofd</em> </strong>).</td>
+</tr>
+</tbody></table></div></span><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-step1"> </span></p><h4 id="QuickInstallLinux-Step1:StartLicenseServerManagers(lmgrdandagileesofd)">Step 1: Start License Server Managers (<strong> <em>lmgrd</em> </strong> and <strong> <em>agileesofd</em> </strong>)</h4><p>Start the license server managers (<strong> <em>lmgrd</em> </strong> and <strong> <em>agileesofd</em> </strong>) on the machine to which the license is tied as follows:</p><ol><li>Change the directory to the <em>$HPEESOF_DIR/Licensing/&lt;license tools version&gt;/linux_x86_64/bin</em></li><li>Run the following command to start <strong> <em>lmgrd</em> </strong>:<br><code>      <strong> <em>./lmgrd -c</em> </strong> &lt;license file path&gt; <strong> <em>-l</em> </strong> &lt;license log file path&gt;</code> <br class="atl-forced-newline">where,<ul><li>&lt;license file path&gt; specifies one or more full path-names to the license file(s).</li><li>&lt;license log file path&gt; is the full path-name to the debug log file.</li></ul></li></ol><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-automateflexstart"> </span></p><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-step2"> </span></p><h4 id="QuickInstallLinux-Step2:AutomateFlexNetLicenseServerStartup">Step 2: Automate FlexNet License Server Startup</h4><p>To automate the License Server managers’ startup upon system reboot, see <a href="../license/Setting_Up_Node-Locked_License_on_Linux.html">Automate FlexNet License Server Startup</a> in <em>Licensing (For Administrators)</em>.</p><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-SetEnvVar"> </span></p><h4 id="QuickInstallLinux-Step3:SetProductEnvironmentVariable">Step 3: Set Product Environment Variable</h4><p>To use a node-locked license on your machine, set the <strong> <em>ADS_LICENSE_FILE</em> </strong> environment variable to point to the machine running the license server managers (<strong> <em>lmgrd</em> </strong> and <strong> <em>agileesofd</em> </strong>). For more information on product environment variables, see <a href="../license/License_Environment_Variables.html">License Environment Variables</a> in <em>Licensing (for Administrators)</em>.</p><p>To set the environment variable <strong> <em>ADS_LICENSE_FILE</em> </strong> in a shell, type the following commands:</p><p><strong>csh, tcsh</strong></p><p><code>setenv ADS_LICENSE_FILE $HOME/Keysight/Licenses/license.lic</code></p><p><strong>ksh, bash</strong></p><p><code>export ADS_LICENSE_FILE=$HOME/Keysight/Licenses/license.lic</code></p><h3 id="QuickInstallLinux-FloatingLicense">Floating License</h3><p>Setting up floating license on Linux is a two-step process where both server-side setup and client-side setup are needed.<br><strong>Step 1: Server-side setup</strong> <br>Repeat the following steps for each license server you have.<br>For server-side license setup, follow the steps <a href="#QuickInstallLinux-step1">1</a> and <a href="#QuickInstallLinux-step2">2</a> described in <a href="#QuickInstallLinux-nodelocked">Node-locked License</a> section.</p><p><strong>Step 2: Client-side setup</strong> <br>Once the license is configured successfully for all the license servers, configure each client computer to point to the network license server. <strong>License Setup Wizard</strong> offers the easiest method to get this done. Alternatively, you can perform this step manually by setting up product environment variables. For details, refer to step <a href="#QuickInstallLinux-SetEnvVar">3</a> of Node-locked License Setup section.</p><p><span class="confluence-anchor-link conf-macro output-inline" data-hasbody="false" data-macro-name="anchor" id="QuickInstallLinux-launchads"> </span></p><h2 id="QuickInstallLinux-LaunchADS">Launch ADS</h2><p>Before starting ADS, perform the following steps:</p><ol><li>Set the <code>HPEESOF_DIR</code> environment variable to point to the installation directory of ADS.<br>To set the environment variable HPEESOF_DIR in a shell, type the following commands:<br><strong>csh, tcsh</strong> <br><code>setenv HPEESOF_DIR &lt;INSTALL_DIR&gt;</code> <br><strong>ksh, bash</strong> <br><code>export HPEESOF_DIR=&lt;INSTALL_DIR&gt;</code></li><li>Set the path:<br><code>setenv PATH $HPEESOF_DIR/bin:$PATH</code></li><li>Launch ADS<br><code>ads</code></li></ol><p></p>
+
+<a name="feedback"></a>
+<div id="feedbackid" class="feedback">
+<table><tr>
+<td><form name="myform" action="../support/OfflineFeedback.html" target="iframe_a" method="get" >
+Was this topic helpful?
+<input type="radio" id="washelpfulyes" name="washelpful" value="Yes" onclick="launch();" > Yes 
+<input type="radio" id="washelpfulno" name="washelpful" value="No" onclick="launch();" > No
+<input type="hidden" name="spaceid" value="785776641">
+<input type="hidden" name="spacename" value="">
+<input type="hidden" name="spacekey" value="ads2024">
+<input type="hidden" name="pageid" value="785231318">
+<input type="hidden" name="pagetitle" value="Quick Install-Linux">
+</form>
+</td>
+</tr>
+</table>
+</div>
+<iframe id="feedform" frameborder="0" 
+name="iframe_a"scrolling="no"></iframe>
+
+<!-- *********************************************************** -->
+
+</div>
+
+<!-- Keysight Custom Footer Section -->
+</div>
+
+</body>
+</html>
