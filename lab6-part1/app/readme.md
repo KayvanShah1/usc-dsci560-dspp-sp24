@@ -1,5 +1,5 @@
 # PDFs Chatbot using Langchain, GPT 3.5 and Llama 2
-This is a Python gui application that demonstrates how to build a custom PDF chatbot using LangChain and GPT 3.5 / Llama 2. 
+This is a Python GUI application that demonstrates how to build a custom PDF chatbot using LangChain and GPT 3.5 / Llama 2. 
 
 
 ## How it works (GPT 3.5)
