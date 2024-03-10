@@ -12,15 +12,16 @@ This is a Python gui application that demonstrates how to build a custom PDF cha
 
 ## Requirements
 1. Install the following Python packages:
-```
-pip install streamlit pypdf2 langchain python-dotenv faiss-cpu openai sentence_transformers
-```
+    ```
+    pip install -r requirements.txt
+    ```
 
 2. Create a `.env` file in the root directory of the project and add the following environment variables:
-```
-OPENAI_API_KEY= # Your OpenAI API key
-```
-
+    ```
+    OPENAI_API_KEY= # Your OpenAI API key
+    ```
+### Note 
+> Make sure you are in the `/app` directory
 
 ## Code Structure
 
@@ -36,16 +37,17 @@ The code is structured as follows:
 
 
 ## How to run
-```
+```py
 streamlit run app.py
 ```
+> __Note__: Make sure you are in the `/app` directory
 
 
 ## Update to use Llama 2 running locally
 1. Install Python bindings for llama.cpp library
-```
-pip install llama-cpp-python
-```
+    ```
+    pip install llama-cpp-python
+    ```
 2. Download the llama 2 7B GGML model from https://huggingface.co/TheBloke/LLaMa-7B-GGML/blob/main/llama-7b.ggmlv3.q4_1.bin and place it in the models folder
 3. Switch language model to use Llama 2 loaded by LlamaCpp
 4. Switch embedding model to MiniLM-L6-v2 using HuggingFaceEmbeddings
