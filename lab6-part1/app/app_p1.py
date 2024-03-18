@@ -135,7 +135,7 @@ def driver(folder_path):
 
     # Conversation chain
     conversation_chain = get_conversation_chain(vectorstore)
-    print("\033[92mChatbot ready!\033[0m")
+    print("\033[92mChatbot ready!\033[0m\n")
 
     while True:
         user_question = input("\033[93mAsk a question (type 'quit' to exit):\033[0m ")
