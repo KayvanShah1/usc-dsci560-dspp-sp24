@@ -4,5 +4,6 @@ langchain
 python-dotenv 
 faiss-cpu 
 openai 
+sentencepiece
 sentence_transformers
 tiktoken
