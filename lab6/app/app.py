@@ -34,22 +34,20 @@ def get_text_chunks(text):
 
 
 def get_vectorstore(text_chunks):
-    embeddings = OpenAIEmbeddings()
-    # embeddings = HuggingFaceEmbeddings(
-    #     model_name="sentence-transformers/all-MiniLM-L6-v2")
+    # embeddings = OpenAIEmbeddings()
+    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
     vectorstore = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
     return vectorstore
 
 
 def get_conversation_chain(vectorstore):
-    llm = ChatOpenAI()
-    # llm = HuggingFacePipeline.from_model_id(
-    #     model_id="lmsys/vicuna-7b-v1.3",
-    #     task="text-generation",
-    #     model_kwargs={"temperature": 0.01},
-    # )
-    # llm = LlamaCpp(
-    #     model_path="models/llama-2-7b-chat.ggmlv3.q4_1.bin",  n_ctx=1024, n_batch=512)
+    # llm = ChatOpenAI()
+    llm = HuggingFacePipeline.from_model_id(
+        model_id="lmsys/vicuna-7b-v1.3",
+        task="text-generation",
+        model_kwargs={"temperature": 0.01},
+    )
+    # llm = LlamaCpp(model_path="models/llama-2-7b-chat.ggmlv3.q4_1.bin", n_ctx=1024, n_batch=512)
 
     memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
     conversation_chain = ConversationalRetrievalChain.from_llm(
@@ -94,13 +92,13 @@ def main():
 
     st.header("Chat with PDFs :robot_face:")
 
-    user_question = st.text_input("Ask questions about your documents (type 'exit' to quit):")
+    user_question = st.text_input("Ask questions about your documents:")
 
-    if user_question.lower().strip() == "exit":
-        # st.session_state.chat_history = None
-        # st.session_state.conversation = None
-        st.warning("Conversation ended...")
-        st.stop()
+    # if user_question.lower().strip() == "exit":
+    #     # st.session_state.chat_history = None
+    #     # st.session_state.conversation = None
+    #     st.warning("Conversation ended...")
+    #     st.stop()
 
     if user_question:
         if st.session_state.conversation is None:
