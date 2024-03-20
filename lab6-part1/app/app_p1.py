@@ -69,9 +69,9 @@ def handle_userinput(user_question):
 def handle_userinput_stdout(user_question, conversation_chain):
     response = conversation_chain({"question": user_question})
     pairs = [response["chat_history"][i : i + 2] for i in range(0, len(response["chat_history"]), 2)]
-    for pair in pairs:
-        print("\033[94mUser:\033[0m", pair[0].content)
-        print("\033[92mBot:\033[0m", pair[1].content, "\n")
+    pair = pairs[-1]
+    print("\033[94mUser:\033[0m", pair[0].content)
+    print("\033[92mBot:\033[0m", pair[1].content, "\n")
 
 
 def main():
