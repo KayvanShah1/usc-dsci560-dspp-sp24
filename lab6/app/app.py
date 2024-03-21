@@ -34,10 +34,10 @@ def get_text_chunks(text):
 
 
 def get_vectorstore(text_chunks):
-    embeddings = OpenAIEmbeddings()
-    # embeddings = HuggingFaceEmbeddings(
-    #     model_name="sentence-transformers/all-MiniLM-L6-v2", model_kwargs={"device": "cpu"}, multi_process=True
-    # )
+    # embeddings = OpenAIEmbeddings()
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-MiniLM-L6-v2", model_kwargs={"device": "cpu"}, multi_process=True
+    )
     vectorstore = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
     return vectorstore
 
@@ -49,7 +49,7 @@ def get_conversation_chain(vectorstore):
     #     task="text-generation",
     #     model_kwargs={"temperature": 0.01, "max_length": 1000},
     # )
-    # llm = LlamaCpp(model_path="models/llama-2-7b-chat.ggmlv3.q4_1.bin", n_ctx=1024, n_batch=512)
+    llm = LlamaCpp(model_path="models/llama-2-7b-chat.ggmlv3.q4_1.bin", n_ctx=1024, n_batch=512)
 
     memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
     conversation_chain = ConversationalRetrievalChain.from_llm(
