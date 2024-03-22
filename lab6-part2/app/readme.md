@@ -1,4 +1,4 @@
-# PDFs Chatbot using Langchain, GPT 3.5 and Llama 2
+# PDFs Question Answering Chatbot using Langchain, Llama 2
 This is a Python GUI application that demonstrates how to build a custom PDF chatbot using LangChain and GPT 3.5 / Llama 2.
 
 
@@ -34,9 +34,12 @@ This is a Python GUI application that demonstrates how to build a custom PDF cha
 
 3. Download the `llama-2-7b-chat` model
     ```bash
+    # Create a models directory, cd into it and download the model
     mkdir models
     cd models
-    wget 
+    wget https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/resolve/main/llama-2-7b-chat.Q3_K_S.gguf?download=true -O llama-2-7b-chat.Q3_K_S.gguf
+
+    # Move back to /app dir
     cd ..
     ```
 
