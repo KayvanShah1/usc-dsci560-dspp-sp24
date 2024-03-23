@@ -1,7 +1,19 @@
-# USC DSCI 560 - Data Science Professional Practicum - Spring 2024 - Prof. Young Cho
+# USC DSCI 560 - Data Science Professional Practicum - Spring 2024
 Please note that this repository serves as a reference guide and should be utilized as a tool for learning and comprehension. It's paramount to refrain from engaging in any activities associated with plagiarism. Embrace the wealth of knowledge herein to enhance your understanding and augment your skill set in the field of machine learning.
 
 Before diving in, take a moment to peruse the license and disclaimer. Understanding the terms laid out will ensure responsible utilization of the resources within this repository, promoting ethical learning practices.
+
+> [!TIP]
+> Before exploring the materials, take a moment to review the license and disclaimer for responsible utilization. The repository covers various topics, providing valuable insights and hands-on experience in Data Management.
+
+## Course Details:
+- **Course Name:** DSCI 560 - Data Science Professional Practicum
+- **Instructor:** Prof. Young Cho
+- **Semester:** Spring 2024
+- **About the Course:**
+  - Function and design of modern storage systems, including cloud; data management
+techniques; data modeling; network attached storage, clusters and data centers;
+relational databases; the map-reduce paradigm.
 
 Feel free to navigate through the folders, explore the assignments, delve into the projects, and utilize the solutions provided as learning aids. Whether you're a novice eager to grasp the fundamentals or an experienced practitioner seeking to refine your skills, this repository aims to be your companion in mastering the intricate intersection of machine learning and data science.
 
@@ -9,7 +21,11 @@ We encourage you to engage actively, experiment with the materials provided, and
 
 Happy learning!
 
+> [!CAUTION]
+> Please note that this repository serves as a reference guide and should be utilized as a tool for learning and comprehension. It's paramount to refrain from engaging in any activities associated with plagiarism. Embrace the wealth of knowledge herein to enhance your understanding and augment your skill set in the field of Data Engineering.
+
 ## Table of contents
+### Labs
 |  Lab  |  Topic Covered |
 |-------|--------------------------|
 | [Lab 1](/lab1/) | Web Scraping Stock Market Indicators and Latest News from CNBC World |
@@ -23,6 +39,7 @@ Happy learning!
 | [Lab 6 Part 1](/lab6-part1/) | PDFs Question Answering Chatbot using Langchain & OpenAI API |
 | [Lab 6 Part 2](/lab6-part2/) | PDFs Question Answering Chatbot using Langchain & Llama 2 |
 
+### Readings
 | Reading  | Paper Title |
 | --------- | ----------- |
 | [1](/reading1/) | CleanML: A Study for Evaluating the Impact of Data Cleaning on ML Classification Tasks |
