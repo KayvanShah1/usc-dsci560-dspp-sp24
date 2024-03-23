@@ -35,8 +35,8 @@ Happy learning!
 
 ## Authors
 1. [Kayvan Shah](https://github.com/KayvanShah1) | `MS in Applied Data Science` | `USC`
-1. [Soma Meghana Prathipati](https://github.com/KayvanShah1) | `MS in Applied Data Science` | `USC`
-1. [Shreyansh Baredia](https://github.com/KayvanShah1) | `MS in Applied Data Science` | `USC`
+1. [Soma Meghana Prathipati](https://github.com/sprathip) | `MS in Applied Data Science` | `USC`
+1. [Shreyansh Baredia](https://github.com/SHREYANSH-BARDIA) | `MS in Applied Data Science` | `USC`
 
 #### LICENSE
 This repository is licensed under the `BSD 5-Clause` License. See the [LICENSE](LICENSE) file for details.
