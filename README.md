@@ -10,18 +10,18 @@ We encourage you to engage actively, experiment with the materials provided, and
 Happy learning!
 
 ## Table of contents
-|  Lab  |  Part  | Topic Covered |
-|-------|--------|-------------------------|
-| Lab 1 |   | Web Scraping Stock Market Indicators and Latest News from CNBC World |
-| Lab 2 |   | Text Extraction from PDFs |
-| Lab 3 | 1 | Stock Price Analysis & Algorithmic Trading |
-| Lab 3 | 2 | Stock Price Forecasting & Mock Trading Environment |
-| Lab 4 | 1 | Subreddit Posts Data and Keyphrase Extraction |
-| Lab 4 | 2 | Clustering Analysis of Reddit Posts |
-| Lab 5 | 1 | Oil Wells Data Extraction |
-| Lab 5 | 2 | Oil Wells Analysis and Visualization |
-| Lab 6 | 1 | PDFs Question Answering Chatbot using Langchain & OpenAI API |
-| Lab 6 | 2 | PDFs Question Answering Chatbot using Langchain & Llama 2 |
+|  Lab  |  Topic Covered |
+|-------|--------------------------|
+| Lab 1 | Web Scraping Stock Market Indicators and Latest News from CNBC World |
+| Lab 2 | Text Extraction from PDFs |
+| Lab 3 | Stock Price Analysis & Algorithmic Trading |
+|  | Stock Price Forecasting & Mock Trading Environment |
+| Lab 4 | Subreddit Posts Data and Keyphrase Extraction |
+| | Clustering Analysis of Reddit Posts |
+| Lab 5 | Oil Wells Data Extraction |
+| | Oil Wells Analysis and Visualization |
+| Lab 6 | PDFs Question Answering Chatbot using Langchain & OpenAI API |
+|  | PDFs Question Answering Chatbot using Langchain & Llama 2 |
 
 | Reading  | Paper Title |
 | --------- | ----------- |
