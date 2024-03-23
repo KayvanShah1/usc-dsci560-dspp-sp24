@@ -12,29 +12,31 @@ Happy learning!
 ## Table of contents
 |  Lab  |  Part  | Topic Covered |
 |-------|--------|-------------------------|
-| Lab 1 |        | Classification, VC Dimension, Error Function Analysis |
-| Lab 2 |        | Exploratory Data Analysis and K-Nearest Neighbors Classification |
-| Lab 3 | Part 1 | Bias & Variance, EM, Bayesian Theory |
-| Lab 3 | Part 2 | Bias & Variance, EM, Bayesian Theory |
-| Lab 4 | Part 1 | Bias & Variance, EM, Bayesian Theory |
-| Lab 4 | Part 2 | Bias & Variance, EM, Bayesian Theory |
-| Lab 5 | Part 1 | Bias & Variance, EM, Bayesian Theory |
-| Lab 5 | Part 2 | Bias & Variance, EM, Bayesian Theory |
-| Lab 6 | Part 1 | Bias & Variance, EM, Bayesian Theory |
-| Lab 6 | Part 2 | Bias & Variance, EM, Bayesian Theory |
+| Lab 1 |        | Web Scraping Stock Market Indicators and Latest News from CNBC World |
+| Lab 2 |        | Text Extraction from PDFs |
+| Lab 3 |    1   | Stock Price Analysis & Algorithmic Trading |
+| Lab 3 |    2   | Stock Price Forecasting & Mock Trading Environment |
+| Lab 4 |    1   | Subreddit Posts Data and Keyphrase Extraction |
+| Lab 4 |    2   | Clustering Analysis of Reddit Posts |
+| Lab 5 |    1   | Oil Wells Data Extraction |
+| Lab 5 |    2   | Oil Wells Analysis and Visualization |
+| Lab 6 |    1   | PDFs Question Answering Chatbot using Langchain & OpenAI API |
+| Lab 6 |    2   | PDFs Question Answering Chatbot using Langchain & Llama 2 |
 
-| Readings  | Paper Title |
+| Reading  | Paper Title |
 | --------- | ----------- |
-| Reading 1 | CleanML: A Study for Evaluating the Impact of Data Cleaning on ML Classification Tasks |
-| Reading 2 | Deep learning-based NLP data pipeline for EHR-scanned document information extraction |
-| Reading 3 | Stock Price Forecasting Using Data From Yahoo Finance and Analysing Seasonal and Nonseasonal Trend |
-| Reading 4 | Can Blog Communication Dynamics be Correlated with Stock Market Activity? |
-| Reading 5 | Streaming Hierarchical Clustering for Concept Mining |
-| Reading 6 | A Physics-Guided Deep Learning Predictive Model for Robust Production Forecasting and Diagnostics in Unconventional Wells |
-| Reading 7 | Language Models are Unsupervised Multitask Learners |
+| 1 | CleanML: A Study for Evaluating the Impact of Data Cleaning on ML Classification Tasks |
+| 2 | Deep learning-based NLP data pipeline for EHR-scanned document information extraction |
+| 3 | Stock Price Forecasting Using Data From Yahoo Finance and Analysing Seasonal and Nonseasonal Trend |
+| 4 | Can Blog Communication Dynamics be Correlated with Stock Market Activity? |
+| 5 | Streaming Hierarchical Clustering for Concept Mining |
+| 6 | A Physics-Guided Deep Learning Predictive Model for Robust Production Forecasting and Diagnostics in Unconventional Wells |
+| 7 | Language Models are Unsupervised Multitask Learners |
 
 ## Authors
 1. [Kayvan Shah](https://github.com/KayvanShah1) | `MS in Applied Data Science` | `USC`
+1. [Soma Meghana Prathipati](https://github.com/KayvanShah1) | `MS in Applied Data Science` | `USC`
+1. [Shreyansh Baredia](https://github.com/KayvanShah1) | `MS in Applied Data Science` | `USC`
 
 #### LICENSE
 This repository is licensed under the `BSD 5-Clause` License. See the [LICENSE](LICENSE) file for details.
