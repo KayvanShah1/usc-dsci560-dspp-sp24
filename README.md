@@ -10,17 +10,28 @@ We encourage you to engage actively, experiment with the materials provided, and
 Happy learning!
 
 ## Table of contents
-| Lab | Topic Covered |
-|-------|-------------------------------|
-| Lab 1 | Classification, VC Dimension, Error Function Analysis |
-| Lab 2 | Exploratory Data Analysis and K-Nearest Neighbors Classification |
-| Lab 3 | Bias & Variance, EM, Bayesian Theory |
-| Lab 4 | Decision Trees and Naive Bayes |
-| Lab 5 | Image Classification on MNIST using simple NN, CNN |
-| Lab 6 | Image Classification on CIFAR-10 dataset using CNNs |
-| ----- | --- |
-| Midterm | Midterm 1 |
-| Project | Landmarks & Category Classification |
+|  Lab  |  Part  | Topic Covered |
+|-------|--------|-------------------------|
+| Lab 1 |        | Classification, VC Dimension, Error Function Analysis |
+| Lab 2 |        | Exploratory Data Analysis and K-Nearest Neighbors Classification |
+| Lab 3 | Part 1 | Bias & Variance, EM, Bayesian Theory |
+| Lab 3 | Part 2 | Bias & Variance, EM, Bayesian Theory |
+| Lab 4 | Part 1 | Bias & Variance, EM, Bayesian Theory |
+| Lab 4 | Part 2 | Bias & Variance, EM, Bayesian Theory |
+| Lab 5 | Part 1 | Bias & Variance, EM, Bayesian Theory |
+| Lab 5 | Part 2 | Bias & Variance, EM, Bayesian Theory |
+| Lab 6 | Part 1 | Bias & Variance, EM, Bayesian Theory |
+| Lab 6 | Part 2 | Bias & Variance, EM, Bayesian Theory |
+
+| Readings  | Paper Title |
+| --------- | ----------- |
+| Reading 1 | CleanML: A Study for Evaluating the Impact of Data Cleaning on ML Classification Tasks |
+| Reading 2 | Deep learning-based NLP data pipeline for EHR-scanned document information extraction |
+| Reading 3 | Stock Price Forecasting Using Data From Yahoo Finance and Analysing Seasonal and Nonseasonal Trend |
+| Reading 4 | Can Blog Communication Dynamics be Correlated with Stock Market Activity? |
+| Reading 5 | Streaming Hierarchical Clustering for Concept Mining |
+| Reading 6 | A Physics-Guided Deep Learning Predictive Model for Robust Production Forecasting and Diagnostics in Unconventional Wells |
+| Reading 7 | Language Models are Unsupervised Multitask Learners |
 
 ## Authors
 1. [Kayvan Shah](https://github.com/KayvanShah1) | `MS in Applied Data Science` | `USC`
