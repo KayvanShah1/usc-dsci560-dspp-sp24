@@ -1,5 +1,5 @@
 # USC DSCI 560 - Data Science Professional Practicum - Spring 2024
-Please note that this repository serves as a reference guide and should be utilized as a tool for learning and comprehension. It's paramount to refrain from engaging in any activities associated with plagiarism. Embrace the wealth of knowledge herein to enhance your understanding and augment your skill set in the field of machine learning.
+Please note that this repository serves as a reference guide and should be utilized as a tool for learning and comprehension. It's paramount to refrain from engaging in any activities associated with plagiarism. Embrace the wealth of knowledge herein to enhance your understanding and augment your skill set in the field of machine learning, data science and analytics.
 
 Before diving in, take a moment to peruse the license and disclaimer. Understanding the terms laid out will ensure responsible utilization of the resources within this repository, promoting ethical learning practices.
 
@@ -10,10 +10,6 @@ Before diving in, take a moment to peruse the license and disclaimer. Understand
 - **Course Name:** DSCI 560 - Data Science Professional Practicum
 - **Instructor:** Prof. Young Cho
 - **Semester:** Spring 2024
-- **About the Course:**
-  - Function and design of modern storage systems, including cloud; data management
-techniques; data modeling; network attached storage, clusters and data centers;
-relational databases; the map-reduce paradigm.
 
 Feel free to navigate through the folders, explore the assignments, delve into the projects, and utilize the solutions provided as learning aids. Whether you're a novice eager to grasp the fundamentals or an experienced practitioner seeking to refine your skills, this repository aims to be your companion in mastering the intricate intersection of machine learning and data science.
 
@@ -22,33 +18,34 @@ We encourage you to engage actively, experiment with the materials provided, and
 Happy learning!
 
 > [!CAUTION]
-> Please note that this repository serves as a reference guide and should be utilized as a tool for learning and comprehension. It's paramount to refrain from engaging in any activities associated with plagiarism. Embrace the wealth of knowledge herein to enhance your understanding and augment your skill set in the field of Data Engineering.
+> Please note that this repository serves as a reference guide and should be utilized as a tool for learning and comprehension. It's paramount to refrain from engaging in any activities associated with plagiarism. Embrace the wealth of knowledge herein to enhance your understanding and augment your skill set in the field of Applied Machine Learning.
 
 ## Table of contents
-### Labs
-|  Lab  |  Topic Covered |
-|-------|--------------------------|
-| [Lab 1](/lab1/) | Web Scraping Stock Market Indicators and Latest News from CNBC World |
-| [Lab 2](/lab2/) | Text Extraction from PDFs |
-| [Lab 3 Part 1](/lab3-part1/) | Stock Price Analysis & Algorithmic Trading |
-| [Lab 3 Part 2](/lab3-part2/) | Stock Price Forecasting & Mock Trading Environment |
-| [Lab 4 Part 1](/lab4-part1/) | Subreddit Posts Data and Keyphrase Extraction |
-| [Lab 4 Part 2](/lab4-part2/) | Clustering Analysis of Reddit Posts |
-| [Lab 5 Part 1](/lab5-part1/) | Oil Wells Data Extraction |
-| [Lab 5 Part 2](/lab5-part2/) | Oil Wells Analysis and Visualization |
-| [Lab 6 Part 1](/lab6-part1/) | PDFs Question Answering Chatbot using Langchain & OpenAI API |
-| [Lab 6 Part 2](/lab6-part2/) | PDFs Question Answering Chatbot using Langchain & Llama 2 |
+### Labs & Project
+|  Lab  |  Topic Covered | Grade |
+|-------|--------------------------|--------|
+| [Lab 1](/lab1/) | Web Scraping Stock Market Indicators and Latest News from CNBC World | 100/100 |
+| [Lab 2](/lab2/) | Text Extraction from PDFs | 100/100 |
+| [Lab 3 Part 1](/lab3-part1/) | Stock Price Analysis & Algorithmic Trading | 100/100 |
+| [Lab 3 Part 2](/lab3-part2/) | Stock Price Forecasting & Mock Trading Environment | 95/100 |
+| [Lab 4 Part 1](/lab4-part1/) | Subreddit Posts Data and Keyphrase Extraction | 100/100 |
+| [Lab 4 Part 2](/lab4-part2/) | Clustering Analysis of Reddit Posts | 100/100 |
+| [Lab 5 Part 1](/lab5-part1/) | Oil Wells Data Extraction | 100/100 |
+| [Lab 5 Part 2](/lab5-part2/) | Oil Wells Analysis and Visualization | 100/100 |
+| [Lab 6 Part 1](/lab6-part1/) | PDFs Question Answering Chatbot using Langchain & OpenAI API | 100/100 |
+| [Lab 6 Part 2](/lab6-part2/) | PDFs Question Answering Chatbot using Langchain & Llama 2 | 100/100 |
+| [Final Project](/final-project/) | [VirtuTA: AI-enabled Virtual Teaching Assistant](https://github.com/KayvanShah1/AI-Virtual-Teaching-Assistant)  | 8.18/10 |
 
 ### Readings
-| Reading  | Paper Title |
-| --------- | ----------- |
-| [1](/reading1/) | CleanML: A Study for Evaluating the Impact of Data Cleaning on ML Classification Tasks |
-| [2](/reading2/) | Deep learning-based NLP data pipeline for EHR-scanned document information extraction |
-| [3](/reading3/) | Stock Price Forecasting Using Data From Yahoo Finance and Analysing Seasonal and Nonseasonal Trend |
-| [4](/reading4/) | Can Blog Communication Dynamics be Correlated with Stock Market Activity? |
-| [5](/reading5/) | Streaming Hierarchical Clustering for Concept Mining |
-| [6](/reading6/) | A Physics-Guided Deep Learning Predictive Model for Robust Production Forecasting and Diagnostics in Unconventional Wells |
-| [7](/reading7/) | Language Models are Unsupervised Multitask Learners |
+| Reading  | Paper Title | Grade |
+| --------- | ----------- | ------- |
+| [1](/reading1/) | CleanML: A Study for Evaluating the Impact of Data Cleaning on ML Classification Tasks | 100/100 |
+| [2](/reading2/) | Deep learning-based NLP data pipeline for EHR-scanned document information extraction | 100/100 |
+| [3](/reading3/) | Stock Price Forecasting Using Data From Yahoo Finance and Analysing Seasonal and Nonseasonal Trend | 100/100 |
+| [4](/reading4/) | Can Blog Communication Dynamics be Correlated with Stock Market Activity? | 100/100 |
+| [5](/reading5/) | Streaming Hierarchical Clustering for Concept Mining | 100/100 |
+| [6](/reading6/) | A Physics-Guided Deep Learning Predictive Model for Robust Production Forecasting and Diagnostics in Unconventional Wells | 100/100 |
+| [7](/reading7/) | Language Models are Unsupervised Multitask Learners | 100/100 |
 
 ## Authors
 1. [Kayvan Shah](https://github.com/KayvanShah1) | `MS in Applied Data Science` | `USC`
