@@ -34,7 +34,7 @@ Happy learning!
 | [Lab 5 Part 2](/lab5-part2/) | Oil Wells Analysis and Visualization | 100/100 |
 | [Lab 6 Part 1](/lab6-part1/) | PDFs Question Answering Chatbot using Langchain & OpenAI API | 100/100 |
 | [Lab 6 Part 2](/lab6-part2/) | PDFs Question Answering Chatbot using Langchain & Llama 2 | 100/100 |
-| [Final Project](/final-project/) | [VirtuTA: AI-enabled Virtual Teaching Assistant](https://github.com/KayvanShah1/AI-Virtual-Teaching-Assistant)  | 8.18/10 |
+| [Final Project](/final-project/) | [VirtuTA: AI-enabled Virtual Teaching Assistant](https://github.com/KayvanShah1/VirtuTA)  | 8.18/10 |
 
 ### Readings
 | Reading  | Paper Title | Grade |
