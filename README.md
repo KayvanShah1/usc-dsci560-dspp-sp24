@@ -51,7 +51,7 @@ Happy learning!
 1. [Kayvan Shah](https://github.com/KayvanShah1) | `MS in Applied Data Science` | `USC`
 
 ### Contributors (Group Members)
-1. [Soma Meghana Prathipati](https://www.linkedin.com/in/soma-meghana-p-/) | `MS in Applied Data Science` | `USC` -->
+1. [Soma Meghana Prathipati](https://www.linkedin.com/in/soma-meghana-p-/) | `MS in Applied Data Science` | `USC`
 1. [Shreyansh Baredia](https://github.com/SHREYANSH-BARDIA) | `MS in Applied Data Science` | `USC`
 
 #### LICENSE
